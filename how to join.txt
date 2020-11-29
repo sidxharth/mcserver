@@ -1,0 +1,8 @@
+1)from same pc - address : 0 or localhost or 127.0.0.1
+
+2)from same network but different pc : address :ipv4 address of host(where server running)
+
+3) from different part of world
+
+ngrok tcp -region in 25565 
+enter given address from other computer
