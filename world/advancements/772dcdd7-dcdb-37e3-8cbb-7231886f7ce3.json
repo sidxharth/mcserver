@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-30 14:02:55 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-11-23 23:32:33 +0530"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-11-30 14:46:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-11-23 23:35:07 +0530"
@@ -278,6 +290,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-11-23 18:17:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-30 14:02:55 +0530"
     },
     "done": true
   },
@@ -422,6 +440,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-11-23 16:57:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-11-30 14:46:51 +0530"
     },
     "done": true
   },
@@ -639,6 +663,12 @@
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-11-24 17:07:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-11-30 14:33:07 +0530"
     },
     "done": true
   },
@@ -984,8 +1014,11 @@
       "minecraft:mountains": "2020-11-23 16:39:04 +0530",
       "minecraft:forest": "2020-11-23 16:47:42 +0530",
       "minecraft:taiga": "2020-11-23 23:45:27 +0530",
+      "minecraft:desert_hills": "2020-11-30 14:09:30 +0530",
+      "minecraft:deep_cold_ocean": "2020-11-30 15:07:42 +0530",
       "minecraft:taiga_hills": "2020-11-30 12:49:52 +0530",
       "minecraft:desert": "2020-11-30 13:09:05 +0530",
+      "minecraft:deep_frozen_ocean": "2020-11-30 15:14:13 +0530",
       "minecraft:birch_forest": "2020-11-30 13:19:31 +0530",
       "minecraft:deep_lukewarm_ocean": "2020-11-23 21:59:44 +0530",
       "minecraft:beach": "2020-11-23 16:48:13 +0530",
@@ -1105,6 +1138,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2020-11-27 21:57:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-11-30 14:46:51 +0530"
     },
     "done": true
   },
@@ -1511,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-30 14:02:55 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-11-23 17:57:57 +0530"
@@ -1544,6 +1589,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-11-24 23:02:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-30 14:02:55 +0530"
     },
     "done": true
   },
@@ -1939,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-30 14:02:55 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-11-23 23:50:50 +0530"
@@ -2062,6 +2119,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-23 17:29:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-30 14:02:55 +0530"
     },
     "done": true
   },
@@ -2230,6 +2293,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-11-24 23:01:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-11-30 14:48:46 +0530"
     },
     "done": true
   },
@@ -2404,6 +2473,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-11-26 12:30:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-30 14:02:55 +0530"
     },
     "done": true
   },
