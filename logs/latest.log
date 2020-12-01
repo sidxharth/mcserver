@@ -1,61 +1,116 @@
-[21:41:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:41:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:41:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:41:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:41:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:41:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:41:12] [main/INFO]: Reloading ResourceManager: Default
-[21:41:13] [Worker-Main-14/INFO]: Loaded 7 recipes
-[21:41:14] [Worker-Main-14/INFO]: Loaded 927 advancements
-[21:41:16] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[21:41:16] [Server thread/INFO]: Loading properties
-[21:41:16] [Server thread/INFO]: Default game type: SURVIVAL
-[21:41:16] [Server thread/INFO]: Generating keypair
-[21:41:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:41:16] [Server thread/INFO]: Using default channel type
-[21:41:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:41:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:41:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:41:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:41:19] [Server thread/INFO]: Preparing level "world"
-[21:41:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:41:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:41:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:41:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:41:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:41:22] [Server thread/INFO]: Preparing spawn area: 0%
-[21:41:22] [Server thread/INFO]: Preparing spawn area: 49%
-[21:41:23] [Server thread/INFO]: Time elapsed: 4007 ms
-[21:41:24] [Server thread/INFO]: Done (4.232s)! For help, type "help"
-[21:42:26] [Server thread/INFO]: RitikKhatri[/127.0.0.1:35716] logged in with entity id 75 at (187.29591528694894, 84.0, -567.3619158249469)
-[21:42:26] [Server thread/INFO]: RitikKhatri joined the game
-[21:57:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2414, l='ServerLevel[world]', x=240.17, y=79.00, z=-551.84]
-[22:24:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6539, l='ServerLevel[world]', x=238.17, y=79.00, z=-552.23]
-[22:25:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6611, l='ServerLevel[world]', x=239.30, y=79.00, z=-548.34]
-[22:26:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6826, l='ServerLevel[world]', x=239.63, y=79.00, z=-550.25]
-[22:40:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8927, l='ServerLevel[world]', x=237.01, y=79.00, z=-548.53]
-[22:42:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9092, l='ServerLevel[world]', x=239.31, y=79.00, z=-547.83]
-[23:00:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12042, l='ServerLevel[world]', x=237.96, y=79.00, z=-549.42]
-[23:14:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/13944, l='ServerLevel[world]', x=240.17, y=79.00, z=-551.97]
-[23:16:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14149, l='ServerLevel[world]', x=236.64, y=79.00, z=-546.83]
-[23:25:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/15377, l='ServerLevel[world]', x=239.00, y=79.00, z=-548.77]
-[23:26:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/15504, l='ServerLevel[world]', x=238.72, y=79.00, z=-552.75]
-[23:30:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16160, l='ServerLevel[world]', x=237.63, y=79.00, z=-549.83]
-[23:31:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16173, l='ServerLevel[world]', x=238.13, y=79.00, z=-549.81]
-[23:40:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17789, l='ServerLevel[world]', x=238.81, y=79.00, z=-551.86]
-[23:43:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18184, l='ServerLevel[world]', x=236.16, y=79.00, z=-548.85]
-[23:50:59] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[23:50:59] [Server thread/INFO]: RitikKhatri left the game
-[23:51:06] [Server thread/INFO]: Stopping the server
-[23:51:06] [Server thread/INFO]: Stopping server
-[23:51:06] [Server thread/INFO]: Saving players
-[23:51:06] [Server thread/INFO]: Saving worlds
-[23:51:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:51:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:51:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:51:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:51:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:51:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:51:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:51:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:51:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:27:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:27:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:27:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:27:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:27:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:27:12] [main/INFO]: Reloading ResourceManager: Default
+[11:27:13] [Worker-Main-11/INFO]: Loaded 7 recipes
+[11:27:13] [Worker-Main-11/INFO]: Loaded 927 advancements
+[11:27:15] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[11:27:15] [Server thread/INFO]: Loading properties
+[11:27:15] [Server thread/INFO]: Default game type: SURVIVAL
+[11:27:15] [Server thread/INFO]: Generating keypair
+[11:27:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:27:16] [Server thread/INFO]: Using default channel type
+[11:27:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:27:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:27:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:27:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:27:19] [Server thread/INFO]: Preparing level "world"
+[11:27:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:27:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:27:26] [Server thread/INFO]: Time elapsed: 6717 ms
+[11:27:26] [Server thread/INFO]: Done (7.010s)! For help, type "help"
+[11:28:35] [Server thread/INFO]: RitikKhatri[/127.0.0.1:4050] logged in with entity id 77 at (194.5240235948185, 88.5, -543.6748387665498)
+[11:28:35] [Server thread/INFO]: RitikKhatri joined the game
+[11:35:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1331, l='ServerLevel[world]', x=238.79, y=79.00, z=-547.83]
+[11:36:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1422, l='ServerLevel[world]', x=233.47, y=79.00, z=-547.87]
+[11:47:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3172, l='ServerLevel[world]', x=239.67, y=79.00, z=-552.69]
+[12:08:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6635, l='ServerLevel[world]', x=238.78, y=79.00, z=-548.90]
+[12:26:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8960, l='ServerLevel[world]', x=240.17, y=79.00, z=-548.22]
+[12:30:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9456, l='ServerLevel[world]', x=238.61, y=79.00, z=-553.17]
+[12:37:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10320, l='ServerLevel[world]', x=239.60, y=79.00, z=-553.17]
+[12:41:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10745, l='ServerLevel[world]', x=239.75, y=79.00, z=-552.45]
+[12:42:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10888, l='ServerLevel[world]', x=238.61, y=79.00, z=-553.17]
+[12:47:10] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[12:47:10] [Server thread/INFO]: RitikKhatri left the game
+[12:51:03] [Server thread/INFO]: RitikKhatri[/127.0.0.1:1743] logged in with entity id 11345 at (171.09178163495898, 76.0, -541.0333692774387)
+[12:51:03] [Server thread/INFO]: RitikKhatri joined the game
+[12:51:20] [Server thread/INFO]: r0nn1e4869[/0:0:0:0:0:0:0:1:1755] logged in with entity id 11525 at (8.5, 64.0, -184.5)
+[12:51:20] [Server thread/INFO]: r0nn1e4869 joined the game
+[12:51:43] [Server thread/INFO]: <RitikKhatri> 174,y,-542
+[12:51:45] [Server thread/INFO]: <RitikKhatri> mera base
+[12:53:21] [Server thread/INFO]: <RitikKhatri> apne coordinates bta
+[12:54:25] [Server thread/INFO]: <r0nn1e4869> 66 66 -213
+[12:54:43] [Server thread/INFO]: <RitikKhatri> mai arha
+[12:55:37] [Server thread/WARN]: Horse (vehicle of RitikKhatri) moved wrongly! 0.46935698572173123
+[12:57:05] [Server thread/INFO]: <r0nn1e4869> kidhar jaa rha hai
+[12:57:44] [Server thread/INFO]: <RitikKhatri> lol ye kya sir hai
+[12:58:30] [Server thread/INFO]: <r0nn1e4869> abe kha gya
+[12:58:51] [Server thread/INFO]: <RitikKhatri> cave se bhara aa
+[13:00:56] [Server thread/INFO]: r0nn1e4869 has made the advancement [Sweet Dreams]
+[13:01:09] [Server thread/INFO]: <RitikKhatri> ye mera bhar nhi hai
+[13:01:21] [Server thread/INFO]: <RitikKhatri> ghar*
+[13:02:59] [Server thread/INFO]: <RitikKhatri> ye red/pink wala mere dost ka hai
+[13:03:15] [Server thread/INFO]: <RitikKhatri> aur ye green wala mera
+[13:03:20] [Server thread/INFO]: <RitikKhatri> alsmost complete hai
+[13:03:30] [Server thread/INFO]: <RitikKhatri> ek hata hua hai shuru kiye
+[13:03:31] [Server thread/INFO]: <r0nn1e4869> nice
+[13:04:27] [Server thread/INFO]: <RitikKhatri> ye piche wlaa area thoda ganda hai
+[13:04:31] [Server thread/INFO]: <RitikKhatri> temporary
+[13:05:06] [Server thread/INFO]: <RitikKhatri> tujhe kya kya ata hai
+[13:05:24] [Server thread/INFO]: <r0nn1e4869> kuch nhi bhai
+[13:05:38] [Server thread/INFO]: <RitikKhatri> kya karega phir
+[13:05:54] [Server thread/INFO]: <r0nn1e4869> krunga bhai tutorial
+[13:08:14] [Server thread/INFO]: <RitikKhatri> tu chahe to ghar bna le chota mota us taraf
+[13:08:23] [Server thread/INFO]: <r0nn1e4869> ok
+[13:08:30] [Server thread/INFO]: <RitikKhatri> tools use karna aate hai?
+[13:08:50] [Server thread/INFO]: <RitikKhatri> pickaxe blocks ke liye,axe ped katne ke liye etc
+[13:10:20] [Server thread/INFO]: <r0nn1e4869> bhai sb dekh rha hun abhi
+[13:11:58] [Server thread/INFO]: <RitikKhatri> sun, mai break le rha hi, kafi der se khel rha.
+[13:12:03] [Server thread/INFO]: <RitikKhatri> server on hai.
+[13:12:15] [Server thread/INFO]: <RitikKhatri> jab night hoe to is bed pe so jaio
+[13:12:42] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[13:12:42] [Server thread/INFO]: RitikKhatri left the game
+[13:12:57] [Server thread/INFO]: r0nn1e4869 lost connection: Disconnected
+[13:12:57] [Server thread/INFO]: r0nn1e4869 left the game
+[13:27:42] [Server thread/INFO]: RitikKhatri[/127.0.0.1:2965] logged in with entity id 16020 at (172.23986508183208, 75.0, -536.8157161019664)
+[13:27:42] [Server thread/INFO]: RitikKhatri joined the game
+[13:27:58] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[13:27:58] [Server thread/INFO]: RitikKhatri left the game
+[13:37:14] [Server thread/INFO]: RitikKhatri[/127.0.0.1:3459] logged in with entity id 16225 at (172.23986508183208, 75.0, -536.8157161019664)
+[13:37:14] [Server thread/INFO]: RitikKhatri joined the game
+[13:56:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18605, l='ServerLevel[world]', x=238.78, y=79.00, z=-552.69]
+[13:57:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18853, l='ServerLevel[world]', x=238.05, y=79.00, z=-550.63]
+[14:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[14:21:15] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[14:21:15] [Server thread/INFO]: RitikKhatri left the game
+[14:21:17] [Server thread/INFO]: RitikKhatri[/127.0.0.1:1570] logged in with entity id 22488 at (233.30000001192093, 77.0, -552.6999999880791)
+[14:21:17] [Server thread/INFO]: RitikKhatri joined the game
+[14:29:55] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[14:29:55] [Server thread/INFO]: RitikKhatri left the game
+[15:43:58] [Server thread/INFO]: RitikKhatri[/127.0.0.1:4396] logged in with entity id 23889 at (238.4584782041132, 79.0, -565.139779856899)
+[15:43:58] [Server thread/INFO]: RitikKhatri joined the game
+[15:46:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/24481, l='ServerLevel[world]', x=238.88, y=79.00, z=-549.09]
+[16:01:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26675, l='ServerLevel[world]', x=239.80, y=78.00, z=-549.80]
+[16:39:33] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[16:39:33] [Server thread/INFO]: RitikKhatri left the game
+[16:39:40] [Server thread/INFO]: Stopping the server
+[16:39:40] [Server thread/INFO]: Stopping server
+[16:39:40] [Server thread/INFO]: Saving players
+[16:39:40] [Server thread/INFO]: Saving worlds
+[16:39:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:39:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
