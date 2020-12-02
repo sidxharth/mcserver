@@ -1,65 +1,69 @@
-[21:56:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:56:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:56:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:56:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:56:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:56:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:56:56] [main/INFO]: Reloading ResourceManager: Default
-[21:56:57] [Worker-Main-12/INFO]: Loaded 7 recipes
-[21:56:58] [Worker-Main-12/INFO]: Loaded 927 advancements
-[21:56:59] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[21:56:59] [Server thread/INFO]: Loading properties
-[21:56:59] [Server thread/INFO]: Default game type: SURVIVAL
-[21:56:59] [Server thread/INFO]: Generating keypair
-[21:57:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:57:00] [Server thread/INFO]: Using default channel type
-[21:57:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:57:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:57:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:57:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:57:01] [Server thread/INFO]: Preparing level "world"
-[21:57:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:57:03] [Server thread/INFO]: Preparing spawn area: 0%
-[21:57:03] [Server thread/INFO]: Preparing spawn area: 0%
-[21:57:03] [Server thread/INFO]: Preparing spawn area: 0%
-[21:57:03] [Server thread/INFO]: Preparing spawn area: 0%
-[21:57:04] [Server thread/INFO]: Preparing spawn area: 34%
-[21:57:04] [Server thread/INFO]: Time elapsed: 2479 ms
-[21:57:04] [Server thread/INFO]: Done (2.620s)! For help, type "help"
-[21:57:08] [Server thread/INFO]: RitikKhatri[/127.0.0.1:1692] logged in with entity id 79 at (-1746.4204284693785, 63.5625, 632.3828469184965)
-[21:57:09] [Server thread/INFO]: RitikKhatri joined the game
-[21:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
-[21:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3371ms or 67 ticks behind
-[22:04:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1735, y=40, z=650} fx{x=-1735, y=39, z=648}
-[22:13:36] [Server thread/INFO]: Zeldris[/0:0:0:0:0:0:0:1:2191] logged in with entity id 3677 at (-243.70464003151972, 138.0, -314.8851470423395)
-[22:13:36] [Server thread/INFO]: Zeldris joined the game
-[22:21:00] [Server thread/INFO]: <RitikKhatri> zzzzz
-[22:21:14] [Server thread/INFO]: Zeldris lost connection: Disconnected
-[22:21:14] [Server thread/INFO]: Zeldris left the game
-[22:21:48] [Server thread/INFO]: Zeldris[/0:0:0:0:0:0:0:1:2439] logged in with entity id 10410 at (-2.1822006696777856, 71.0, -498.3916657423364)
-[22:21:48] [Server thread/INFO]: Zeldris joined the game
-[22:22:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3612ms or 72 ticks behind
-[22:32:58] [Server thread/INFO]: <RitikKhatri> zzzzzzzzz
-[22:44:02] [Server thread/INFO]: <RitikKhatri> zzzz
-[22:44:10] [Server thread/INFO]: Zeldris lost connection: Disconnected
-[22:44:10] [Server thread/INFO]: Zeldris left the game
-[22:44:48] [Server thread/INFO]: Zeldris[/0:0:0:0:0:0:0:1:3195] logged in with entity id 16996 at (107.63856607691581, 84.5625, -534.6489798872846)
-[22:44:48] [Server thread/INFO]: Zeldris joined the game
-[22:55:30] [Server thread/INFO]: <RitikKhatri> zzzz
-[23:01:42] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[23:01:42] [Server thread/INFO]: RitikKhatri left the game
-[23:17:50] [Server thread/INFO]: Zeldris lost connection: Disconnected
-[23:17:50] [Server thread/INFO]: Zeldris left the game
-[23:21:47] [Server thread/INFO]: Stopping the server
-[23:21:47] [Server thread/INFO]: Stopping server
-[23:21:47] [Server thread/INFO]: Saving players
-[23:21:47] [Server thread/INFO]: Saving worlds
-[23:21:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:21:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:21:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:21:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:21:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:21:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:21:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:33:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:33:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:33:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:33:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:33:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:33:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:33:41] [main/INFO]: Reloading ResourceManager: Default
+[21:33:42] [Worker-Main-12/INFO]: Loaded 7 recipes
+[21:33:43] [Worker-Main-12/INFO]: Loaded 927 advancements
+[21:33:46] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[21:33:46] [Server thread/INFO]: Loading properties
+[21:33:47] [Server thread/INFO]: Default game type: SURVIVAL
+[21:33:47] [Server thread/INFO]: Generating keypair
+[21:33:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:33:47] [Server thread/INFO]: Using default channel type
+[21:33:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:33:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:33:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:33:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:33:57] [Server thread/INFO]: Preparing level "world"
+[21:33:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:34:02] [Server thread/INFO]: Preparing spawn area: 51%
+[21:34:04] [Server thread/INFO]: Time elapsed: 6895 ms
+[21:34:04] [Server thread/INFO]: Done (7.236s)! For help, type "help"
+[21:35:06] [Server thread/INFO]: RitikKhatri[/127.0.0.1:17303] logged in with entity id 74 at (184.60672650621902, 78.0, -552.7040219147375)
+[21:35:06] [Server thread/INFO]: RitikKhatri joined the game
+[21:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21:37:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/790, l='ServerLevel[world]', x=238.23, y=79.00, z=-552.33]
+[21:40:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1284, l='ServerLevel[world]', x=238.27, y=79.00, z=-549.37]
+[21:45:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1928, l='ServerLevel[world]', x=238.23, y=79.00, z=-552.33]
+[21:45:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2011, l='ServerLevel[world]', x=238.17, y=79.00, z=-547.23]
+[21:49:07] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[21:49:07] [Server thread/INFO]: RitikKhatri left the game
+[21:56:55] [Server thread/INFO]: RitikKhatri[/127.0.0.1:17980] logged in with entity id 2555 at (193.19856540255176, 82.0, -544.8386184469184)
+[21:56:55] [Server thread/INFO]: RitikKhatri joined the game
+[22:08:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4432, l='ServerLevel[world]', x=233.29, y=79.00, z=-549.11]
+[22:17:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5770, l='ServerLevel[world]', x=233.30, y=79.00, z=-550.54]
+[22:22:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6506, l='ServerLevel[world]', x=238.71, y=79.00, z=-551.64]
+[22:24:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6811, l='ServerLevel[world]', x=236.48, y=79.00, z=-549.96]
+[22:26:50] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[22:26:50] [Server thread/INFO]: RitikKhatri left the game
+[22:37:09] [Server thread/INFO]: RitikKhatri[/127.0.0.1:19251] logged in with entity id 7036 at (174.5, 76.0, -545.5)
+[22:37:09] [Server thread/INFO]: RitikKhatri joined the game
+[22:42:43] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[22:42:43] [Server thread/INFO]: RitikKhatri left the game
+[22:43:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:43:00] [Server thread/INFO]: STOP<--[HERE]
+[22:43:06] [Server thread/INFO]: Stopping the server
+[22:43:06] [Server thread/INFO]: Stopping server
+[22:43:06] [Server thread/INFO]: Saving players
+[22:43:06] [Server thread/INFO]: Saving worlds
+[22:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
