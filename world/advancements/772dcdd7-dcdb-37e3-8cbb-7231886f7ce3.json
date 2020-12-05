@@ -629,6 +629,7 @@
       "minecraft:skeleton": "2020-11-23 18:16:20 +0530",
       "minecraft:ravager": "2020-11-27 00:14:38 +0530",
       "minecraft:hoglin": "2020-11-28 16:54:14 +0530",
+      "minecraft:vindicator": "2020-12-05 14:10:09 +0530",
       "minecraft:spider": "2020-11-24 23:06:15 +0530",
       "minecraft:creeper": "2020-11-23 18:00:46 +0530",
       "minecraft:phantom": "2020-11-28 23:40:14 +0530",
@@ -1420,6 +1421,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-23 17:31:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-12-05 13:54:00 +0530"
     },
     "done": true
   },
@@ -2534,6 +2541,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-11-23 16:42:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2020-12-05 13:54:00 +0530"
     },
     "done": true
   },
