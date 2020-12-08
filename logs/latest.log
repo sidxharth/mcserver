@@ -1,68 +1,107 @@
-[12:57:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:57:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:57:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:57:57] [main/INFO]: Reloading ResourceManager: Default
-[12:57:58] [Worker-Main-12/INFO]: Loaded 7 recipes
-[12:57:58] [Worker-Main-12/INFO]: Loaded 927 advancements
-[12:58:00] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[12:58:00] [Server thread/INFO]: Loading properties
-[12:58:00] [Server thread/INFO]: Default game type: SURVIVAL
-[12:58:00] [Server thread/INFO]: Generating keypair
-[12:58:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:58:00] [Server thread/INFO]: Using default channel type
-[12:58:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:58:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:58:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:58:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:58:01] [Server thread/INFO]: Preparing level "world"
-[12:58:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:58:03] [Server thread/INFO]: Preparing spawn area: 0%
-[12:58:03] [Server thread/INFO]: Preparing spawn area: 0%
-[12:58:03] [Server thread/INFO]: Preparing spawn area: 0%
-[12:58:03] [Server thread/INFO]: Preparing spawn area: 0%
-[12:58:04] [Server thread/INFO]: Time elapsed: 2199 ms
-[12:58:04] [Server thread/INFO]: Done (2.308s)! For help, type "help"
-[13:03:13] [Server thread/INFO]: RitikKhatri[/127.0.0.1:1532] logged in with entity id 74 at (196.69999998807907, 78.0, -562.2352145216312)
-[13:03:13] [Server thread/INFO]: RitikKhatri joined the game
-[13:06:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/888, l='ServerLevel[world]', x=233.71, y=79.00, z=-551.69]
-[13:16:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2513, l='ServerLevel[world]', x=232.83, y=79.00, z=-548.31]
-[13:17:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2662, l='ServerLevel[world]', x=233.82, y=79.00, z=-547.75]
-[13:19:14] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[13:19:14] [Server thread/INFO]: RitikKhatri left the game
-[13:30:45] [Server thread/INFO]: RitikKhatri[/127.0.0.1:2353] logged in with entity id 2924 at (205.23221774400295, 80.0, -578.942889873924)
-[13:30:45] [Server thread/INFO]: RitikKhatri joined the game
-[13:34:59] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[13:34:59] [Server thread/INFO]: RitikKhatri left the game
-[14:01:21] [Server thread/INFO]: RitikKhatri[/127.0.0.1:3336] logged in with entity id 3789 at (218.3950684441125, 81.0, -583.1433089241459)
-[14:01:21] [Server thread/INFO]: RitikKhatri joined the game
-[14:10:33] [Server thread/INFO]: Gave 1 [Name Tag] to RitikKhatri
-[14:11:19] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[14:11:19] [Server thread/INFO]: RitikKhatri left the game
-[14:21:10] [Server thread/INFO]: RitikKhatri[/127.0.0.1:3881] logged in with entity id 5570 at (211.52404897666943, 78.0, -574.1175221158137)
-[14:21:10] [Server thread/INFO]: RitikKhatri joined the game
-[14:34:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7503, l='ServerLevel[world]', x=238.80, y=79.00, z=-549.81]
-[14:38:55] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[14:38:55] [Server thread/INFO]: RitikKhatri left the game
-[15:16:55] [Server thread/INFO]: RitikKhatri[/127.0.0.1:5528] logged in with entity id 8131 at (189.83239398925318, 82.0, -560.5588332002567)
-[15:16:55] [Server thread/INFO]: RitikKhatri joined the game
-[15:23:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9104, l='ServerLevel[world]', x=237.89, y=79.00, z=-549.93]
-[15:38:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11243, l='ServerLevel[world]', x=239.64, y=79.00, z=-552.59]
-[15:42:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[15:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[15:48:03] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[15:48:03] [Server thread/INFO]: RitikKhatri left the game
-[15:48:57] [Server thread/INFO]: Stopping the server
-[15:48:57] [Server thread/INFO]: Stopping server
-[15:48:57] [Server thread/INFO]: Saving players
-[15:48:57] [Server thread/INFO]: Saving worlds
-[15:48:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:48:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:48:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:48:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:48:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:48:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:48:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:48:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:48:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:20] [Server thread/INFO]: <RitikKhatri> lol vo balti kiski hai
+[00:00:37] [Server thread/INFO]: <sidmeister> boat
+[00:00:45] [Server thread/INFO]: <RitikKhatri> f
+[00:01:12] [Server thread/INFO]: <sidmeister> tere peeche peche chal lunga
+[00:01:30] [Server thread/INFO]: <RitikKhatri> bedS?
+[00:03:16] [Server thread/INFO]: <sidmeister> boat se chal
+[00:04:17] [Server thread/INFO]: <RitikKhatri> eye fenku?
+[00:05:08] [Server thread/INFO]: <RitikKhatri> gomen
+[00:08:11] [Server thread/INFO]: <RitikKhatri> bow hta diya maine
+[00:08:16] [Server thread/INFO]: <sidmeister> thanks
+[00:08:17] [Server thread/INFO]: <RitikKhatri> ab
+[00:10:36] [Server thread/INFO]: <RitikKhatri> noice
+[00:10:41] [Server thread/INFO]: <sidmeister> pohonch gaye
+[00:10:52] [Server thread/INFO]: <RitikKhatri> confirm
+[00:12:49] [Server thread/INFO]: <RitikKhatri> here
+[00:12:50] [Server thread/INFO]: <RitikKhatri> ?
+[00:13:02] [Server thread/INFO]: <sidmeister> wait
+[00:13:20] [Server thread/INFO]: <RitikKhatri> nice
+[00:13:27] [Server thread/INFO]: <RitikKhatri> nicecnienciencienc
+[00:14:18] [Server thread/INFO]: <sidmeister> poora band mat kariyo
+[00:15:01] [Server thread/INFO]: <sidmeister> need torches
+[00:15:34] [Server thread/INFO]: <sidmeister> nice
+[00:15:49] [Server thread/INFO]: sidmeister has made the advancement [Eye Spy]
+[00:16:02] [Server thread/INFO]: RitikKhatri has made the advancement [Eye Spy]
+[00:16:24] [Server thread/INFO]: <RitikKhatri> chest me kya tha?
+[00:16:28] [Server thread/INFO]: <sidmeister> bread
+[00:16:30] [Server thread/INFO]: <sidmeister> iro
+[00:18:30] [Server thread/INFO]: <RitikKhatri> y cant i open iron door?
+[00:19:46] [Server thread/INFO]: <sidmeister> udhar nahi kuch
+[00:19:58] [Server thread/INFO]: <RitikKhatri> portl kha
+[00:20:38] [Server thread/INFO]: <RitikKhatri> need stick
+[00:20:43] [Server thread/INFO]: <sidmeister> lele
+[00:20:51] [Server thread/INFO]: <RitikKhatri> coal lele tu
+[00:23:24] [Server thread/INFO]: <RitikKhatri> f
+[00:26:38] [Server thread/INFO]: <RitikKhatri> aese kaise
+[00:26:53] [Server thread/INFO]: <sidmeister> kidhar ko?
+[00:27:46] [Server thread/INFO]: <sidmeister> torch
+[00:29:56] [Server thread/INFO]: <RitikKhatri> ahhh
+[00:30:01] [Server thread/INFO]: <sidmeister> bruhh
+[00:30:03] [Server thread/INFO]: <RitikKhatri> daummmmmmmmmmmmmmmm
+[00:30:08] [Server thread/INFO]: <RitikKhatri> bhai rasta bna de
+[00:30:11] [Server thread/INFO]: <RitikKhatri> direct
+[00:30:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1341, y=28, z=-207} fx{x=-1343, y=28, z=-209}
+[00:31:01] [Server thread/INFO]: <RitikKhatri> sapner tod du?
+[00:31:11] [Server thread/INFO]: <sidmeister> han
+[00:31:50] [Server thread/INFO]: <RitikKhatri> mat jaio
+[00:31:55] [Server thread/INFO]: <sidmeister> haan ik
+[00:32:42] [Server thread/INFO]: <RitikKhatri> extra pick hai? mera iron khatam hone wwala
+[00:33:05] [Server thread/INFO]: <RitikKhatri> dirct uper rasta?
+[00:33:10] [Server thread/INFO]: <sidmeister> tu yahi ruk
+[00:33:28] [Server thread/INFO]: <sidmeister> pik diyo
+[00:33:59] [Server thread/INFO]: <RitikKhatri> ladder?
+[00:34:08] [Server thread/INFO]: <RitikKhatri> ya staier?
+[00:34:35] [Server thread/INFO]: <sidmeister> torcehs diyo
+[00:39:04] [Server thread/INFO]: <RitikKhatri> kha gya
+[00:39:11] [Server thread/INFO]: <sidmeister> upar hi hun
+[00:39:17] [Server thread/INFO]: <RitikKhatri> aur kitna time
+[00:39:24] [Server thread/INFO]: <sidmeister> ladder ke liye saman
+[00:41:09] [Server thread/INFO]: <RitikKhatri> can i break the end portal?
+[00:41:13] [Server thread/INFO]: <sidmeister> no
+[00:41:23] [Server thread/INFO]: <RitikKhatri> even with diamond pick?
+[00:41:28] [Server thread/INFO]: <sidmeister> mat kar
+[00:41:31] [Server thread/INFO]: <RitikKhatri> abe may nahi can bola
+[00:41:52] [Server thread/INFO]: <sidmeister> can?
+[00:42:04] [Server thread/INFO]: <RitikKhatri> can means kar sakta hu
+[00:42:16] [Server thread/INFO]: <RitikKhatri> may mat lab permission
+[00:42:35] [Server thread/INFO]: <RitikKhatri> nvm +_+
+[00:42:44] [Server thread/INFO]: <RitikKhatri> neend arhi
+[00:42:50] [Server thread/INFO]: <RitikKhatri> hogya kya
+[00:43:00] [Server thread/INFO]: <sidmeister> 2 min
+[00:45:00] [Server thread/INFO]: <RitikKhatri> szzzzz
+[00:45:57] [Server thread/INFO]: <sidmeister> sup
+[00:46:00] [Server thread/INFO]: <RitikKhatri> zzzzz
+[00:46:14] [Server thread/INFO]: <RitikKhatri> kya?
+[00:47:05] [Server thread/INFO]: <sidmeister> neeche aa
+[00:47:40] [Server thread/INFO]: <RitikKhatri> this seems familaiar
+[00:47:44] [Server thread/INFO]: <sidmeister> bruhh
+[00:48:54] [Server thread/INFO]: <RitikKhatri> dude i need to go
+[00:49:31] [Server thread/INFO]: <RitikKhatri> gg
+[00:49:36] [Server thread/INFO]: <RitikKhatri> kal
+[00:49:40] [Server thread/INFO]: <sidmeister> 5 min
+[00:50:58] [Server thread/INFO]: <sidmeister> chal wapis strong hold fir
+[00:51:03] [Server thread/INFO]: <sidmeister> fir quit
+[00:51:05] [Server thread/INFO]: <RitikKhatri> hm
+[00:53:07] [Server thread/INFO]: <RitikKhatri> gg
+[00:53:12] [Server thread/INFO]: <sidmeister> gg
+[00:53:14] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[00:53:14] [Server thread/INFO]: RitikKhatri left the game
+[00:53:30] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[00:53:30] [Server thread/INFO]: sidmeister left the game
+[00:53:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:53:36] [Server thread/INFO]: qq?uit<--[HERE]
+[00:53:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:53:37] [Server thread/INFO]: <--[HERE]
+[00:53:54] [Server thread/INFO]: Stopping the server
+[00:53:54] [Server thread/INFO]: Stopping server
+[00:53:54] [Server thread/INFO]: Saving players
+[00:53:54] [Server thread/INFO]: Saving worlds
+[00:53:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:53:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:53:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
