@@ -1,141 +1,46 @@
-[00:02:50] [Server thread/INFO]: <sidmeister> oye wo bow yera infinity
-[00:03:08] [Server thread/INFO]: <RitikKhatri> infinity to sasta hai
-[00:03:15] [Server thread/INFO]: <RitikKhatri> 10-14 emeralds
-[00:10:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11537, l='ServerLevel[world]', x=-40.17, y=72.00, z=-509.94]
-[00:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
-[00:18:59] [Server thread/INFO]: <shobhit_joe> hopper xtra toh nahi hai na kisi ke paas jo use na ho raha ho
-[00:19:07] [Server thread/INFO]: <sidmeister> i dont
-[00:19:14] [Server thread/INFO]: <RitikKhatri> nhi
-[00:19:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14180, l='ServerLevel[world]', x=-36.86, y=72.00, z=-508.83]
-[00:19:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14180, l='ServerLevel[world]', x=-36.86, y=72.00, z=-508.83]
-[00:21:23] [Server thread/INFO]: <shobhit_joe> carpets xtra hai kisi ke paas ?
-[00:21:51] [Server thread/INFO]: <RitikKhatri> wool kafi diya tha maine sid ko
-[00:24:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:24:58] [Server thread/INFO]: /set time day<--[HERE]
-[00:25:08] [Server thread/INFO]: Set the time to 1000
-[00:29:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16523, l='ServerLevel[world]', x=-37.29, y=72.00, z=-510.36]
-[00:29:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16523, l='ServerLevel[world]', x=-37.29, y=72.00, z=-510.36]
-[00:32:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17423, l='ServerLevel[world]', x=-36.61, y=72.00, z=-510.03]
-[00:35:25] [Server thread/INFO]: <shobhit_joe> pearls hai xtra ?
-[00:35:34] [Server thread/INFO]: <sidmeister> ek hai
-[00:35:58] [Server thread/INFO]: <shobhit_joe> sleep
-[00:38:07] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[00:38:07] [Server thread/INFO]: RitikKhatri left the game
-[00:39:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19343, l='ServerLevel[world]', x=-40.17, y=72.00, z=-509.94]
-[00:43:40] [Server thread/INFO]: [Server] kitne baje tak kheloge?
-[00:44:27] [Server thread/INFO]: <shobhit_joe> 1:15 something
-[00:47:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/20919, l='ServerLevel[world]', x=-38.91, y=72.00, z=-509.32]
-[00:48:58] [Server thread/INFO]: <shobhit_joe> sleep
-[00:58:30] [Server thread/INFO]: <sidmeister> kidhar ho?
-[00:58:58] [Server thread/INFO]: <shobhit_joe> bro da fuk
-[00:59:16] [Server thread/INFO]: <sidmeister> konsa xp farm banara?
-[00:59:23] [Server thread/INFO]: <shobhit_joe> enderman
-[00:59:28] [Server thread/INFO]: <sidmeister> nice
-[00:59:43] [Server thread/INFO]: <sidmeister> thoda gpoweder dede
-[01:00:00] [Server thread/INFO]: <shobhit_joe> nahi hai bhai gand se nikalega kya
-[01:00:06] [Server thread/INFO]: <sidmeister> :')
-[01:02:39] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[01:02:39] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[01:19:08] [Server thread/INFO]: shobhit_joe fell out of the world
-[01:19:09] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at ol$$Lambda$3790/1879119263.run(Unknown Source) ~[?:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) [server.jar:?]
-	at aof.c(SourceFile:23) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) [server.jar:?]
-	at aob.y(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) [server.jar:?]
-	at aob.bl(SourceFile:103) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:721) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3275/1466023271.run(Unknown Source) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[01:19:09] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at ol$$Lambda$3790/1879119263.run(Unknown Source) ~[?:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) [server.jar:?]
-	at aof.c(SourceFile:23) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) [server.jar:?]
-	at aob.y(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) [server.jar:?]
-	at aob.bl(SourceFile:103) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:721) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3275/1466023271.run(Unknown Source) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[01:19:09] [Server thread/WARN]: shobhit_joe moved too quickly! 0.0,-19.960226058350088,0.0
-[01:19:21] [Server thread/INFO]: <sidmeister> goals
-[01:19:38] [Server thread/INFO]: <shobhit_joe> nah its good everything is safe
-[01:19:46] [Server thread/INFO]: <sidmeister> arrey sir
-[01:23:56] [Server thread/INFO]: shobhit_joe fell out of the world
-[01:23:57] [Server thread/WARN]: shobhit_joe moved too quickly! 0.0,-20.391368716257404,0.0
-[01:24:16] [Server thread/INFO]: <shobhit_joe> bc kitna mushkil hai yeh
-[01:26:29] [Server thread/INFO]: <shobhit_joe> arre sid 64 ladders aur 128 leaf blocks laa skta hai kya ?
-[01:26:40] [Server thread/INFO]: <sidmeister> mai sone jara bhai
-[01:26:53] [Server thread/INFO]: shobhit_joe fell out of the world
-[01:26:54] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at ol$$Lambda$3790/1879119263.run(Unknown Source) ~[?:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) [server.jar:?]
-	at aof.c(SourceFile:23) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) [server.jar:?]
-	at aob.y(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) [server.jar:?]
-	at aob.bl(SourceFile:103) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:721) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
-	at net.minecraft.server.MinecraftServer$$Lambda$3275/1466023271.run(Unknown Source) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[01:26:54] [Server thread/WARN]: shobhit_joe moved too quickly! 0.0,-20.491970122900682,0.0
-[01:26:54] [Server thread/INFO]: <sidmeister> aaj ka done karen?
-[01:27:09] [Server thread/INFO]: <shobhit_joe> chal theek hai kal krte hai bye gn
-[01:27:18] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[01:27:18] [Server thread/INFO]: shobhit_joe left the game
-[01:36:45] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[01:36:45] [Server thread/INFO]: sidmeister left the game
-[01:37:16] [Server thread/INFO]: Stopping the server
-[01:37:16] [Server thread/INFO]: Stopping server
-[01:37:16] [Server thread/INFO]: Saving players
-[01:37:16] [Server thread/INFO]: Saving worlds
-[01:37:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:37:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:37:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:24:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:24:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:24:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:24:52] [main/INFO]: Reloading ResourceManager: Default
+[20:24:53] [Worker-Main-10/INFO]: Loaded 7 recipes
+[20:24:53] [Worker-Main-10/INFO]: Loaded 927 advancements
+[20:24:55] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[20:24:55] [Server thread/INFO]: Loading properties
+[20:24:55] [Server thread/INFO]: Default game type: SURVIVAL
+[20:24:55] [Server thread/INFO]: Generating keypair
+[20:24:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:24:55] [Server thread/INFO]: Using default channel type
+[20:24:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:24:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:24:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:24:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:24:57] [Server thread/INFO]: Preparing level "world"
+[20:24:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:24:58] [Server thread/INFO]: Preparing spawn area: 0%
+[20:24:58] [Server thread/INFO]: Preparing spawn area: 0%
+[20:24:58] [Server thread/INFO]: Preparing spawn area: 0%
+[20:24:58] [Server thread/INFO]: Preparing spawn area: 9%
+[20:24:59] [Server thread/INFO]: Time elapsed: 2170 ms
+[20:24:59] [Server thread/INFO]: Done (2.318s)! For help, type "help"
+[20:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[20:25:50] [Server thread/INFO]: RitikKhatri[/127.0.0.1:33293] logged in with entity id 71 at (57.88792421851525, 63.0, -569.9123641106806)
+[20:25:50] [Server thread/INFO]: RitikKhatri joined the game
+[20:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
+[20:29:54] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[20:29:54] [Server thread/INFO]: RitikKhatri left the game
+[20:30:24] [Server thread/INFO]: Stopping the server
+[20:30:24] [Server thread/INFO]: Stopping server
+[20:30:24] [Server thread/INFO]: Saving players
+[20:30:24] [Server thread/INFO]: Saving worlds
+[20:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
