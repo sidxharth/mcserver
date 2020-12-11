@@ -1,799 +1,141 @@
-[15:53:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:53:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:53:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:53:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:42] [main/INFO]: Reloading ResourceManager: Default
-[15:53:45] [Worker-Main-9/INFO]: Loaded 7 recipes
-[15:53:47] [Worker-Main-9/INFO]: Loaded 927 advancements
-[15:53:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[15:53:52] [Server thread/INFO]: Loading properties
-[15:53:52] [Server thread/INFO]: Default game type: SURVIVAL
-[15:53:52] [Server thread/INFO]: Generating keypair
-[15:53:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:53:53] [Server thread/INFO]: Using default channel type
-[15:53:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:53:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:53:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:53:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:53:58] [Server thread/INFO]: Preparing level "world"
-[15:54:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:39] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:40] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:40] [Server thread/INFO]: Preparing spawn area: 5%
-[15:54:42] [Server thread/INFO]: Preparing spawn area: 54%
-[15:54:42] [Server thread/INFO]: Preparing spawn area: 54%
-[15:54:52] [Server thread/INFO]: Time elapsed: 12358 ms
-[15:54:52] [Server thread/INFO]: Done (13.294s)! For help, type "help"
-[15:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[15:57:52] [Server thread/INFO]: sidmeister[/127.0.0.1:37825] logged in with entity id 78 at (-543.8030645114945, 63.0, 1059.632151188622)
-[15:57:52] [Server thread/INFO]: sidmeister joined the game
-[15:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8422ms or 168 ticks behind
-[15:58:28] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[15:58:28] [Server thread/INFO]: sidmeister left the game
-[15:58:30] [Server thread/INFO]: sidmeister[/127.0.0.1:37829] logged in with entity id 83 at (-543.8030645114945, 63.0, 1059.632151188622)
-[15:58:30] [Server thread/INFO]: sidmeister joined the game
-[15:58:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@44772f98[id=<null>,name=sidmeister,properties={},legacy=false] (/127.0.0.1:37827) lost connection: Disconnected
-[15:59:41] [Server thread/INFO]: RitikKhatri[/127.0.0.1:37833] logged in with entity id 229 at (-551.0778188535934, 82.0, 973.0978892635999)
-[15:59:41] [Server thread/INFO]: RitikKhatri joined the game
-[15:59:50] [Server thread/INFO]: <RitikKhatri> sorry sir i took elytra
-[15:59:59] [Server thread/INFO]: <RitikKhatri> ek aur dhondh lenge tere liye
-[16:00:08] [Server thread/INFO]: <sidmeister> mai dusre se lera jaake
-[16:00:35] [Server thread/INFO]: RitikKhatri has made the advancement [Local Brewery]
-[16:00:41] [Server thread/INFO]: <RitikKhatri> instant health 2 kya hai
-[16:02:43] [Server thread/INFO]: <RitikKhatri> i got a shulker shell
-[16:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[16:06:10] [Server thread/INFO]: <RitikKhatri> tu kar kya rha
-[16:06:17] [Server thread/INFO]: <sidmeister> blocks collect
-[16:06:23] [Server thread/INFO]: <RitikKhatri> konse
-[16:06:34] [Server thread/INFO]: <sidmeister> endrr
-[16:06:43] [Server thread/INFO]: <sidmeister> rasta banan waaste
-[16:07:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[16:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
-[16:07:58] [Server thread/INFO]: <RitikKhatri> ok
-[16:08:22] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[16:08:22] [Server thread/INFO]: sidmeister left the game
-[16:10:40] [Server thread/INFO]: sidmeister[/127.0.0.1:37871] logged in with entity id 1079 at (-759.1033755076688, 59.0, 943.1722894190237)
-[16:10:40] [Server thread/INFO]: sidmeister joined the game
-[16:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[16:11:14] [Server thread/INFO]: <RitikKhatri> done
-[16:13:06] [Server thread/INFO]: Zeldris[/127.0.0.1:37897] logged in with entity id 1320 at (104.02211060913164, 62.0, -523.9516686747056)
-[16:13:06] [Server thread/INFO]: Zeldris joined the game
-[16:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[16:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5727ms or 114 ticks behind
-[16:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[16:14:09] [Server thread/INFO]: <sidmeister> ritik pratham ko endcity le aa
-[16:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
-[16:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6425ms or 128 ticks behind
-[16:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3099ms or 61 ticks behind
-[16:16:00] [Server thread/INFO]: Zeldris has made the advancement [Eye Spy]
-[16:16:11] [Server thread/INFO]: Zeldris has made the advancement [The End?]
-[16:16:11] [Server thread/WARN]: Zeldris moved too quickly! 1441.192282541923,17.464159374955443,219.13933331235984
-[16:16:11] [Server thread/WARN]: Entity aah['Zeldris'/1320, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[16:16:15] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[16:16:15] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[16:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
-[16:16:26] [Server thread/INFO]: <RitikKhatri> nice
-[16:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3400ms or 68 ticks behind
-[16:18:05] [Server thread/WARN]: Zeldris moved too quickly! -10.002505754957532,1.0,0.6331118339192177
-[16:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3065ms or 61 ticks behind
-[16:18:20] [Server thread/WARN]: Zeldris moved too quickly! -5.282964595369052,0.0,8.54857249899748
-[16:19:02] [Server thread/INFO]: <RitikKhatri> kha hai bhai pratham?
-[16:19:14] [Server thread/INFO]: <Zeldris> end mau
-[16:19:21] [Server thread/INFO]: <RitikKhatri> right side gya tha?
-[16:19:32] [Server thread/INFO]: <Zeldris> uske aage nahi paatakaha jana hai
-[16:19:43] [Server thread/INFO]: <RitikKhatri> sid tu kha hai?
-[16:19:53] [Server thread/INFO]: <Zeldris> end mai hun portal ke pass
-[16:19:56] [Server thread/INFO]: sidmeister has reached the goal [Sky's the Limit]
-[16:19:59] [Server thread/INFO]: <Zeldris> ja elderman hai bohut saare
-[16:20:01] [Server thread/INFO]: <RitikKhatri> aaye
-[16:20:48] [Server thread/INFO]: <RitikKhatri> water+tower hai badi si
-[16:20:53] [Server thread/INFO]: <RitikKhatri> iske as pas koi hai?
-[16:21:05] [Server thread/INFO]: <sidmeister> me
-[16:21:31] [Server thread/INFO]: <RitikKhatri> do shulker respawn?
-[16:21:42] [Server thread/INFO]: <sidmeister> no
-[16:22:00] [Server thread/INFO]: <RitikKhatri> shulker shell kaise milenge phie
-[16:22:10] [Server thread/INFO]: <RitikKhatri> dikh gya sid
-[16:22:12] [Server thread/INFO]: <sidmeister> looting 3
-[16:22:16] [Server thread/INFO]: <RitikKhatri> flight teset karliya?
-[16:22:24] [Server thread/INFO]: <sidmeister> abhi nahi
-[16:22:43] [Server thread/INFO]: <RitikKhatri> ladder bna du niche se?
-[16:22:49] [Server thread/INFO]: <RitikKhatri> im below u
-[16:24:37] [Server thread/INFO]: <RitikKhatri> u out of here?
-[16:24:48] [Server thread/INFO]: <RitikKhatri> not wana get some shellls?
-[16:24:57] [Server thread/INFO]: <sidmeister> i have
-[16:25:08] [Server thread/INFO]: <RitikKhatri> uper shuilker hai na?
-[16:25:14] [Server thread/INFO]: <sidmeister> ek hai
-[16:25:24] [Server thread/INFO]: <RitikKhatri> leme try my luck
-[16:25:27] [Server thread/INFO]: <sidmeister> do shells hai mere pe
-[16:25:37] [Server thread/INFO]: <RitikKhatri> mere pe ek, ek aur mil jae
-[16:26:01] [Server thread/INFO]: <sidmeister> ritik wo chests lete aiyo
-[16:26:04] [Server thread/INFO]: <sidmeister> wooden
-[16:26:10] [Server thread/INFO]: <RitikKhatri> q
-[16:26:22] [Server thread/INFO]: <RitikKhatri> chal ok
-[16:26:22] [Server thread/INFO]: <sidmeister> shulker box ke liye
-[16:26:32] [Server thread/INFO]: <sidmeister> do shells + chest
-[16:26:41] [Server thread/INFO]: <RitikKhatri> hm
-[16:27:34] [Server thread/INFO]: <RitikKhatri> no luck ;(
-[16:28:16] [Server thread/INFO]: <RitikKhatri> sid kha hai ab tu
-[16:28:20] [Server thread/INFO]: <sidmeister> portal
-[16:29:22] [Server thread/INFO]: Zeldris has made the advancement [Remote Getaway]
-[16:32:05] [Server thread/INFO]: <RitikKhatri> lol thes shulker killeing each other
-[16:32:08] [Server thread/INFO]: <RitikKhatri> xDD
-[16:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[16:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9893ms or 197 ticks behind
-[16:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8322ms or 166 ticks behind
-[16:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8110ms or 162 ticks behind
-[16:34:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7534ms or 150 ticks behind
-[16:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
-[16:35:06] [Server thread/INFO]: <RitikKhatri> nice
-[16:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3093ms or 61 ticks behind
-[16:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5531ms or 110 ticks behind
-[16:35:45] [Server thread/INFO]: <RitikKhatri> tum dond overworld ?
-[16:35:48] [Server thread/INFO]: <RitikKhatri> dono*
-[16:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6267ms or 125 ticks behind
-[16:35:49] [Server thread/INFO]: <sidmeister> haan, ghar
-[16:35:58] [Server thread/INFO]: <RitikKhatri> i got 2 shells ;)
-[16:36:03] [Server thread/INFO]: <sidmeister> nice, same
-[16:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4390ms or 87 ticks behind
-[16:36:08] [Server thread/INFO]: <RitikKhatri> middle tower had like 20 shulkers, tough
-[16:36:14] [Server thread/INFO]: <RitikKhatri> i ran out lol
-[16:36:22] [Server thread/INFO]: <sidmeister> maut ka dariya hai wo
-[16:36:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3558ms or 71 ticks behind
-[16:36:28] [Server thread/INFO]: <RitikKhatri> tru
-[16:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
-[16:36:55] [Server thread/INFO]: shobhit_joe[/127.0.0.1:37935] logged in with entity id 6741 at (-525.0286279592511, 109.0, 1037.5756557904742)
-[16:36:55] [Server thread/INFO]: shobhit_joe joined the game
-[16:37:00] [Server thread/INFO]: <sidmeister> arrey
-[16:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5135ms or 102 ticks behind
-[16:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6011ms or 120 ticks behind
-[16:37:39] [Server thread/INFO]: <shobhit_joe> elytra choda hai hummare liye ?
-[16:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7871ms or 157 ticks behind
-[16:37:49] [Server thread/INFO]: <RitikKhatri> sorry bhai
-[16:37:49] [Server thread/INFO]: <sidmeister> mujhe bhi mil gaya ;)
-[16:38:07] [Server thread/INFO]: <RitikKhatri> aur dhond lenge
-[16:38:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9263ms or 185 ticks behind
-[16:38:32] [Server thread/INFO]: <shobhit_joe> chalo koi nahi dhoondna padega
-[16:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11980ms or 239 ticks behind
-[16:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10502ms or 210 ticks behind
-[16:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10241ms or 204 ticks behind
-[16:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9617ms or 192 ticks behind
-[16:40:15] [Server thread/INFO]: <RitikKhatri> iron door kaise khul dusri traf se?
-[16:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9392ms or 187 ticks behind
-[16:40:21] [Server thread/INFO]: <sidmeister> todke
-[16:40:24] [Server thread/INFO]: <sidmeister> :')
-[16:40:29] [Server thread/INFO]: <RitikKhatri> bruh
-[16:40:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11085ms or 221 ticks behind
-[16:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8214ms or 164 ticks behind
-[16:41:08] [Server thread/INFO]: <RitikKhatri> home sweet home
-[16:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6745ms or 134 ticks behind
-[16:41:33] [Server thread/INFO]: <RitikKhatri> shulker box dont need silk touch ryt
-[16:41:38] [Server thread/INFO]: <sidmeister> idk
-[16:41:42] [Server thread/INFO]: <sidmeister> mai toh use karra
-[16:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
-[16:41:55] [Server thread/INFO]: <sidmeister> nani
-[16:41:56] [Server thread/INFO]: <RitikKhatri> chest de phir lol
-[16:42:07] [Server thread/INFO]: <RitikKhatri> what?
-[16:42:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:42:19] [Server thread/INFO]: <RitikKhatri> give firework
-[16:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
-[16:42:35] [Server thread/INFO]: <Zeldris> hahahahahha
-[16:42:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[16:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[16:43:04] [Server thread/INFO]: <RitikKhatri> need a laucnh tower?
-[16:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3590ms or 71 ticks behind
-[16:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
-[16:43:38] [Server thread/INFO]: <RitikKhatri> daum son
-[16:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5937ms or 118 ticks behind
-[16:43:59] [Server thread/INFO]: <RitikKhatri> mending lga liya?
-[16:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5709ms or 114 ticks behind
-[16:44:31] [Server thread/INFO]: <sidmeister> ritik foreworks lele
-[16:44:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
-[16:44:50] [Server thread/INFO]: <RitikKhatri> ruk smaman rakhe ne
-[16:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7539ms or 150 ticks behind
-[16:45:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11780ms or 235 ticks behind
-[16:45:52] [Server thread/INFO]: <RitikKhatri> insstructions?
-[16:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14592ms or 291 ticks behind
-[16:46:05] [Server thread/INFO]: <RitikKhatri> kha gya
-[16:46:08] [Server thread/INFO]: <sidmeister> upar dekh ke glide kar
-[16:46:15] [Server thread/INFO]: <sidmeister> and fireworks laga fir
-[16:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5446ms or 108 ticks behind
-[16:46:20] [Server thread/INFO]: <sidmeister> view change kar
-[16:46:24] [Server thread/INFO]: <sidmeister> 3rd person
-[16:46:36] [Server thread/INFO]: <RitikKhatri> fireworks de
-[16:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4906ms or 98 ticks behind
-[16:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
-[16:47:08] [Server thread/INFO]: <RitikKhatri> bruhhhh
-[16:47:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3622ms or 72 ticks behind
-[16:47:22] [Server thread/INFO]: <RitikKhatri> firework
-[16:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4324ms or 86 ticks behind
-[16:47:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
-[16:47:53] [Server thread/INFO]: <RitikKhatri> right click na?
-[16:47:59] [Server thread/INFO]: <sidmeister> haa
-[16:48:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4522ms or 90 ticks behind
-[16:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5547ms or 110 ticks behind
-[16:48:36] [Server thread/INFO]: <RitikKhatri> daummmmmmmmmmmmmmmm
-[16:48:43] [Server thread/WARN]: RitikKhatri moved too quickly! -5.528253290348545,11.19315126843992,-14.200157453109455
-[16:48:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7241ms or 144 ticks behind
-[16:49:08] [Server thread/INFO]: <RitikKhatri> gg
-[16:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
-[16:49:26] [Server thread/INFO]: <RitikKhatri> mending lga deta hu
-[16:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
-[16:49:37] [Server thread/INFO]: <RitikKhatri> firework recipe?
-[16:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4054ms or 81 ticks behind
-[16:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
-[16:50:17] [Server thread/INFO]: Zeldris has reached the goal [Sky's the Limit]
-[16:50:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3065ms or 61 ticks behind
-[16:50:32] [Server thread/INFO]: <RitikKhatri> are u both on discord?
-[16:50:35] [Server thread/INFO]: <sidmeister> yes
-[16:50:38] [Server thread/INFO]: <RitikKhatri> ah
-[16:50:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
-[16:51:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
-[16:51:21] [Server thread/INFO]: <RitikKhatri> i need to fix iron farm
-[16:51:23] [Server thread/INFO]: <RitikKhatri> sleep?
-[16:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
-[16:51:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
-[16:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
-[16:52:14] [Server thread/INFO]: <RitikKhatri> nice
-[16:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
-[16:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
-[16:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
-[16:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3691ms or 73 ticks behind
-[16:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
-[16:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4573ms or 91 ticks behind
-[16:54:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
-[16:54:14] [Server thread/INFO]: <RitikKhatri> membrane
-[16:54:18] [Server thread/INFO]: <sidmeister> yes
-[16:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
-[16:54:42] [Server thread/INFO]: <RitikKhatri> sleep?
-[16:54:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
-[16:54:45] [Server thread/INFO]: <sidmeister> yes
-[16:55:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4189ms or 83 ticks behind
-[16:55:06] [Server thread/INFO]: <sidmeister> soja
-[16:55:08] [Server thread/INFO]: <RitikKhatri> zzzz
-[16:55:18] [Server thread/INFO]: <sidmeister> shobit bro u good?
-[16:55:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
-[16:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
-[16:55:52] [Server thread/INFO]: <shobhit_joe> for the time being ya
-[16:56:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7649ms or 152 ticks behind
-[16:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6822ms or 136 ticks behind
-[16:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7474ms or 149 ticks behind
-[16:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5486ms or 109 ticks behind
-[16:57:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7933ms or 158 ticks behind
-[16:57:43] [Server thread/INFO]: <RitikKhatri> iron farm is restored
-[16:57:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8124ms or 162 ticks behind
-[16:58:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6765ms or 135 ticks behind
-[16:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5568ms or 111 ticks behind
-[16:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5757ms or 115 ticks behind
-[16:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
-[16:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6953ms or 139 ticks behind
-[17:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11954ms or 239 ticks behind
-[17:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10295ms or 205 ticks behind
-[17:00:54] [Server thread/WARN]: shobhit_joe moved too quickly! 9.965245111158083,1.0,-1.3061511874896041
-[17:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9624ms or 192 ticks behind
-[17:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9643ms or 192 ticks behind
-[17:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7766ms or 155 ticks behind
-[17:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8220ms or 164 ticks behind
-[17:02:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7319ms or 146 ticks behind
-[17:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7229ms or 144 ticks behind
-[17:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11297ms or 225 ticks behind
-[17:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6731ms or 134 ticks behind
-[17:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7586ms or 151 ticks behind
-[17:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11908ms or 238 ticks behind
-[17:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10038ms or 200 ticks behind
-[17:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9766ms or 195 ticks behind
-[17:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10824ms or 216 ticks behind
-[17:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13541ms or 270 ticks behind
-[17:06:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10866ms or 217 ticks behind
-[17:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9665ms or 193 ticks behind
-[17:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8904ms or 178 ticks behind
-[17:07:39] [Server thread/INFO]: <sidmeister> ritik iron hai?
-[17:07:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9700ms or 194 ticks behind
-[17:07:56] [Server thread/INFO]: <RitikKhatri> max 2 stacks
-[17:07:58] [Server thread/INFO]: <RitikKhatri> aja
-[17:08:04] [Server thread/INFO]: <RitikKhatri> rail network
-[17:08:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9425ms or 188 ticks behind
-[17:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9837ms or 196 ticks behind
-[17:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12781ms or 255 ticks behind
-[17:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13425ms or 268 ticks behind
-[17:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8462ms or 169 ticks behind
-[17:10:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9616ms or 192 ticks behind
-[17:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10867ms or 217 ticks behind
-[17:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11013ms or 220 ticks behind
-[17:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8176ms or 163 ticks behind
-[17:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6006ms or 120 ticks behind
-[17:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9127ms or 182 ticks behind
-[17:12:46] [Server thread/INFO]: <RitikKhatri> minecrat to thi us traf?
-[17:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12295ms or 245 ticks behind
-[17:12:54] [Server thread/INFO]: <RitikKhatri> dude
-[17:12:58] [Server thread/INFO]: <RitikKhatri> wapis aa
-[17:13:02] [Server thread/INFO]: <RitikKhatri> sun
-[17:13:07] [Server thread/INFO]: <sidmeister> rails saare activated nahi
-[17:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11165ms or 223 ticks behind
-[17:13:39] [Server thread/INFO]: <sidmeister> shobhit mai aun?
-[17:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10220ms or 204 ticks behind
-[17:13:50] [Server thread/INFO]: <shobhit_joe> mai wapis aa gaya bhai
-[17:13:56] [Server thread/INFO]: <shobhit_joe> samaan leke jaa raha hun
-[17:13:57] [Server thread/INFO]: <RitikKhatri> ah sirf ek rhe gya tha
-[17:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7031ms or 140 ticks behind
-[17:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8089ms or 161 ticks behind
-[17:14:36] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[17:14:36] [Server thread/INFO]: sidmeister left the game
-[17:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6621ms or 132 ticks behind
-[17:15:20] [Server thread/INFO]: [Server] mai jara
-[17:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14735ms or 294 ticks behind
-[17:15:26] [Server thread/INFO]: Zeldris lost connection: Disconnected
-[17:15:26] [Server thread/INFO]: Zeldris left the game
-[17:15:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:15:31] [Server thread/INFO]: /k<--[HERE]
-[17:15:44] [Server thread/INFO]: [Server] kal aaunga ab din mai
-[17:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11458ms or 229 ticks behind
-[17:16:03] [Server thread/INFO]: [Server] server lag karra hai kya?
-[17:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5531ms or 110 ticks behind
-[17:16:18] [Server thread/INFO]: <RitikKhatri> not mucj
-[17:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8861ms or 177 ticks behind
-[17:16:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6761ms or 135 ticks behind
-[17:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7199ms or 143 ticks behind
-[17:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6157ms or 123 ticks behind
-[17:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5412ms or 108 ticks behind
-[17:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
-[17:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5649ms or 112 ticks behind
-[17:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5579ms or 111 ticks behind
-[17:19:03] [Server thread/WARN]: Trying to add entity with duplicated UUID 1add05c1-38b3-4a3d-86ce-3b7b81fcafa9. Existing minecraft:armor_stand#16394, new: minecraft:armor_stand#16394
-[17:19:04] [Server thread/WARN]: Trying to add entity with duplicated UUID ad2cf68b-83d2-42d2-92c0-c0a4a22ea6d5. Existing minecraft:armor_stand#16411, new: minecraft:armor_stand#16411
-[17:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6086ms or 121 ticks behind
-[17:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5955ms or 119 ticks behind
-[17:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6075ms or 121 ticks behind
-[17:20:08] [Server thread/INFO]: [Server] ara mai firse
-[17:20:16] [Server thread/INFO]: <RitikKhatri> lol
-[17:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6008ms or 120 ticks behind
-[17:20:34] [Server thread/INFO]: <RitikKhatri> shobit kha hai
-[17:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7720ms or 154 ticks behind
-[17:20:48] [Server thread/INFO]: <RitikKhatri> nvm
-[17:20:48] [Server thread/INFO]: <shobhit_joe> yahi hun
-[17:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
-[17:21:23] [Server thread/INFO]: sidmeister[/127.0.0.1:38159] logged in with entity id 16937 at (108.5, 84.0, -535.5)
-[17:21:23] [Server thread/INFO]: sidmeister joined the game
-[17:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6460ms or 129 ticks behind
-[17:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8719ms or 174 ticks behind
-[17:22:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10797ms or 215 ticks behind
-[17:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9281ms or 185 ticks behind
-[17:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7399ms or 147 ticks behind
-[17:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7087ms or 141 ticks behind
-[17:23:27] [Server thread/INFO]: <sidmeister> shobhit afk hai
-[17:23:34] [Server thread/INFO]: <shobhit_joe> yo
-[17:23:39] [Server thread/INFO]: <sidmeister> sup
-[17:23:42] [Server thread/INFO]: <sidmeister> ye dekh
-[17:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6674ms or 133 ticks behind
-[17:23:53] [Server thread/INFO]: <sidmeister> no
-[17:24:06] [Server thread/INFO]: <sidmeister> oye chorus fruit khayega?
-[17:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6726ms or 134 ticks behind
-[17:24:14] [Server thread/INFO]: <shobhit_joe> kha chuka hun
-[17:24:16] [Server thread/INFO]: <RitikKhatri> random teleport karta hai?
-[17:24:20] [Server thread/INFO]: <sidmeister> haan
-[17:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9733ms or 194 ticks behind
-[17:24:39] [Server thread/INFO]: <sidmeister> kitna dur but?
-[17:24:51] [Server thread/INFO]: <RitikKhatri> no idea
-[17:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
-[17:25:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5332ms or 106 ticks behind
-[17:25:30] [Server thread/INFO]: <sidmeister> kitna dur teleport?
-[17:25:33] [Server thread/INFO]: <sidmeister> shobhit?
-[17:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
-[17:25:39] [Server thread/INFO]: <RitikKhatri> flight duration hoti hai alag?
-[17:25:43] [Server thread/INFO]: <RitikKhatri> for firework?
-[17:25:44] [Server thread/INFO]: <shobhit_joe> 6 blocks max
-[17:25:52] [Server thread/WARN]: sidmeister moved too quickly! 6.390638989710823,-1.0,7.864913192518657
-[17:25:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
-[17:25:54] [Server thread/INFO]: <sidmeister> nice
-[17:26:07] [Server thread/INFO]: <RitikKhatri> sid jo tuune fire work doiye the, usme kitni duraition thi?
-[17:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
-[17:26:13] [Server thread/INFO]: <sidmeister> front 6 blocks
-[17:26:21] [Server thread/INFO]: <sidmeister> mast hai, free food
-[17:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
-[17:26:34] [Server thread/INFO]: <RitikKhatri> does it heal?
-[17:26:42] [Server thread/INFO]: <sidmeister> yep
-[17:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
-[17:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
-[17:27:09] [Server thread/INFO]: <shobhit_joe> arre ender pearls hai ??
-[17:27:14] [Server thread/INFO]: <sidmeister> han
-[17:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
-[17:27:24] [Server thread/INFO]: <shobhit_joe> dena
-[17:27:32] [Server thread/INFO]: <sidmeister> yele
-[17:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
-[17:27:51] [Server thread/INFO]: <RitikKhatri> gg mai ja rha
-[17:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
-[17:28:02] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[17:28:02] [Server thread/INFO]: RitikKhatri left the game
-[17:28:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3518ms or 70 ticks behind
-[17:28:23] [Server thread/INFO]: sidmeister fell from a high place
-[17:28:26] [Server thread/INFO]: <shobhit_joe> i wish i could fly
-[17:28:30] [Server thread/INFO]: Zeldris[/127.0.0.1:38169] logged in with entity id 18244 at (107.63800339790048, 84.5625, -534.6252323182373)
-[17:28:30] [Server thread/INFO]: Zeldris joined the game
-[17:28:32] [Server thread/INFO]: <shobhit_joe> lol
-[17:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[17:28:46] [Server thread/INFO]: Zeldris lost connection: Disconnected
-[17:28:46] [Server thread/INFO]: Zeldris left the game
-[17:28:49] [Server thread/INFO]: <shobhit_joe> broooooo
-[17:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
-[17:29:04] [Server thread/INFO]: <shobhit_joe> meri hasi nahi ruk rahi XD
-[17:29:28] [Server thread/INFO]: <sidmeister> :'
-[17:29:40] [Server thread/INFO]: <shobhit_joe> bhai kya mast scene tha yeh
-[17:30:11] [Server thread/INFO]: <sidmeister> mai respawn karra ender dragon
-[17:30:20] [Server thread/INFO]: <sidmeister> need xp :(
-[17:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[17:30:34] [Server thread/INFO]: <shobhit_joe> arre sun elytra dhoondne chalega ?
-[17:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
-[17:30:41] [Server thread/INFO]: <sidmeister> batao end city mai nahi mara but ghar mai maut hogayi
-[17:30:44] [Server thread/INFO]: <sidmeister> chal
-[17:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[17:31:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[17:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
-[17:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
-[17:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
-[17:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3309ms or 66 ticks behind
-[17:33:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4514ms or 90 ticks behind
-[17:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
-[17:33:51] [Server thread/INFO]: <shobhit_joe> kahan hai sid ?
-[17:34:00] [Server thread/INFO]: <sidmeister> enchant ment room
-[17:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3350ms or 67 ticks behind
-[17:34:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:34:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:34:59] [Server thread/INFO]: <sidmeister> pehen le
-[17:35:13] [Server thread/INFO]: <shobhit_joe> thank
-[17:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
-[17:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:36:34] [Server thread/INFO]: <sidmeister> majik
-[17:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:36:49] [Server thread/INFO]: <sidmeister> chal
-[17:37:02] [Server thread/INFO]: <sidmeister> gunpowder dede
-[17:37:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[17:37:12] [Server thread/INFO]: <shobhit_joe> mere paas nahi hai
-[17:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[17:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[17:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:39:41] [Server thread/INFO]: <sidmeister> i can rel8 what u went thru yesterday
-[17:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:40:06] [Server thread/INFO]: <shobhit_joe> bro tujhe samaan toh wapis mil gaya atleast
-[17:40:16] [Server thread/INFO]: <sidmeister> dono lele
-[17:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:41:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:41:42] [Server thread/INFO]: <shobhit_joe> bro ?
-[17:41:53] [Server thread/INFO]: <sidmeister> need powder
-[17:42:05] [Server thread/INFO]: <shobhit_joe> i have few in my home
-[17:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[17:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
-[17:43:40] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[17:43:40] [Server thread/INFO]: shobhit_joe left the game
-[17:43:40] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[17:43:40] [Server thread/INFO]: sidmeister left the game
-[17:44:14] [Server thread/INFO]: sidmeister[/127.0.0.1:38231] logged in with entity id 20077 at (-135.83370132638177, 35.0, -28.964862831398122)
-[17:44:14] [Server thread/INFO]: sidmeister joined the game
-[17:45:26] [Server thread/INFO]: shobhit_joe[/127.0.0.1:38239] logged in with entity id 20390 at (-104.09817278599508, 33.0, -25.940477706061113)
-[17:45:26] [Server thread/INFO]: shobhit_joe joined the game
-[17:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4279ms or 85 ticks behind
-[17:49:53] [Server thread/INFO]: <sidmeister> ye do paas walon ke leliye they hamne
-[17:50:07] [Server thread/INFO]: <sidmeister> render distance max karde
-[17:50:16] [Server thread/INFO]: <shobhit_joe> max hi hai
-[17:53:04] [Server thread/INFO]: <sidmeister> nahi hai udhar door doortak
-[17:53:41] [Server thread/INFO]: <sidmeister> nahi mila aage tak kuch
-[17:53:47] [Server thread/INFO]: <shobhit_joe> ab ?
-[17:54:01] [Server thread/INFO]: <sidmeister> dusre taraf dekhte hain
-[17:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[17:58:54] [Server thread/INFO]: <sidmeister> kahan hai
-[17:59:14] [Server thread/INFO]: Zeldris[/127.0.0.1:38287] logged in with entity id 22182 at (112.6826267270189, 84.0, -533.9112079185368)
-[17:59:14] [Server thread/INFO]: Zeldris joined the game
-[17:59:21] [Server thread/INFO]: <shobhit_joe> abbe jahan ender se lad rahe the
-[17:59:24] [Server thread/INFO]: <Zeldris> mila?
-[17:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
-[17:59:42] [Server thread/INFO]: <sidmeister> chal wapis
-[17:59:44] [Server thread/INFO]: <Zeldris> kidhar aau>?
-[17:59:48] [Server thread/INFO]: <sidmeister> end
-[17:59:53] [Server thread/INFO]: <Zeldris> aya
-[17:59:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5188ms or 103 ticks behind
-[18:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
-[18:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
-[18:01:22] [Server thread/WARN]: Zeldris moved too quickly! 1440.8364577989848,17.464159374955443,219.09837277458132
-[18:01:22] [Server thread/WARN]: Entity aah['Zeldris'/22182, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[18:01:26] [Server thread/INFO]: <Zeldris> aagya
-[18:01:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[18:02:23] [Server thread/INFO]: <Zeldris> kaha ho?
-[18:03:22] [Server thread/INFO]: <sidmeister> arrey sir aap fir shuru hoagaye
-[18:03:34] [Server thread/INFO]: <Zeldris> ye mast ghar kiska hai?
-[18:03:38] [Server thread/INFO]: <Zeldris> piche?
-[18:03:41] [Server thread/INFO]: <sidmeister> tum lolo dost
-[18:03:59] [Server thread/INFO]: <Zeldris> mujhe udhne wali shakti chahiyw
-[18:04:01] [Server thread/INFO]: <shobhit_joe> tu kahan jaa raha hai sid ??
-[18:04:46] [Server thread/INFO]: <shobhit_joe> kya krna hai abhi ?
-[18:04:56] [Server thread/WARN]: sidmeister moved too quickly! -8.925026285537115,-2.734440647373802,15.396632933696537
-[18:05:17] [Server thread/INFO]: Zeldris lost connection: Disconnected
-[18:05:17] [Server thread/INFO]: Zeldris left the game
-[18:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[18:05:30] [Server thread/INFO]: Zeldris[/127.0.0.1:38293] logged in with entity id 24093 at (-588.0932857330786, 59.0, 967.9946481378595)
-[18:05:30] [Server thread/INFO]: Zeldris joined the game
-[18:05:47] [Server thread/INFO]: <Zeldris> shobit kuch khane ka diyo
-[18:05:54] [Server thread/INFO]: <Zeldris> health ni hai
-[18:06:07] [Server thread/INFO]: <Zeldris> dhanyawaad
-[18:06:16] [Server thread/INFO]: <sidmeister> kahan ho?
-[18:06:20] [Server thread/INFO]: <shobhit_joe> end
-[18:06:41] [Server thread/INFO]: <Zeldris> ghr ke andr nahi ja skte upar?
-[18:06:53] [Server thread/INFO]: <shobhit_joe> jaa skta hai lekin kuch milega nahi
-[18:07:03] [Server thread/INFO]: <shobhit_joe> in dono ne loot liya saara maal
-[18:07:05] [Server thread/INFO]: <sidmeister> bhai koi nahi idhar
-[18:07:11] [Server thread/INFO]: <Zeldris> okay
-[18:07:12] [Server thread/INFO]: Zeldris has made the advancement [The City at the End of the Game]
-[18:07:45] [Server thread/INFO]: <sidmeister> coords batao
-[18:08:00] [Server thread/INFO]: <shobhit_joe> abbe bhai yahi hai jahan end city hai
-[18:08:17] [Server thread/INFO]: <sidmeister> ye building ke paas ajao
-[18:08:21] [Server thread/INFO]: <sidmeister> peeche wali
-[18:08:30] [Server thread/INFO]: Zeldris fell from a high place
-[18:08:43] [Server thread/INFO]: <Zeldris> bhaikya mazaak ahi
-[18:08:48] [Server thread/INFO]: <sidmeister> coords toh batade
-[18:08:53] [Server thread/INFO]: <Zeldris> mera saaman utha ke shobit
-[18:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7193ms or 143 ticks behind
-[18:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
-[18:09:49] [Server thread/INFO]: <Zeldris> mera saamaan utha skte ho?
-[18:09:53] [Server thread/INFO]: <sidmeister> bhai shobhit coords bata
-[18:09:56] [Server thread/INFO]: <shobhit_joe> utha liya
-[18:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[18:09:58] [Server thread/INFO]: <Zeldris> golden shoes wagera?
-[18:10:02] [Server thread/INFO]: <sidmeister> mai aage tak ka dekh aya
-[18:10:03] [Server thread/INFO]: <shobhit_joe> aaja wapis
-[18:10:08] [Server thread/INFO]: <sidmeister> yaha shayad mil jaye
-[18:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4546ms or 90 ticks behind
-[18:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
-[18:10:45] [Server thread/INFO]: <Zeldris> wapas kab aa rhe ho?
-[18:10:46] [Server thread/INFO]: <sidmeister> kahan haiiiiiiiii
-[18:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7009ms or 140 ticks behind
-[18:10:59] [Server thread/INFO]: <Zeldris> mai udhar tak nahi aa skta merepass eye nahi hai
-[18:11:05] [Server thread/INFO]: <Zeldris> ghr aajaiyo saman lekr
-[18:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7094ms or 141 ticks behind
-[18:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6509ms or 130 ticks behind
-[18:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4723ms or 94 ticks behind
-[18:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4163ms or 83 ticks behind
-[18:12:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5854ms or 117 ticks behind
-[18:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6738ms or 134 ticks behind
-[18:13:08] [Server thread/INFO]: <sidmeister> shobhit??
-[18:13:08] [Server thread/INFO]: <shobhit_joe> kahan hai zeldris mai aa gaya wapis
-[18:13:19] [Server thread/INFO]: <Zeldris> sid ke ghr
-[18:13:23] [Server thread/INFO]: <shobhit_joe> iske samaan deke aa raha hun 2 mint
-[18:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8408ms or 168 ticks behind
-[18:13:50] [Server thread/INFO]: <Zeldris> mai bhi aa rha hun
-[18:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11865ms or 237 ticks behind
-[18:14:00] [Server thread/INFO]: <Zeldris> thank you :)
-[18:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4824ms or 96 ticks behind
-[18:14:32] [Server thread/INFO]: <Zeldris> bas?
-[18:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3916ms or 78 ticks behind
-[18:14:37] [Server thread/INFO]: <Zeldris> eye hongi 10
-[18:14:38] [Server thread/INFO]: <shobhit_joe> haan
-[18:14:47] [Server thread/INFO]: <shobhit_joe> eye nahi mila
-[18:14:50] [Server thread/INFO]: <Zeldris> okay
-[18:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4430ms or 88 ticks behind
-[18:15:04] [Server thread/INFO]: <shobhit_joe> chal
-[18:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4547ms or 90 ticks behind
-[18:15:21] [Server thread/INFO]: <sidmeister> coal lete aana
-[18:15:25] [Server thread/INFO]: <sidmeister> and wood bhi
-[18:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
-[18:15:34] [Server thread/INFO]: <shobhit_joe> kahan hai coal
-[18:15:35] [Server thread/INFO]: <Zeldris> ek aur eye dede shobit
-[18:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
-[18:16:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
-[18:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5527ms or 110 ticks behind
-[18:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5256ms or 105 ticks behind
-[18:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7972ms or 159 ticks behind
-[18:17:26] [Server thread/INFO]: <shobhit_joe> wood le liya zeld ?
-[18:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4212ms or 84 ticks behind
-[18:17:33] [Server thread/INFO]: <Zeldris> nahi
-[18:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8976ms or 179 ticks behind
-[18:17:56] [Server thread/INFO]: <shobhit_joe> chal aaja
-[18:17:58] [Server thread/INFO]: <Zeldris> wood lu?
-[18:18:11] [Server thread/INFO]: <shobhit_joe> uske ghar toh nahi mila mujhe
-[18:18:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10931ms or 218 ticks behind
-[18:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4964ms or 99 ticks behind
-[18:19:20] [Server thread/WARN]: sidmeister moved too quickly! 15.732922129201597,-1.668104639275441,7.433307907613198
-[18:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[18:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
-[18:19:51] [Server thread/WARN]: shobhit_joe moved too quickly! 1440.9308671339556,17.464159374955443,219.10188227349806
-[18:20:05] [Server thread/INFO]: <sidmeister> halo
-[18:20:30] [Server thread/INFO]: Zeldris was slain by shobhit_joe
-[18:20:38] [Server thread/INFO]: <sidmeister> haawwww
-[18:20:43] [Server thread/INFO]: <Zeldris> ye maar kyu re the?
-[18:20:45] [Server thread/INFO]: <sidmeister> :""(
-[18:20:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:21:00] [Server thread/INFO]: <shobhit_joe> unki aankho mei dekha hoga
-[18:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7225ms or 144 ticks behind
-[18:21:14] [Server thread/INFO]: <shobhit_joe> ab wapis aa jldi se
-[18:21:29] [Server thread/INFO]: <shobhit_joe> jldiiii
-[18:21:33] [Server thread/INFO]: <Zeldris> sun shobhit samaan utha le aur jab wapas aaye sid ke daabe mai daldiyo
-[18:21:38] [Server thread/INFO]: <Zeldris> mai kaise aau
-[18:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13616ms or 272 ticks behind
-[18:21:45] [Server thread/INFO]: <shobhit_joe> aaja na bhaag ke
-[18:21:49] [Server thread/INFO]: <Zeldris> aya
-[18:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7724ms or 154 ticks behind
-[18:22:07] [Server thread/INFO]: <shobhit_joe> sid kuch mila ?
-[18:22:20] [Server thread/INFO]: <sidmeister> prolly mil jaye
-[18:22:30] [Server thread/INFO]: <sidmeister> is side big islands hain
-[18:22:57] [Server thread/INFO]: <shobhit_joe> dhoondta reh
-[18:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:23:23] [Server thread/INFO]: <Zeldris> aagya
-[18:24:28] [Server thread/INFO]: <Zeldris> dhanyawaad
-[18:24:29] [Server thread/INFO]: <shobhit_joe> chal
-[18:24:39] [Server thread/INFO]: <sidmeister> follow the torches
-[18:24:43] [Server thread/INFO]: <shobhit_joe> neeche dekh ke chaliyo
-[18:25:31] [Server thread/INFO]: <shobhit_joe> kis side sid ?
-[18:25:36] [Server thread/INFO]: <sidmeister> peeche
-[18:25:44] [Server thread/INFO]: <sidmeister> single pathed way waala
-[18:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[18:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[18:28:52] [Server thread/INFO]: <shobhit_joe> iske neeche rehke tu maar skta hai
-[18:28:57] [Server thread/INFO]: <sidmeister> ajao bhai
-[18:28:58] [Server thread/INFO]: <Zeldris> ok
-[18:31:51] [Server thread/WARN]: sidmeister moved too quickly! 7.235848145511454,5.515951003035525,-15.507960215960793
-[18:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[18:32:01] [Server thread/INFO]: <shobhit_joe> aa gaye
-[18:32:13] [Server thread/INFO]: <Zeldris> khana dede kuch extra hau toh
-[18:32:52] [Server thread/INFO]: <sidmeister> chalo
-[18:33:36] [Server thread/INFO]: <sidmeister> torches dedo
-[18:34:42] [Server thread/INFO]: <sidmeister> blocks ille
-[18:34:59] [Server thread/INFO]: <sidmeister> ye lelo
-[18:35:05] [Server thread/INFO]: <sidmeister> shobhit
-[18:35:36] [Server thread/INFO]: <shobhit_joe> pratham exta blocks mat waste kar
-[18:35:59] [Server thread/INFO]: <sidmeister> udhar ek aur endportal hai
-[18:36:01] [Server thread/INFO]: <Zeldris> axe extra hai?
-[18:36:44] [Server thread/INFO]: <Zeldris> pickaxe?
-[18:36:51] [Server thread/INFO]: <sidmeister> hainahi
-[18:36:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[18:38:09] [Server thread/INFO]: <Zeldris> eye nahi hai merepass
-[18:38:12] [Server thread/INFO]: <shobhit_joe> isse kahan pohunchenge
-[18:38:21] [Server thread/INFO]: <sidmeister> wapis shayad
-[18:38:35] [Server thread/INFO]: <shobhit_joe> toh jaane ki zaroorat nahi hai na
-[18:38:50] [Server thread/INFO]: <sidmeister> nahi but map sa ban gaya ab ek wich is gud
-[18:39:07] [Server thread/INFO]: <sidmeister> foundddd
-[18:39:10] [Server thread/INFO]: <shobhit_joe> mil gayo re
-[18:39:26] [Server thread/INFO]: <sidmeister> wahi hai portal ke pass hamesha ek na ek hota
-[18:39:33] [Server thread/INFO]: <Zeldris> kya>?
-[18:39:39] [Server thread/INFO]: <sidmeister> mai laun tere liye ya tujhe jaana hai?
-[18:39:45] [Server thread/INFO]: <shobhit_joe> mai jaunga
-[18:40:08] [Server thread/INFO]: <Zeldris> kya lane?
-[18:40:12] [Server thread/INFO]: <sidmeister> wings
-[18:40:14] [Server thread/INFO]: <sidmeister> elytra
-[18:40:52] [Server thread/INFO]: <sidmeister> achhi baat ye ki yaha ghasts nahi
-[18:41:19] [Server thread/INFO]: <sidmeister> ye le shobhit
-[18:41:32] [Server thread/INFO]: <sidmeister> goodluck
-[18:42:23] [Server thread/INFO]: <sidmeister> sun
-[18:42:23] [Server thread/INFO]: <Zeldris> krna kya hai?
-[18:42:46] [Server thread/INFO]: <sidmeister> arrey shobhit sun
-[18:42:57] [Server thread/INFO]: <sidmeister> ek trick
-[18:42:57] [Server thread/INFO]: <shobhit_joe> bol
-[18:43:23] [Server thread/INFO]: <sidmeister> neeche naani dal
-[18:43:25] [Server thread/INFO]: <sidmeister> paani
-[18:43:35] [Server thread/INFO]: <sidmeister> and
-[18:43:44] [Server thread/INFO]: <sidmeister> jo harbor hai just uske neeche mine kariyo
-[18:43:55] [Server thread/INFO]: <sidmeister> wahin hoti hai andar jaane ki zarurat nahi
-[18:44:13] [Server thread/INFO]: <sidmeister> chal pratham
-[18:45:16] [Server thread/INFO]: <sidmeister> attack hoga dhyan se
-[18:45:43] [Server thread/INFO]: shobhit_joe has reached the goal [Sky's the Limit]
-[18:45:49] [Server thread/INFO]: Zeldris was burnt to a crisp whilst fighting sidmeister
-[18:46:02] [Server thread/INFO]: <sidmeister> sorry bhai :(
-[18:46:07] [Server thread/INFO]: <Zeldris> saamaan uthaliyo
-[18:46:11] [Server thread/INFO]: <sidmeister> leliya
-[18:46:21] [Server thread/INFO]: <Zeldris> badiya chal mai ja rha'
-[18:46:27] [Server thread/INFO]: <Zeldris> bohut khtrnaak jagah hai
-[18:46:30] [Server thread/INFO]: <Zeldris> 3 baar margya
-[18:46:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:46:40] [Server thread/INFO]: <Zeldris> box mai daaldiyo
-[18:46:43] [Server thread/INFO]: <Zeldris> saaman
-[18:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4678ms or 93 ticks behind
-[18:46:53] [Server thread/INFO]: Zeldris lost connection: Disconnected
-[18:46:53] [Server thread/INFO]: Zeldris left the game
-[18:50:44] [Server thread/INFO]: <sidmeister> upar se shells leliyo
-[18:51:25] [Server thread/INFO]: <sidmeister> mar gaye saare?
-[18:51:30] [Server thread/INFO]: <shobhit_joe> nahi
-[18:52:44] [Server thread/INFO]: <sidmeister> chal wapis
-[18:53:41] [Server thread/INFO]: <sidmeister> chal wapis
-[18:53:45] [Server thread/INFO]: <sidmeister> loot mili?
-[18:53:49] [Server thread/INFO]: <shobhit_joe> haan
-[18:53:53] [Server thread/INFO]: <sidmeister> kuch badhiya?
-[18:54:23] [Server thread/INFO]: <shobhit_joe> diamonds
-[18:54:39] [Server thread/WARN]: shobhit_joe moved too quickly! -1.3839985150802931,-1.0,9.853510844232005
-[18:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
-[18:54:51] [Server thread/INFO]: <shobhit_joe> kahan pohuncha sid ?
-[18:54:56] [Server thread/INFO]: <sidmeister> end
-[18:55:03] [Server thread/INFO]: <shobhit_joe> wapis na ??
-[18:55:07] [Server thread/INFO]: <sidmeister> han
-[18:56:39] [Server thread/INFO]: <shobhit_joe> elytra mei mending ke alava kuch lagta hai ??
-[18:56:45] [Server thread/INFO]: <sidmeister> unbreaking
-[18:57:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
-[18:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10884ms or 217 ticks behind
-[18:58:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10577ms or 211 ticks behind
-[18:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6706ms or 134 ticks behind
-[18:59:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6222ms or 124 ticks behind
-[18:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5892ms or 117 ticks behind
-[18:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
-[19:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5257ms or 105 ticks behind
-[19:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
-[19:00:31] [Server thread/INFO]: <shobhit_joe> chalo bhai gg mai bhi jaa raha ab
-[19:00:36] [Server thread/INFO]: <sidmeister> ok gn
-[19:00:37] [Server thread/INFO]: <sidmeister> gg
-[19:00:40] [Server thread/INFO]: <shobhit_joe> gn
-[19:00:42] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[19:00:42] [Server thread/INFO]: shobhit_joe left the game
-[19:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5519ms or 110 ticks behind
-[19:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:01:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:01:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[19:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[19:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[19:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[19:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[19:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[19:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:12:12] [Server thread/WARN]: Trying to add entity with duplicated UUID 70b127a9-27cb-41b2-8495-bf4b9d01bbf6. Existing minecraft:armor_stand#36004, new: minecraft:armor_stand#36004
-[19:12:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:13:08] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[19:13:08] [Server thread/INFO]: sidmeister left the game
-[19:13:11] [Server thread/INFO]: sidmeister[/127.0.0.1:38759] logged in with entity id 36099 at (110.28332105099932, 76.0, -533.8946495413992)
-[19:13:11] [Server thread/INFO]: sidmeister joined the game
-[19:13:26] [Server thread/INFO]: sidmeister lost connection: Timed out
-[19:13:26] [Server thread/INFO]: sidmeister left the game
-[19:13:26] [Server thread/WARN]: handleDisconnection() called twice
-[19:13:30] [Server thread/INFO]: sidmeister[/127.0.0.1:38763] logged in with entity id 36347 at (110.28332105099932, 76.0, -533.8946495413992)
-[19:13:30] [Server thread/INFO]: sidmeister joined the game
-[19:14:03] [Server thread/WARN]: Trying to add entity with duplicated UUID 183d55a2-5084-4f15-b3da-67c2e3df7132. Existing minecraft:armor_stand#36602, new: minecraft:armor_stand#36602
-[19:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[19:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[19:15:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[19:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[19:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
-[19:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:17:14] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[19:17:14] [Server thread/INFO]: sidmeister left the game
-[19:20:50] [Server thread/INFO]: Stopping the server
-[19:20:50] [Server thread/INFO]: Stopping server
-[19:20:50] [Server thread/INFO]: Saving players
-[19:20:50] [Server thread/INFO]: Saving worlds
-[19:20:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:20:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:20:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:50] [Server thread/INFO]: <sidmeister> oye wo bow yera infinity
+[00:03:08] [Server thread/INFO]: <RitikKhatri> infinity to sasta hai
+[00:03:15] [Server thread/INFO]: <RitikKhatri> 10-14 emeralds
+[00:10:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11537, l='ServerLevel[world]', x=-40.17, y=72.00, z=-509.94]
+[00:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[00:18:59] [Server thread/INFO]: <shobhit_joe> hopper xtra toh nahi hai na kisi ke paas jo use na ho raha ho
+[00:19:07] [Server thread/INFO]: <sidmeister> i dont
+[00:19:14] [Server thread/INFO]: <RitikKhatri> nhi
+[00:19:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14180, l='ServerLevel[world]', x=-36.86, y=72.00, z=-508.83]
+[00:19:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14180, l='ServerLevel[world]', x=-36.86, y=72.00, z=-508.83]
+[00:21:23] [Server thread/INFO]: <shobhit_joe> carpets xtra hai kisi ke paas ?
+[00:21:51] [Server thread/INFO]: <RitikKhatri> wool kafi diya tha maine sid ko
+[00:24:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:24:58] [Server thread/INFO]: /set time day<--[HERE]
+[00:25:08] [Server thread/INFO]: Set the time to 1000
+[00:29:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16523, l='ServerLevel[world]', x=-37.29, y=72.00, z=-510.36]
+[00:29:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16523, l='ServerLevel[world]', x=-37.29, y=72.00, z=-510.36]
+[00:32:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17423, l='ServerLevel[world]', x=-36.61, y=72.00, z=-510.03]
+[00:35:25] [Server thread/INFO]: <shobhit_joe> pearls hai xtra ?
+[00:35:34] [Server thread/INFO]: <sidmeister> ek hai
+[00:35:58] [Server thread/INFO]: <shobhit_joe> sleep
+[00:38:07] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[00:38:07] [Server thread/INFO]: RitikKhatri left the game
+[00:39:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19343, l='ServerLevel[world]', x=-40.17, y=72.00, z=-509.94]
+[00:43:40] [Server thread/INFO]: [Server] kitne baje tak kheloge?
+[00:44:27] [Server thread/INFO]: <shobhit_joe> 1:15 something
+[00:47:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/20919, l='ServerLevel[world]', x=-38.91, y=72.00, z=-509.32]
+[00:48:58] [Server thread/INFO]: <shobhit_joe> sleep
+[00:58:30] [Server thread/INFO]: <sidmeister> kidhar ho?
+[00:58:58] [Server thread/INFO]: <shobhit_joe> bro da fuk
+[00:59:16] [Server thread/INFO]: <sidmeister> konsa xp farm banara?
+[00:59:23] [Server thread/INFO]: <shobhit_joe> enderman
+[00:59:28] [Server thread/INFO]: <sidmeister> nice
+[00:59:43] [Server thread/INFO]: <sidmeister> thoda gpoweder dede
+[01:00:00] [Server thread/INFO]: <shobhit_joe> nahi hai bhai gand se nikalega kya
+[01:00:06] [Server thread/INFO]: <sidmeister> :')
+[01:02:39] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:02:39] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[01:19:08] [Server thread/INFO]: shobhit_joe fell out of the world
+[01:19:09] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$a.a(SourceFile:56) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at ol$$Lambda$3790/1879119263.run(Unknown Source) ~[?:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) [server.jar:?]
+	at aof.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) [server.jar:?]
+	at aob.y(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) [server.jar:?]
+	at aob.bl(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3275/1466023271.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:19:09] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$a.a(SourceFile:56) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at ol$$Lambda$3790/1879119263.run(Unknown Source) ~[?:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) [server.jar:?]
+	at aof.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) [server.jar:?]
+	at aob.y(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) [server.jar:?]
+	at aob.bl(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3275/1466023271.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:19:09] [Server thread/WARN]: shobhit_joe moved too quickly! 0.0,-19.960226058350088,0.0
+[01:19:21] [Server thread/INFO]: <sidmeister> goals
+[01:19:38] [Server thread/INFO]: <shobhit_joe> nah its good everything is safe
+[01:19:46] [Server thread/INFO]: <sidmeister> arrey sir
+[01:23:56] [Server thread/INFO]: shobhit_joe fell out of the world
+[01:23:57] [Server thread/WARN]: shobhit_joe moved too quickly! 0.0,-20.391368716257404,0.0
+[01:24:16] [Server thread/INFO]: <shobhit_joe> bc kitna mushkil hai yeh
+[01:26:29] [Server thread/INFO]: <shobhit_joe> arre sid 64 ladders aur 128 leaf blocks laa skta hai kya ?
+[01:26:40] [Server thread/INFO]: <sidmeister> mai sone jara bhai
+[01:26:53] [Server thread/INFO]: shobhit_joe fell out of the world
+[01:26:54] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$a.a(SourceFile:56) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at ol$$Lambda$3790/1879119263.run(Unknown Source) ~[?:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) [server.jar:?]
+	at aof.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) [server.jar:?]
+	at aob.y(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) [server.jar:?]
+	at aob.bl(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) [server.jar:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3275/1466023271.run(Unknown Source) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:26:54] [Server thread/WARN]: shobhit_joe moved too quickly! 0.0,-20.491970122900682,0.0
+[01:26:54] [Server thread/INFO]: <sidmeister> aaj ka done karen?
+[01:27:09] [Server thread/INFO]: <shobhit_joe> chal theek hai kal krte hai bye gn
+[01:27:18] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[01:27:18] [Server thread/INFO]: shobhit_joe left the game
+[01:36:45] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[01:36:45] [Server thread/INFO]: sidmeister left the game
+[01:37:16] [Server thread/INFO]: Stopping the server
+[01:37:16] [Server thread/INFO]: Stopping server
+[01:37:16] [Server thread/INFO]: Saving players
+[01:37:16] [Server thread/INFO]: Saving worlds
+[01:37:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:37:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
