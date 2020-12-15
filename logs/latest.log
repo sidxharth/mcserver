@@ -1,57 +1,54 @@
-[14:40:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:40:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:40:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:40:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:40:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:40:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:40:46] [main/INFO]: Reloading ResourceManager: Default
-[14:40:47] [Worker-Main-14/INFO]: Loaded 7 recipes
-[14:40:47] [Worker-Main-14/INFO]: Loaded 927 advancements
-[14:40:48] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[14:40:48] [Server thread/INFO]: Loading properties
-[14:40:48] [Server thread/INFO]: Default game type: SURVIVAL
-[14:40:48] [Server thread/INFO]: Generating keypair
-[14:40:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:40:49] [Server thread/INFO]: Using default channel type
-[14:40:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:40:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:40:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:40:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:40:50] [Server thread/INFO]: Preparing level "world"
-[14:40:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:40:51] [Server thread/INFO]: Preparing spawn area: 0%
-[14:40:51] [Server thread/INFO]: Preparing spawn area: 0%
-[14:40:51] [Server thread/INFO]: Preparing spawn area: 0%
-[14:40:52] [Server thread/INFO]: Preparing spawn area: 44%
-[14:40:52] [Server thread/INFO]: Time elapsed: 1902 ms
-[14:40:52] [Server thread/INFO]: Done (2.016s)! For help, type "help"
-[14:40:59] [Server thread/INFO]: RitikKhatri[/127.0.0.1:29173] logged in with entity id 75 at (150.57555230588983, 64.0, -569.4205105806361)
-[14:40:59] [Server thread/INFO]: RitikKhatri joined the game
-[14:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
-[14:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3478ms or 69 ticks behind
-[15:08:07] [Server thread/WARN]: Trying to add entity with duplicated UUID 52c8776f-bc8d-47f8-8167-2d41b98ace5f. Existing minecraft:armor_stand#5015, new: minecraft:armor_stand#5015
-[15:08:10] [Server thread/WARN]: Trying to add entity with duplicated UUID 702036a2-d115-49e7-bd9e-b515c79164b2. Existing minecraft:armor_stand#5023, new: minecraft:armor_stand#5023
-[15:08:11] [Server thread/WARN]: Trying to add entity with duplicated UUID e4669360-1f66-459c-98d5-7ef23a5713d6. Existing minecraft:armor_stand#5024, new: minecraft:armor_stand#5024
-[15:10:22] [Server thread/WARN]: Trying to add entity with duplicated UUID 23465c70-e9a9-4bae-83e2-82e650860a79. Existing minecraft:piglin_brute#5506, new: minecraft:piglin_brute#5510
-[15:10:22] [Server thread/WARN]: Trying to add entity with duplicated UUID b50b1137-2f4d-4331-86ef-3a9b6c155e9f. Existing minecraft:piglin_brute#5505, new: minecraft:piglin_brute#5511
-[15:12:47] [Server thread/WARN]: RitikKhatri moved too quickly! 1441.0083707150884,17.464159374955443,219.12555513515608
-[15:12:47] [Server thread/WARN]: RitikKhatri moved too quickly! 1441.0083707150884,17.464159374955443,219.12555513515608
-[15:12:47] [Server thread/WARN]: Entity aah['RitikKhatri'/75, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[15:12:48] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[15:12:48] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[15:27:23] [Server thread/INFO]: Villager bfj['Librarian'/143, l='ServerLevel[world]', x=112.44, y=76.00, z=-505.27] died, message: 'Librarian was slain by Zombie'
-[15:29:18] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[15:29:18] [Server thread/INFO]: RitikKhatri left the game
-[15:29:33] [Server thread/INFO]: Stopping the server
-[15:29:33] [Server thread/INFO]: Stopping server
-[15:29:33] [Server thread/INFO]: Saving players
-[15:29:33] [Server thread/INFO]: Saving worlds
-[15:29:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:29:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:29:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:29:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:18:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:18:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:18:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:18:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:18:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:18:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:18:46] [main/INFO]: Reloading ResourceManager: Default
+[22:18:47] [Worker-Main-13/INFO]: Loaded 7 recipes
+[22:18:49] [Worker-Main-13/INFO]: Loaded 927 advancements
+[22:18:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:18:52] [Server thread/INFO]: Loading properties
+[22:18:52] [Server thread/INFO]: Default game type: SURVIVAL
+[22:18:52] [Server thread/INFO]: Generating keypair
+[22:18:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:18:53] [Server thread/INFO]: Using default channel type
+[22:19:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:19:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:19:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:19:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:19:01] [Server thread/INFO]: Preparing level "world"
+[22:19:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:19:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:05] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:05] [Server thread/INFO]: Preparing spawn area: 0%
+[22:19:07] [Server thread/INFO]: Time elapsed: 5336 ms
+[22:19:07] [Server thread/INFO]: Done (5.681s)! For help, type "help"
+[22:19:38] [Server thread/INFO]: RitikKhatri[/127.0.0.1:4279] logged in with entity id 76 at (105.84676434434854, 62.0, -509.4581212367695)
+[22:19:38] [Server thread/INFO]: RitikKhatri joined the game
+[22:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22:26:38] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[22:26:38] [Server thread/INFO]: RitikKhatri left the game
+[22:34:10] [Server thread/INFO]: RitikKhatri[/127.0.0.1:4837] logged in with entity id 1512 at (135.63996899091393, 64.0, -585.8292232904554)
+[22:34:10] [Server thread/INFO]: RitikKhatri joined the game
+[22:42:39] [Server thread/INFO]: RitikKhatri has made the advancement [Tactical Fishing]
+[22:46:13] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[22:46:13] [Server thread/INFO]: RitikKhatri left the game
+[22:46:29] [Server thread/INFO]: Stopping the server
+[22:46:29] [Server thread/INFO]: Stopping server
+[22:46:29] [Server thread/INFO]: Saving players
+[22:46:29] [Server thread/INFO]: Saving worlds
+[22:46:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:46:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:46:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:46:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:46:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:46:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:46:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:46:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:46:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
