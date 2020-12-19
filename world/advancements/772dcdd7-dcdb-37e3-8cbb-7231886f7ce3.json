@@ -2177,6 +2177,7 @@
       "cooked_beef": "2020-11-30 12:52:20 +0530",
       "chorus_fruit": "2020-12-13 22:20:58 +0530",
       "apple": "2020-11-23 21:56:08 +0530",
+      "cooked_cod": "2020-12-19 18:46:19 +0530",
       "bread": "2020-11-24 23:08:15 +0530",
       "cookie": "2020-11-27 16:50:58 +0530",
       "melon_slice": "2020-12-08 22:52:17 +0530",
@@ -3586,7 +3587,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/black.png": "2020-12-15 22:22:27 +0530"
+      "textures/entity/cat/black.png": "2020-12-15 22:22:27 +0530",
+      "textures/entity/cat/british_shorthair.png": "2020-12-18 16:24:54 +0530"
     },
     "done": false
   },
