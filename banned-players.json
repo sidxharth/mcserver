@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "635a56dd-9859-333e-a7a0-d1ff803ddf7e",
+    "name": "Ryzenstar",
+    "created": "2020-12-24 13:59:59 +0530",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

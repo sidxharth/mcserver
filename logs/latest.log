@@ -1,394 +1,59 @@
-[17:55:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:55:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:55:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:55:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:55:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:55:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:55:20] [main/INFO]: Reloading ResourceManager: Default
-[17:55:21] [Worker-Main-14/INFO]: Loaded 7 recipes
-[17:55:22] [Worker-Main-14/INFO]: Loaded 927 advancements
-[17:55:24] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[17:55:24] [Server thread/INFO]: Loading properties
-[17:55:24] [Server thread/INFO]: Default game type: SURVIVAL
-[17:55:24] [Server thread/INFO]: Generating keypair
-[17:55:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:24] [Server thread/INFO]: Using epoll channel type
-[17:55:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:55:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:55:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:55:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:55:24] [Server thread/INFO]: Preparing level "world"
-[17:55:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[17:55:28] [Server thread/INFO]: Preparing spawn area: 17%
-[17:55:28] [Server thread/INFO]: Time elapsed: 3355 ms
-[17:55:28] [Server thread/INFO]: Done (3.507s)! For help, type "help"
-[17:56:46] [Server thread/INFO]: sidmeister[/127.0.0.1:48224] logged in with entity id 74 at (102.01816532142651, 74.0, -547.5305194689099)
-[17:56:46] [Server thread/INFO]: sidmeister joined the game
-[17:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[17:58:08] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48232] logged in with entity id 803 at (110.5, 84.0, -535.5)
-[17:58:08] [Server thread/INFO]: wavywavewalker joined the game
-[17:59:00] [Server thread/INFO]: <wavywavewalker> bhai din ni hora...-_-
-[17:59:12] [Server thread/INFO]: <sidmeister> mujhe bhi sona hoga
-[17:59:14] [Server thread/INFO]: <sidmeister> ruk
-[17:59:26] [Server thread/INFO]: <sidmeister> bed pe ja
-[17:59:33] [Server thread/INFO]: <wavywavewalker> oh acha aisa kya!!
-[17:59:38] [Server thread/INFO]: <sidmeister> yea
-[18:01:18] [Server thread/INFO]: <wavywavewalker> door ke liye dhnyaavd
-[18:01:28] [Server thread/INFO]: <sidmeister> _/\_
-[18:01:43] [Server thread/INFO]: <sidmeister> chest mai ek aur bhent hai
-[18:02:28] [Server thread/INFO]: <wavywavewalker> chest bhi ahi....
-[18:02:34] [Server thread/INFO]: <wavywavewalker> oooooo....
-[18:02:45] [Server thread/INFO]: <wavywavewalker> dhnyaavd bhaijaan
-[18:02:50] [Server thread/INFO]: <sidmeister> _/\_
-[18:03:33] [Server thread/INFO]: <sidmeister> ye pickaxe xp se heal hoti rahegi
-[18:03:59] [Server thread/INFO]: <wavywavewalker> cool mast hai!!
-[18:04:40] [Server thread/INFO]: <wavywavewalker> arre pr ye mera bnda khana hi ni khata...
-[18:04:56] [Server thread/INFO]: <wavywavewalker> abhi tk to mar mar ke hi chlri gaddi
-[18:05:03] [Server thread/INFO]: <sidmeister> brh
-[18:05:07] [Server thread/INFO]: <sidmeister> tkal toh kha liya tha but
-[18:05:20] [Server thread/INFO]: <wavywavewalker> hn kha to lia tha
-[18:05:37] [Server thread/INFO]: <wavywavewalker> abhi mei kal mouse launga
-[18:05:46] [Server thread/INFO]: <sidmeister> mouse se hi khel
-[18:06:01] [Server thread/INFO]: <sidmeister> arrey touchpad se nahi khata wo
-[18:06:05] [Server thread/INFO]: <sidmeister> mera bhi nahi khara
-[18:06:08] [Server thread/INFO]: <wavywavewalker> tb dekhte hai...laptop ke right click se to baat bn ni rh
-[18:06:22] [Server thread/INFO]: <wavywavewalker> hn wahi!!
-[18:11:49] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[18:11:49] [Server thread/INFO]: sidmeister left the game
-[18:13:18] [Server thread/INFO]: wavywavewalker has made the advancement [Monster Hunter]
-[18:13:27] [Server thread/INFO]: wavywavewalker was slain by Zombie
-[18:14:34] [Server thread/INFO]: sidmeister[/127.0.0.1:48266] logged in with entity id 4619 at (128.5715535070614, 73.0, -504.46254919821376)
-[18:14:34] [Server thread/INFO]: sidmeister joined the game
-[18:14:55] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[18:14:55] [Server thread/INFO]: wavywavewalker left the game
-[18:14:55] [Server thread/WARN]: handleDisconnection() called twice
-[18:15:00] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48268] logged in with entity id 4798 at (102.32099230186968, 70.0, -627.7602226059583)
-[18:15:00] [Server thread/INFO]: wavywavewalker joined the game
-[18:15:15] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:15:15] [Server thread/INFO]: wavywavewalker left the game
-[18:15:26] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48270] logged in with entity id 4947 at (102.32099230186968, 70.0, -627.7602226059583)
-[18:15:26] [Server thread/INFO]: wavywavewalker joined the game
-[18:15:34] [Server thread/INFO]: <wavywavewalker> t
-[18:19:30] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48276] logged in with entity id 6170 at (278.4688579034423, 25.0, -596.9000607057748)
-[18:19:30] [Server thread/INFO]: RitikKhatri joined the game
-[18:24:43] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[18:24:43] [Server thread/INFO]: sidmeister left the game
-[18:24:48] [Server thread/INFO]: Incorrect argument for command
-[18:24:48] [Server thread/INFO]: /gamemode set hard<--[HERE]
-[18:24:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:24:54] [Server thread/INFO]: /set gamemode hard<--[HERE]
-[18:25:15] [Server thread/INFO]: The difficulty has been set to Hard
-[18:25:19] [Server thread/INFO]: sidmeister[/127.0.0.1:48320] logged in with entity id 7864 at (113.48500995020247, 75.0, -503.6668589582796)
-[18:25:19] [Server thread/INFO]: sidmeister joined the game
-[18:26:27] [Server thread/INFO]: <sidmeister> slep
-[18:26:48] [Server thread/INFO]: <sidmeister> idhar chal wave
-[18:26:59] [Server thread/INFO]: <sidmeister> press shift
-[18:27:14] [Server thread/INFO]: <sidmeister> dont killanyone
-[18:27:41] [Server thread/INFO]: wavywavewalker has made the advancement [Cover Me With Diamonds]
-[18:27:55] [Server thread/INFO]: <sidmeister> these are traders
-[18:28:08] [Server thread/INFO]: <sidmeister> they trade stuff for emeralds
-[18:28:26] [Server thread/INFO]: <wavywavewalker> oho...somebodys rich
-[18:29:17] [Server thread/INFO]: <sidmeister> u right click on traders for trading
-[18:30:43] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:30:43] [Server thread/INFO]: wavywavewalker left the game
-[18:30:53] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48344] logged in with entity id 9177 at (104.35710084241595, 63.0, -522.559264056256)
-[18:30:53] [Server thread/INFO]: wavywavewalker joined the game
-[18:31:04] [Server thread/INFO]: <RitikKhatri> finally i was able to spawn slime ;)
-[18:31:08] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:31:08] [Server thread/INFO]: wavywavewalker left the game
-[18:31:10] [Server thread/INFO]: <sidmeister> demn
-[18:31:52] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48346] logged in with entity id 9437 at (104.35710084241595, 63.0, -522.559264056256)
-[18:31:52] [Server thread/INFO]: wavywavewalker joined the game
-[18:32:08] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:32:08] [Server thread/INFO]: wavywavewalker left the game
-[18:32:13] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48348] logged in with entity id 9537 at (104.35710084241595, 64.1212968405392, -522.559264056256)
-[18:32:13] [Server thread/INFO]: wavywavewalker joined the game
-[18:32:18] [Server thread/INFO]: <RitikKhatri> internet problem?
-[18:32:28] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:32:28] [Server thread/INFO]: wavywavewalker left the game
-[18:32:36] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48350] logged in with entity id 9605 at (104.35710084241595, 64.1212968405392, -522.559264056256)
-[18:32:36] [Server thread/INFO]: wavywavewalker joined the game
-[18:32:41] [Server thread/INFO]: <sidmeister> press space
-[18:32:51] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:32:51] [Server thread/INFO]: wavywavewalker left the game
-[18:33:35] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48354] logged in with entity id 9806 at (104.35710084241595, 64.1212968405392, -522.559264056256)
-[18:33:35] [Server thread/INFO]: wavywavewalker joined the game
-[18:33:52] [Server thread/INFO]: <sidmeister> tspace dabake rakh bro
-[18:33:58] [Server thread/INFO]: <sidmeister> upar ajayega
-[18:36:07] [Server thread/INFO]: <wavywavewalker> ye pta ni kaise aye
-[18:36:14] [Server thread/INFO]: <sidmeister> majik
-[18:38:54] [Server thread/INFO]: <sidmeister> weaponsmoth kisse banta?
-[18:39:04] [Server thread/INFO]: <RitikKhatri> smithing table ig
-[18:39:20] [Server thread/INFO]: <sidmeister> nop
-[18:39:31] [Server thread/INFO]: <RitikKhatri> repair and disenhant then
-[18:39:48] [Server thread/INFO]: <sidmeister> wo kaise banta hai?
-[18:39:54] [Server thread/INFO]: <RitikKhatri> google
-[18:40:44] [Server thread/INFO]: <sidmeister> wave aja soja
-[18:41:31] [Server thread/INFO]: <sidmeister> sojao
-[18:41:33] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[18:41:33] [Server thread/INFO]: RitikKhatri left the game
-[18:41:45] [Server thread/INFO]: <sidmeister> wave neeche bed pe soja
-[18:42:03] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48378] logged in with entity id 11674 at (233.72009296741612, 27.0, -602.1073583168336)
-[18:42:03] [Server thread/INFO]: RitikKhatri joined the game
-[18:42:26] [Server thread/INFO]: <sidmeister> sojao
-[18:42:29] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[18:42:29] [Server thread/INFO]: RitikKhatri left the game
-[18:43:05] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48390] logged in with entity id 11882 at (234.46771189002013, 32.0, -616.0226490446152)
-[18:43:05] [Server thread/INFO]: RitikKhatri joined the game
-[18:43:11] [Server thread/INFO]: <RitikKhatri> hogyi suba?
-[18:43:44] [Server thread/INFO]: <sidmeister> oye ritikinvisible spider ayi abhi
-[18:43:54] [Server thread/INFO]: <sidmeister> sirf ankhen dikhri thi
-[18:43:55] [Server thread/INFO]: <RitikKhatri> wtf is that
-[18:44:01] [Server thread/INFO]: <RitikKhatri> how
-[18:44:09] [Server thread/INFO]: <sidmeister> potion of inv piya tha shayad
-[18:44:13] [Server thread/INFO]: <RitikKhatri> ah
-[18:44:15] [Server thread/INFO]: <sidmeister> idk but inv thi poori
-[18:46:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=210, y=88, z=-526} fx{x=209, y=86, z=-526}
-[18:46:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=210, y=88, z=-526} fx{x=209, y=86, z=-526}
-[18:55:20] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[18:55:20] [Server thread/INFO]: RitikKhatri left the game
-[18:56:30] [Server thread/INFO]: <sidmeister> tslep
-[18:56:52] [Server thread/INFO]: <wavywavewalker> bro
-[18:57:00] [Server thread/INFO]: <wavywavewalker> mujhe marr de ek baar
-[18:57:33] [Server thread/INFO]: wavywavewalker was blown up by Creeper
-[18:57:45] [Server thread/INFO]: <sidmeister> F
-[18:57:58] [Server thread/INFO]: <wavywavewalker> arre chat dekh
-[18:58:06] [Server thread/INFO]: <wavywavewalker> marna hi tha bero!!!
-[18:58:26] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48422] logged in with entity id 16582 at (278.8349243708164, 25.0, -592.8741585511779)
-[18:58:26] [Server thread/INFO]: RitikKhatri joined the game
-[18:59:42] [Server thread/INFO]: wavywavewalker fell from a high place
-[18:59:58] [Server thread/INFO]: <sidmeister> tdiamond pehen na
-[19:00:38] [Server thread/INFO]: <wavywavewalker> arre kal pehnunga...mouse le aun pehle...abhi to mar mar ke hi kahan kha rha hu
-[19:00:57] [Server thread/INFO]: <sidmeister> logitech ka liyo
-[19:01:26] [Server thread/INFO]: <wavywavewalker> acha..hope so mil jaye yaha!!
-[19:01:30] [Server thread/INFO]: <sidmeister> kha raha hai track pad se
-[19:01:43] [Server thread/INFO]: <sidmeister> ekdam bottom right corner daba ke rakh
-[19:02:10] [Server thread/INFO]: <wavywavewalker> kya!!
-[19:02:31] [Server thread/INFO]: <wavywavewalker> damn bro...kha lia khana bhai ne
-[19:02:39] [Server thread/INFO]: <sidmeister> nice
-[19:09:49] [Server thread/INFO]: sidmeister was blown up by Creeper
-[19:09:53] [Server thread/INFO]: <RitikKhatri> F
-[19:09:57] [Server thread/INFO]: <RitikKhatri> kha hua
-[19:10:46] [Server thread/INFO]: <sidmeister> bro nametag le aa ek
-[19:10:48] [Server thread/INFO]: <sidmeister> mere ghar
-[19:11:00] [Server thread/INFO]: <RitikKhatri> librarian se khared le
-[19:11:02] [Server thread/INFO]: <sidmeister> ek golden apple aur potion of weakness
-[19:11:11] [Server thread/INFO]: <RitikKhatri> gold aple la rha
-[19:11:11] [Server thread/INFO]: <sidmeister> arrey zombie villager hai mere paas ek
-[19:11:18] [Server thread/INFO]: wavywavewalker has made the advancement [Getting an Upgrade]
-[19:11:19] [Server thread/INFO]: <RitikKhatri> ok lata hu
-[19:12:22] [Server thread/INFO]: <RitikKhatri> potion of weaknes rkha hai tere pas?
-[19:12:26] [Server thread/INFO]: <sidmeister> nahi
-[19:12:29] [Server thread/INFO]: <RitikKhatri> ya brew karu?
-[19:12:31] [Server thread/INFO]: <RitikKhatri> ok
-[19:12:32] [Server thread/INFO]: <sidmeister> fermented spider eye
-[19:12:35] [Server thread/INFO]: <sidmeister> tbrey karde
-[19:12:38] [Server thread/INFO]: <RitikKhatri> hm
-[19:15:55] [Server thread/INFO]: <sidmeister> aja bhai
-[19:16:06] [Server thread/INFO]: <RitikKhatri> 10 mobs agye pta nhi kasie
-[19:16:11] [Server thread/INFO]: <RitikKhatri> unse nipat rha tha
-[19:16:13] [Server thread/INFO]: <sidmeister> hard mode kiya hai maine
-[19:16:17] [Server thread/INFO]: <RitikKhatri> i see
-[19:16:19] [Server thread/INFO]: <sidmeister> mariyo matt ise
-[19:16:21] [Server thread/INFO]: <RitikKhatri> mujhe lag rha tha
-[19:16:31] [Server thread/INFO]: <RitikKhatri> dmg kafi jyda ho rha tha arow ka
-[19:16:37] [Server thread/INFO]: <sidmeister> haan
-[19:16:41] [Server thread/INFO]: <sidmeister> aaja jaldi
-[19:16:51] [Server thread/INFO]: <RitikKhatri> mushroom hai?
-[19:16:56] [Server thread/INFO]: <sidmeister> nahi
-[19:16:57] [Server thread/INFO]: <RitikKhatri> aur suger?
-[19:17:01] [Server thread/INFO]: <sidmeister> ghar mei ho shayad
-[19:17:03] [Server thread/INFO]: <sidmeister> suger hai
-[19:17:10] [Server thread/INFO]: <sidmeister> wave yahi khada reh
-[19:17:12] [Server thread/INFO]: <RitikKhatri> fermented ey nhi bna pa rha lol
-[19:17:16] [Server thread/INFO]: <wavywavewalker> hn
-[19:17:21] [Server thread/INFO]: <sidmeister> nahi toh ye gayab ho jayega
-[19:17:43] [Server thread/INFO]: <sidmeister> dedi tujhe
-[19:17:50] [Server thread/INFO]: <sidmeister> teye dedi tujhe
-[19:18:01] [Server thread/INFO]: <sidmeister> name tag laya?
-[19:18:14] [Server thread/INFO]: <sidmeister> splash potion banaiyo
-[19:18:30] [Server thread/INFO]: <RitikKhatri> nhi
-[19:18:39] [Server thread/INFO]: <RitikKhatri> nhi lya
-[19:18:50] [Server thread/INFO]: <sidmeister> yahi ruk wave
-[19:20:01] [Server thread/INFO]: <sidmeister> la de
-[19:20:06] [Server thread/INFO]: <sidmeister> tgolden apple
-[19:20:24] [Server thread/INFO]: <sidmeister> side hoiyo
-[19:21:01] [Server thread/INFO]: <RitikKhatri> gg hogya
-[19:21:14] [Server thread/INFO]: <RitikKhatri> diya aaple?
-[19:21:17] [Server thread/INFO]: <sidmeister> thaan
-[19:21:19] [Server thread/INFO]: <sidmeister> haan
-[19:21:30] [Server thread/INFO]: <RitikKhatri> abe yar jaldi ho jata hai usually
-[19:21:41] [Server thread/INFO]: <sidmeister> tho jayegaapne aap
-[19:23:02] [Server thread/INFO]: <RitikKhatri> stone brick kardu puuri?
-[19:23:15] [Server thread/INFO]: <RitikKhatri> mere gahr tak bhi
-[19:23:29] [Server thread/INFO]: <sidmeister> tbeech mai kuch banate hain
-[19:23:34] [Server thread/INFO]: <sidmeister> light up karne ke liye
-[19:23:39] [Server thread/INFO]: <RitikKhatri> hm
-[19:24:47] [Server thread/INFO]: <sidmeister> healed
-[19:24:56] [Server thread/INFO]: <RitikKhatri> tujhe achivement q nhi milli?
-[19:25:09] [Server thread/INFO]: <sidmeister> kyunki kar rakhee hian 3 already
-[19:25:16] [Server thread/INFO]: <RitikKhatri> ah
-[19:25:23] [Server thread/INFO]: <sidmeister> certified doc
-[19:25:27] [Server thread/INFO]: <sidmeister> t')
-[19:25:32] [Server thread/INFO]: <RitikKhatri> 2 rs gaffar bazar degree
-[19:25:37] [Server thread/INFO]: <sidmeister> kya banaun ise?
-[19:25:45] [Server thread/INFO]: <RitikKhatri> idk
-[19:26:11] [Server thread/INFO]: <sidmeister> tool smith?
-[19:28:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/23160, l='ServerLevel[world]', x=237.38, y=79.00, z=-550.87]
-[19:28:16] [Server thread/INFO]: RitikKhatri fell from a high place
-[19:28:30] [Server thread/INFO]: <sidmeister> tdeath wala off kardu?
-[19:28:36] [Server thread/INFO]: <RitikKhatri> ??
-[19:30:31] [Server thread/WARN]: sidmeister moved too quickly! -16.992226487174776,5.8008152790918075,1.816976148719391
-[19:31:43] [Server thread/INFO]: <sidmeister> slep
-[19:31:46] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[19:31:46] [Server thread/INFO]: RitikKhatri left the game
-[19:32:49] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48478] logged in with entity id 24372 at (277.30000001192093, 143.0, -589.3000000119209)
-[19:32:49] [Server thread/INFO]: RitikKhatri joined the game
-[19:33:04] [Server thread/INFO]: wavywavewalker was shot by sidmeister using [hawkeye]
-[19:33:08] [Server thread/INFO]: <sidmeister> F
-[19:33:19] [Server thread/INFO]: <wavywavewalker> -_-
-[19:33:25] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[19:33:25] [Server thread/INFO]: wavywavewalker left the game
-[19:33:31] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48482] logged in with entity id 24540 at (108.5, 84.5625, -535.5)
-[19:33:31] [Server thread/INFO]: wavywavewalker joined the game
-[19:33:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/24572, l='ServerLevel[world]', x=233.36, y=79.00, z=-551.83]
-[19:33:44] [Server thread/INFO]: <wavywavewalker> damn-_-
-[19:34:11] [Server thread/INFO]: <sidmeister> musicsuna?
-[19:34:35] [Server thread/INFO]: <wavywavewalker> hn mast hai...andr jo lgra hai usse bajra hai ye?
-[19:34:46] [Server thread/INFO]: <sidmeister> haan
-[19:37:23] [Server thread/INFO]: <RitikKhatri> i also have some discs
-[19:37:27] [Server thread/INFO]: <RitikKhatri> kha hai dj?
-[19:37:33] [Server thread/INFO]: <sidmeister> mere ghar mai
-[19:37:48] [Server thread/INFO]: <RitikKhatri> aya
-[19:39:42] [Server thread/INFO]: <RitikKhatri> outro that ye pewd minceraft season 1 me
-[19:40:02] [Server thread/INFO]: <sidmeister> SICK MOVES BRUH
-[19:41:33] [Server thread/INFO]: <wavywavewalker> lol
-[19:41:35] [Server thread/INFO]: <sidmeister> IM THE DRAGON
-[19:44:36] [Server thread/INFO]: Villager bfj['Villager'/22176, l='ServerLevel[world]', x=115.34, y=68.00, z=-531.41] died, message: 'Villager suffocated in a wall'
-[19:47:57] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[19:47:57] [Server thread/INFO]: sidmeister left the game
-[19:48:07] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[19:48:07] [Server thread/INFO]: RitikKhatri left the game
-[19:53:19] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48666] logged in with entity id 29723 at (190.84965903237494, 85.0, -553.4468278907294)
-[19:53:19] [Server thread/INFO]: RitikKhatri joined the game
-[19:53:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/29800, l='ServerLevel[world]', x=105.13, y=66.00, z=-638.53]
-[19:53:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/29892, l='ServerLevel[world]', x=104.96, y=66.00, z=-637.47]
-[19:58:06] [Server thread/INFO]: RitikKhatri lost connection: You logged in from another location
-[19:58:06] [Server thread/INFO]: RitikKhatri left the game
-[19:58:06] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48686] logged in with entity id 31160 at (104.55377723555515, 76.0, -533.3284782535663)
-[19:58:06] [Server thread/INFO]: RitikKhatri joined the game
-[19:59:28] [Server thread/INFO]: sidmeister[/127.0.0.1:48702] logged in with entity id 31566 at (92.92348768160882, 74.0, -541.8243523025727)
-[19:59:28] [Server thread/INFO]: sidmeister joined the game
-[20:01:52] [Server thread/INFO]: wavywavewalker lost connection: You logged in from another location
-[20:01:52] [Server thread/INFO]: wavywavewalker left the game
-[20:01:52] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48712] logged in with entity id 32306 at (90.4484461600008, 66.0, -610.9371551912968)
-[20:01:52] [Server thread/INFO]: wavywavewalker joined the game
-[20:01:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Gunpowder'/32307, l='ServerLevel[world]', x=154.44, y=58.30, z=-573.30]
-[20:02:02] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[20:02:02] [Server thread/INFO]: sidmeister left the game
-[20:02:07] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:02:07] [Server thread/INFO]: wavywavewalker left the game
-[20:02:12] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48714] logged in with entity id 32357 at (90.4484461600008, 66.0, -610.9371551912968)
-[20:02:12] [Server thread/INFO]: wavywavewalker joined the game
-[20:02:27] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:02:27] [Server thread/INFO]: wavywavewalker left the game
-[20:02:34] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48720] logged in with entity id 32491 at (86.85074927683033, 68.0, -608.6874759512233)
-[20:02:34] [Server thread/INFO]: wavywavewalker joined the game
-[20:02:49] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:02:49] [Server thread/INFO]: wavywavewalker left the game
-[20:02:54] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48722] logged in with entity id 32612 at (86.85074927683033, 68.0, -608.6874759512233)
-[20:02:54] [Server thread/INFO]: wavywavewalker joined the game
-[20:03:09] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:03:09] [Server thread/INFO]: wavywavewalker left the game
-[20:03:13] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48726] logged in with entity id 32743 at (88.97467002958274, 68.0, -608.1607672331362)
-[20:03:13] [Server thread/INFO]: wavywavewalker joined the game
-[20:03:24] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[20:03:24] [Server thread/INFO]: RitikKhatri left the game
-[20:03:28] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:03:28] [Server thread/INFO]: wavywavewalker left the game
-[20:03:33] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48730] logged in with entity id 32877 at (88.97467002958274, 68.0, -608.1607672331362)
-[20:03:33] [Server thread/INFO]: wavywavewalker joined the game
-[20:04:03] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:04:03] [Server thread/INFO]: wavywavewalker left the game
-[20:04:08] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48732] logged in with entity id 33330 at (130.8631998482461, 72.0, -548.0224524081334)
-[20:04:08] [Server thread/INFO]: wavywavewalker joined the game
-[20:04:38] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:04:38] [Server thread/INFO]: wavywavewalker left the game
-[20:04:45] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48736] logged in with entity id 33705 at (117.84195743939628, 68.0, -605.863556013762)
-[20:04:45] [Server thread/INFO]: wavywavewalker joined the game
-[20:05:15] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:05:15] [Server thread/INFO]: wavywavewalker left the game
-[20:05:19] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48738] logged in with entity id 34094 at (105.67315589489836, 74.0, -617.7821276813146)
-[20:05:19] [Server thread/INFO]: wavywavewalker joined the game
-[20:05:49] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:05:49] [Server thread/INFO]: wavywavewalker left the game
-[20:05:55] [Server thread/INFO]: RitikKhatri[/127.0.0.1:48740] logged in with entity id 34461 at (192.78698324628593, 85.0, -544.4963325668792)
-[20:05:55] [Server thread/INFO]: RitikKhatri joined the game
-[20:05:58] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48742] logged in with entity id 34851 at (105.53057428982262, 73.0, -616.7249742922106)
-[20:05:58] [Server thread/INFO]: wavywavewalker joined the game
-[20:06:37] [Server thread/INFO]: <wavywavewalker> game lag hori hai kya?
-[20:06:48] [Server thread/INFO]: <RitikKhatri> not sure
-[20:10:04] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[20:10:04] [Server thread/INFO]: wavywavewalker left the game
-[20:10:45] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48746] logged in with entity id 35734 at (104.46616321929507, 75.0, -621.3250174848043)
-[20:10:45] [Server thread/INFO]: wavywavewalker joined the game
-[20:11:00] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:11:00] [Server thread/INFO]: wavywavewalker left the game
-[20:11:07] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48748] logged in with entity id 35871 at (104.5403497652148, 74.0, -620.0734999622008)
-[20:11:07] [Server thread/INFO]: wavywavewalker joined the game
-[20:11:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/35941, l='ServerLevel[world]', x=238.86, y=79.00, z=-552.76]
-[20:11:22] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:11:22] [Server thread/INFO]: wavywavewalker left the game
-[20:11:30] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48750] logged in with entity id 35988 at (105.42026669041522, 74.0, -617.8389748506111)
-[20:11:30] [Server thread/INFO]: wavywavewalker joined the game
-[20:11:45] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:11:45] [Server thread/INFO]: wavywavewalker left the game
-[20:12:29] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48752] logged in with entity id 36180 at (105.42026669041522, 74.0, -617.8389748506111)
-[20:12:29] [Server thread/INFO]: wavywavewalker joined the game
-[20:12:44] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:12:44] [Server thread/INFO]: wavywavewalker left the game
-[20:12:51] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48754] logged in with entity id 36315 at (105.42026669041522, 74.0, -617.8389748506111)
-[20:12:51] [Server thread/INFO]: wavywavewalker joined the game
-[20:13:07] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:13:07] [Server thread/INFO]: wavywavewalker left the game
-[20:13:12] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48758] logged in with entity id 36408 at (105.42026669041522, 74.0, -617.8389748506111)
-[20:13:12] [Server thread/INFO]: wavywavewalker joined the game
-[20:19:40] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[20:19:40] [Server thread/INFO]: RitikKhatri left the game
-[20:20:58] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:20:58] [Server thread/INFO]: wavywavewalker left the game
-[20:21:24] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48764] logged in with entity id 38274 at (99.08585748933847, 70.0, -629.6181440758292)
-[20:21:24] [Server thread/INFO]: wavywavewalker joined the game
-[20:21:54] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:21:54] [Server thread/INFO]: wavywavewalker left the game
-[20:21:59] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48766] logged in with entity id 38675 at (95.43471620437921, 69.0, -617.9946925284098)
-[20:21:59] [Server thread/INFO]: wavywavewalker joined the game
-[20:22:29] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[20:22:29] [Server thread/INFO]: wavywavewalker left the game
-[20:22:33] [Server thread/INFO]: wavywavewalker[/127.0.0.1:48768] logged in with entity id 39072 at (95.5611799822297, 68.0, -611.1638529275466)
-[20:22:33] [Server thread/INFO]: wavywavewalker joined the game
-[20:22:39] [Server thread/INFO]: [Server] koi hai abhi?
-[20:23:10] [Server thread/INFO]: <wavywavewalker> krde bro band
-[20:23:21] [Server thread/INFO]: [Server] ok
-[20:23:22] [Server thread/INFO]: <wavywavewalker> jara mei bhi
-[20:23:25] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[20:23:25] [Server thread/INFO]: wavywavewalker left the game
-[20:23:26] [Server thread/INFO]: Stopping the server
-[20:23:26] [Server thread/INFO]: Stopping server
-[20:23:26] [Server thread/INFO]: Saving players
-[20:23:26] [Server thread/INFO]: Saving worlds
-[20:23:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:23:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:23:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:03:54] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[00:03:54] [Server thread/INFO]: sidmeister left the game
+[00:03:55] [Server thread/INFO]: sidmeister[/127.0.0.1:58106] logged in with entity id 58491 at (105.88389815569528, 62.5625, -517.2443475572284)
+[00:03:55] [Server thread/INFO]: sidmeister joined the game
+[00:04:58] [Server thread/INFO]: <sidmeister> server band kardu?
+[00:05:13] [Server thread/INFO]: <RitikKhatri> ok me jarha
+[00:05:16] [Server thread/INFO]: <RitikKhatri> gn
+[00:05:18] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[00:05:18] [Server thread/INFO]: RitikKhatri left the game
+[00:05:19] [Server thread/INFO]: <sidmeister> tgn
+[00:05:30] [Server thread/INFO]: <shobhit_joe> chal theek hai bye gn
+[00:05:36] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[00:05:36] [Server thread/INFO]: shobhit_joe left the game
+[00:05:38] [Server thread/INFO]: <wavywavewalker> ok
+[00:05:45] [Server thread/INFO]: <sidmeister> bye gn
+[00:05:51] [Server thread/INFO]: <wavywavewalker> ek sec rukna
+[00:05:54] [Server thread/INFO]: <sidmeister> ok
+[00:06:01] [Server thread/INFO]: <sidmeister> karle 5 min mai karunga band
+[00:06:07] [Server thread/INFO]: <sidmeister> ye log pehle ki nikal lete ain
+[00:06:25] [Server thread/INFO]: <wavywavewalker> bhai bakri chiye
+[00:06:34] [Server thread/INFO]: <wavywavewalker> mil hi ni rhi
+[00:06:34] [Server thread/INFO]: <sidmeister> bakri toh hoti hi nahi
+[00:06:45] [Server thread/INFO]: <wavywavewalker> arre sry bhed
+[00:06:54] [Server thread/INFO]: <sidmeister> udhar se lele
+[00:06:57] [Server thread/INFO]: <sidmeister> mai aya ruk
+[00:07:46] [Server thread/INFO]: <wavywavewalker> mei pahad pe gya tha waha ek mili
+[00:08:04] [Server thread/INFO]: <sidmeister> tkahan hai tu
+[00:08:26] [Server thread/INFO]: <wavywavewalker> barfeeli paahdi se utar ke tere ghr pe aa rha hu
+[00:08:50] [Server thread/INFO]: <sidmeister> follow me
+[00:10:07] [Server thread/INFO]: <sidmeister> tye ilaka banjar pada hai
+[00:10:22] [Server thread/INFO]: <sidmeister> chahe toh ye ghar bhi rakhle
+[00:10:31] [Server thread/INFO]: <sidmeister> ye log aate nahi khelne
+[00:10:37] [Server thread/INFO]: <sidmeister> bas pehle din aaye they
+[00:10:48] [Server thread/INFO]: <wavywavewalker> na apan to killa bnayenge....hahaah
+[00:10:56] [Server thread/INFO]: <sidmeister> ye sheeps bhi aisi hi padi hain
+[00:11:07] [Server thread/INFO]: <sidmeister> haath mei wheat le tujhe follow karlenig
+[00:11:17] [Server thread/INFO]: <sidmeister> mai laya yahin ruk
+[00:11:45] [Server thread/INFO]: <wavywavewalker> shod ho gya
+[00:13:00] [Server thread/INFO]: <sidmeister> haath mei wheat le
+[00:13:13] [Server thread/INFO]: <sidmeister> theyll follow u
+[00:17:24] [Server thread/INFO]: <wavywavewalker> ok bro gn...
+[00:17:28] [Server thread/INFO]: <sidmeister> gn
+[00:17:32] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
+[00:17:32] [Server thread/INFO]: wavywavewalker left the game
+[00:20:55] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[00:20:55] [Server thread/INFO]: sidmeister left the game
+[00:21:05] [Server thread/INFO]: Stopping the server
+[00:21:05] [Server thread/INFO]: Stopping server
+[00:21:05] [Server thread/INFO]: Saving players
+[00:21:05] [Server thread/INFO]: Saving worlds
+[00:21:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

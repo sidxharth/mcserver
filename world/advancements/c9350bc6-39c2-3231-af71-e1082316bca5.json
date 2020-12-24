@@ -716,12 +716,14 @@
       "minecraft:magma_cube": "2020-11-25 23:31:54 +0530",
       "minecraft:spider": "2020-11-21 16:30:46 +0530",
       "minecraft:creeper": "2020-11-23 16:41:57 +0530",
+      "minecraft:phantom": "2020-12-24 15:58:06 +0530",
       "minecraft:witch": "2020-11-28 15:09:04 +0530",
       "minecraft:wither_skeleton": "2020-11-21 16:56:32 +0530",
       "minecraft:shulker": "2020-12-08 18:03:52 +0530",
       "minecraft:cave_spider": "2020-12-08 16:31:22 +0530",
       "minecraft:piglin": "2020-12-07 21:50:25 +0530",
       "minecraft:enderman": "2020-11-21 16:16:39 +0530",
+      "minecraft:silverfish": "2020-12-24 15:35:06 +0530",
       "minecraft:zombie": "2020-11-21 15:30:42 +0530",
       "minecraft:zombie_villager": "2020-11-21 15:47:36 +0530"
     },
@@ -1138,6 +1140,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-11-21 16:42:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-12-24 23:46:09 +0530"
     },
     "done": true
   },
