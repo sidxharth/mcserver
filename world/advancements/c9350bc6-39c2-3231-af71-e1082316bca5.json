@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-29 16:31:10 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-11-21 16:28:31 +0530"
@@ -356,6 +362,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2020-11-25 15:03:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2020-12-28 16:25:26 +0530"
     },
     "done": true
   },
@@ -476,6 +488,18 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2020-12-07 18:36:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2020-12-28 16:25:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-12-28 16:33:24 +0530"
     },
     "done": true
   },
@@ -653,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-12-28 16:25:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-11-25 22:09:39 +0530"
@@ -724,7 +754,9 @@
       "minecraft:blaze": "2020-11-21 17:41:50 +0530",
       "minecraft:pillager": "2020-11-25 13:01:09 +0530",
       "minecraft:skeleton": "2020-11-21 15:03:00 +0530",
+      "minecraft:ravager": "2020-12-28 15:32:35 +0530",
       "minecraft:hoglin": "2020-11-27 23:44:16 +0530",
+      "minecraft:guardian": "2020-12-28 16:15:38 +0530",
       "minecraft:magma_cube": "2020-11-25 23:31:54 +0530",
       "minecraft:spider": "2020-11-21 16:30:46 +0530",
       "minecraft:creeper": "2020-11-23 16:41:57 +0530",
@@ -861,6 +893,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-11-21 16:54:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-12-28 16:25:26 +0530"
     },
     "done": true
   },
@@ -1182,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2020-12-29 15:37:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2020-11-21 15:55:44 +0530"
@@ -1254,6 +1298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-12-28 16:32:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2020-12-23 14:36:47 +0530"
@@ -1305,6 +1355,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2020-11-25 13:36:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-12-28 16:33:24 +0530"
     },
     "done": true
   },
@@ -1398,6 +1454,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-12-28 16:32:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-12-28 16:33:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-11-21 16:54:57 +0530"
@@ -1431,6 +1499,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2020-11-21 15:35:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-12-29 16:31:10 +0530"
     },
     "done": true
   },
@@ -1503,16 +1577,21 @@
       "minecraft:mountains": "2020-11-21 15:29:39 +0530",
       "minecraft:badlands_plateau": "2020-12-26 18:09:51 +0530",
       "minecraft:taiga": "2020-11-23 17:41:28 +0530",
+      "minecraft:desert_hills": "2020-12-28 14:07:11 +0530",
       "minecraft:deep_cold_ocean": "2020-11-27 23:20:09 +0530",
       "minecraft:snowy_tundra": "2020-11-27 23:23:41 +0530",
       "minecraft:taiga_hills": "2020-11-27 23:05:06 +0530",
+      "minecraft:desert": "2020-12-28 14:06:59 +0530",
       "minecraft:frozen_river": "2020-11-27 23:23:29 +0530",
+      "minecraft:deep_frozen_ocean": "2020-12-28 16:09:46 +0530",
       "minecraft:jungle": "2020-12-22 23:28:57 +0530",
       "minecraft:birch_forest": "2020-11-24 23:54:27 +0530",
       "minecraft:jungle_hills": "2020-12-22 23:29:30 +0530",
       "minecraft:bamboo_jungle": "2020-12-22 23:30:01 +0530",
+      "minecraft:warm_ocean": "2020-12-29 15:22:10 +0530",
       "minecraft:deep_lukewarm_ocean": "2020-11-27 22:32:46 +0530",
       "minecraft:badlands": "2020-12-26 18:00:36 +0530",
+      "minecraft:savanna_plateau": "2020-12-28 14:06:55 +0530",
       "minecraft:beach": "2020-11-23 13:54:13 +0530",
       "minecraft:dark_forest": "2020-11-24 23:58:07 +0530",
       "minecraft:river": "2020-11-21 14:58:10 +0530",
@@ -1524,6 +1603,7 @@
       "minecraft:wooded_hills": "2020-11-23 14:16:15 +0530",
       "minecraft:stone_shore": "2020-11-23 17:38:03 +0530",
       "minecraft:swamp": "2020-12-26 17:42:15 +0530",
+      "minecraft:savanna": "2020-12-28 14:06:53 +0530",
       "minecraft:plains": "2020-11-21 14:41:55 +0530"
     },
     "done": false
@@ -1627,6 +1707,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-10 00:08:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2020-12-28 16:05:18 +0530"
     },
     "done": true
   },
@@ -1751,6 +1837,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-12-22 23:31:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-12-28 16:32:47 +0530"
     },
     "done": true
   },
@@ -1934,6 +2026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-12-28 16:32:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-11-21 14:47:13 +0530"
@@ -2114,6 +2212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-12-28 23:07:23 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2020-11-21 17:00:32 +0530"
@@ -2157,6 +2261,7 @@
       "sweet_berries": "2020-11-23 17:48:05 +0530",
       "cooked_beef": "2020-11-21 16:08:27 +0530",
       "chorus_fruit": "2020-12-08 22:43:08 +0530",
+      "baked_potato": "2020-12-29 15:49:36 +0530",
       "apple": "2020-11-21 15:04:17 +0530",
       "spider_eye": "2020-11-23 22:29:08 +0530",
       "cooked_cod": "2020-11-21 17:34:25 +0530",
@@ -2186,6 +2291,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2020-12-25 21:02:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-12-29 16:31:10 +0530"
     },
     "done": true
   },
@@ -2303,6 +2414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-12-28 16:33:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-11-21 14:59:19 +0530"
@@ -2375,6 +2492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2020-12-29 16:31:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-11-21 16:49:10 +0530"
@@ -2419,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2020-12-28 16:25:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-11-21 14:46:08 +0530"
@@ -2452,6 +2581,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2020-12-26 18:13:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-12-28 23:07:23 +0530"
     },
     "done": true
   },
@@ -2689,6 +2824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-12-29 14:19:30 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-11-25 13:37:20 +0530"
@@ -2704,6 +2845,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2020-11-23 13:24:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-12-29 16:31:10 +0530"
     },
     "done": true
   },
@@ -2899,6 +3046,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2020-12-28 15:05:06 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-11-21 15:27:02 +0530"
@@ -3073,6 +3226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-12-29 16:55:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-11-25 15:52:26 +0530"
@@ -3106,6 +3265,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_jungle_planks": "2020-12-25 21:02:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-12-28 16:25:26 +0530"
     },
     "done": true
   },

@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-12-28 22:16:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-12-22 12:58:19 +0530"
@@ -380,6 +386,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-12-22 13:13:56 +0530",
+      "cooked_mutton": "2020-12-28 22:11:49 +0530",
       "chorus_fruit": "2020-12-22 13:02:41 +0530",
       "baked_potato": "2020-12-23 19:02:14 +0530",
       "apple": "2020-12-23 19:42:47 +0530",
@@ -393,6 +400,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-12-22 12:19:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-12-28 23:11:44 +0530"
     },
     "done": true
   },
@@ -537,6 +550,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-12-22 12:58:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-12-28 17:12:38 +0530"
     },
     "done": true
   },
@@ -804,6 +823,9 @@
       "minecraft:skeleton": "2020-12-24 23:12:34 +0530",
       "minecraft:hoglin": "2020-12-24 20:36:45 +0530",
       "minecraft:spider": "2020-12-23 20:07:30 +0530",
+      "minecraft:creeper": "2020-12-28 15:40:26 +0530",
+      "minecraft:zombified_piglin": "2020-12-28 23:11:42 +0530",
+      "minecraft:silverfish": "2020-12-28 23:17:28 +0530",
       "minecraft:zombie": "2020-12-23 18:13:18 +0530"
     },
     "done": false
@@ -937,6 +959,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2020-12-25 00:11:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-12-28 23:11:44 +0530"
     },
     "done": true
   },
@@ -1774,6 +1802,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-24 23:09:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-12-28 22:16:47 +0530"
     },
     "done": true
   },
