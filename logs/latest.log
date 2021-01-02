@@ -1,79 +1,83 @@
-[18:33:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:33:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:33:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:33:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:33:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:33:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:33:43] [main/INFO]: Reloading ResourceManager: Default
-[18:33:44] [Worker-Main-12/INFO]: Loaded 7 recipes
-[18:33:44] [Worker-Main-12/INFO]: Loaded 927 advancements
-[18:33:46] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[18:33:46] [Server thread/INFO]: Loading properties
-[18:33:46] [Server thread/INFO]: Default game type: SURVIVAL
-[18:33:46] [Server thread/INFO]: Generating keypair
-[18:33:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:33:46] [Server thread/INFO]: Using epoll channel type
-[18:33:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:33:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:33:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:33:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:33:47] [Server thread/INFO]: Preparing level "world"
-[18:33:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:33:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:48] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:49] [Server thread/INFO]: Preparing spawn area: 0%
-[18:33:49] [Server thread/INFO]: Time elapsed: 2466 ms
-[18:33:49] [Server thread/INFO]: Done (2.592s)! For help, type "help"
-[18:34:39] [Server thread/INFO]: sidmeister[/127.0.0.1:40014] logged in with entity id 73 at (87.3108657755012, 75.0, -531.8099015298424)
-[18:34:39] [Server thread/INFO]: sidmeister joined the game
-[18:37:22] [Server thread/INFO]: RitikKhatri[/127.0.0.1:40088] logged in with entity id 944 at (191.00476193502817, 71.0, -477.1854515357406)
-[18:37:22] [Server thread/INFO]: RitikKhatri joined the game
-[18:37:40] [Server thread/INFO]: <RitikKhatri> majak tha bhai xd
-[18:37:52] [Server thread/INFO]: <sidmeister> haan bro np
-[18:37:58] [Server thread/INFO]: wavywavewalker[/127.0.0.1:40096] logged in with entity id 1170 at (108.05150204684243, 54.0, -650.8072834309113)
-[18:37:58] [Server thread/INFO]: wavywavewalker joined the game
-[18:38:36] [Server thread/INFO]: <sidmeister> bye bois
-[18:38:43] [Server thread/INFO]: <sidmeister> tlast mai jane wala bata dena
-[18:38:51] [Server thread/INFO]: <sidmeister> mai server band kardunga fir
-[18:39:05] [Server thread/INFO]: <RitikKhatri> ok
-[18:39:15] [Server thread/INFO]: <wavywavewalker> ok
-[18:40:49] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[18:40:49] [Server thread/INFO]: sidmeister left the game
-[18:45:00] [Server thread/INFO]: <RitikKhatri> sleep
-[18:59:22] [Server thread/INFO]: <RitikKhatri> sleep
-[19:02:56] [Server thread/INFO]: <wavywavewalker> ok bye
-[19:02:58] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[19:02:58] [Server thread/INFO]: wavywavewalker left the game
-[19:08:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7920, l='ServerLevel[world]', x=268.68, y=89.00, z=-587.52]
-[19:26:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10613, l='ServerLevel[world]', x=238.73, y=79.00, z=-551.28]
-[19:34:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12079, l='ServerLevel[world]', x=232.83, y=79.00, z=-547.77]
-[19:49:58] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[19:49:58] [Server thread/INFO]: RitikKhatri left the game
-[20:12:50] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_275]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_275]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_275]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_275]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_275]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_275]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_275]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_275]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_275]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_275]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_275]
-	at zg$1.run(SourceFile:95) [server.jar:?]
-[20:12:50] [Server thread/INFO]: Stopping server
-[20:12:50] [Server thread/INFO]: Saving players
-[20:12:50] [Server thread/INFO]: Saving worlds
-[20:12:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:12:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:12:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:29:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:29:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:29:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:34] [main/INFO]: Reloading ResourceManager: Default
+[18:29:34] [Worker-Main-12/INFO]: Loaded 7 recipes
+[18:29:35] [Worker-Main-12/INFO]: Loaded 927 advancements
+[18:29:36] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[18:29:36] [Server thread/INFO]: Loading properties
+[18:29:36] [Server thread/INFO]: Default game type: SURVIVAL
+[18:29:36] [Server thread/INFO]: Generating keypair
+[18:29:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:29:37] [Server thread/INFO]: Using epoll channel type
+[18:29:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:29:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:29:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:29:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:29:37] [Server thread/INFO]: Preparing level "world"
+[18:29:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:29:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:39] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:39] [Server thread/INFO]: Time elapsed: 2474 ms
+[18:29:39] [Server thread/INFO]: Done (2.611s)! For help, type "help"
+[18:31:44] [Server thread/INFO]: sidmeister[/127.0.0.1:41696] logged in with entity id 73 at (82.56459819167144, 75.0, -528.831541605005)
+[18:31:44] [Server thread/INFO]: sidmeister joined the game
+[18:31:45] [Server thread/WARN]: Trying to add entity with duplicated UUID de70ec1a-1c65-45e3-8fbd-ba45b284e969. Existing minecraft:turtle#361, new: minecraft:turtle#371
+[18:31:59] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:31:59] [Server thread/INFO]: sidmeister left the game
+[18:32:50] [Server thread/INFO]: sidmeister[/127.0.0.1:41734] logged in with entity id 562 at (82.56459819167144, 75.0, -528.831541605005)
+[18:32:50] [Server thread/INFO]: sidmeister joined the game
+[18:33:06] [Server thread/WARN]: sidmeister moved too quickly! -10.112153720065322,0.12129684053920187,-0.7363518638826463
+[18:33:20] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:33:20] [Server thread/INFO]: sidmeister left the game
+[18:33:36] [Server thread/INFO]: sidmeister[/127.0.0.1:41738] logged in with entity id 810 at (72.76150216956275, 75.49520087700593, -529.5735806487677)
+[18:33:36] [Server thread/INFO]: sidmeister joined the game
+[18:34:06] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:34:06] [Server thread/INFO]: sidmeister left the game
+[18:35:27] [Server thread/INFO]: sidmeister[/127.0.0.1:41762] logged in with entity id 1107 at (100.76376523089701, 76.0, -532.1663131983441)
+[18:35:27] [Server thread/INFO]: sidmeister joined the game
+[18:35:42] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:35:42] [Server thread/INFO]: sidmeister left the game
+[18:36:24] [Server thread/INFO]: sidmeister[/127.0.0.1:41780] logged in with entity id 1357 at (100.76376523089701, 76.0, -532.1663131983441)
+[18:36:24] [Server thread/INFO]: sidmeister joined the game
+[18:36:39] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:36:39] [Server thread/INFO]: sidmeister left the game
+[18:37:00] [Server thread/INFO]: sidmeister[/127.0.0.1:41784] logged in with entity id 1609 at (100.76376523089701, 76.0, -532.1663131983441)
+[18:37:00] [Server thread/INFO]: sidmeister joined the game
+[18:37:15] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:37:15] [Server thread/INFO]: sidmeister left the game
+[18:37:55] [Server thread/INFO]: sidmeister[/127.0.0.1:41794] logged in with entity id 1876 at (100.76376523089701, 76.0, -532.1663131983441)
+[18:37:55] [Server thread/INFO]: sidmeister joined the game
+[18:37:59] [Server thread/INFO]: sidmeister was slain by Zombie
+[18:38:10] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:38:10] [Server thread/INFO]: sidmeister left the game
+[18:38:43] [Server thread/INFO]: sidmeister[/127.0.0.1:41802] logged in with entity id 2128 at (100.76376523089701, 76.0, -532.1663131983441)
+[18:38:43] [Server thread/INFO]: sidmeister joined the game
+[18:38:58] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:38:58] [Server thread/INFO]: sidmeister left the game
+[18:39:45] [Server thread/INFO]: sidmeister[/127.0.0.1:41816] logged in with entity id 2395 at (100.76376523089701, 76.0, -532.1663131983441)
+[18:39:45] [Server thread/INFO]: sidmeister joined the game
+[18:40:08] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[18:40:08] [Server thread/INFO]: sidmeister left the game
+[18:40:11] [Server thread/INFO]: sidmeister[/127.0.0.1:41822] logged in with entity id 2671 at (111.5, 84.0, -535.5)
+[18:40:11] [Server thread/INFO]: sidmeister joined the game
+[18:40:42] [Server thread/INFO]: sidmeister lost connection: Timed out
+[18:40:42] [Server thread/INFO]: sidmeister left the game
+[18:41:04] [Server thread/INFO]: Stopping the server
+[18:41:05] [Server thread/INFO]: Stopping server
+[18:41:05] [Server thread/INFO]: Saving players
+[18:41:05] [Server thread/INFO]: Saving worlds
+[18:41:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:41:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
