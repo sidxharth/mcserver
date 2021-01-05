@@ -2500,6 +2500,7 @@
       "bread": "2020-11-24 23:08:15 +0530",
       "golden_apple": "2020-12-22 11:45:11 +0530",
       "cookie": "2020-11-27 16:50:58 +0530",
+      "rotten_flesh": "2021-01-04 18:09:45 +0530",
       "melon_slice": "2020-12-08 22:52:17 +0530",
       "cooked_chicken": "2020-11-23 18:14:11 +0530",
       "cod": "2020-12-28 16:50:23 +0530",
@@ -3467,6 +3468,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-11-24 23:10:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2021-01-02 13:50:54 +0530"
     },
     "done": true
   },
