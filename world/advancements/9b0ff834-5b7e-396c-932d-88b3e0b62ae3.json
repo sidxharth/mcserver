@@ -531,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-01-07 14:22:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-12-22 12:01:06 +0530"
@@ -832,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-01-07 14:22:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-12-22 13:02:41 +0530"
@@ -991,6 +1003,7 @@
       "minecraft:creeper": "2020-12-28 15:40:26 +0530",
       "minecraft:zombified_piglin": "2020-12-28 23:11:42 +0530",
       "minecraft:silverfish": "2020-12-28 23:17:28 +0530",
+      "minecraft:enderman": "2021-01-07 13:53:05 +0530",
       "minecraft:zombie": "2020-12-23 18:13:18 +0530",
       "minecraft:drowned": "2021-01-04 15:24:37 +0530"
     },
@@ -1997,6 +2010,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-12-25 00:03:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-01-07 14:22:29 +0530"
     },
     "done": true
   },

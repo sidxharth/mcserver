@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-01-07 13:40:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-12-14 00:51:21 +0530"
@@ -1043,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-01-07 13:44:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-12-24 20:37:00 +0530"
@@ -1558,7 +1570,9 @@
       "minecraft:cold_ocean": "2020-12-28 17:10:06 +0530",
       "minecraft:mountains": "2020-12-14 00:58:57 +0530",
       "minecraft:forest": "2020-12-22 21:15:06 +0530",
+      "minecraft:taiga": "2021-01-07 13:37:14 +0530",
       "minecraft:deep_cold_ocean": "2020-12-29 14:12:45 +0530",
+      "minecraft:taiga_hills": "2021-01-07 13:38:05 +0530",
       "minecraft:deep_frozen_ocean": "2020-12-28 16:07:10 +0530",
       "minecraft:birch_forest": "2020-12-26 17:35:49 +0530",
       "minecraft:warm_ocean": "2020-12-29 15:22:02 +0530",
@@ -3743,6 +3757,12 @@
       "has_planks": "2020-12-22 21:31:23 +0530"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/british_shorthair.png": "2021-01-07 13:44:33 +0530"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
