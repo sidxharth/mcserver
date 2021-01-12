@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2021-01-12 18:27:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-11-23 13:26:31 +0530"
@@ -302,7 +308,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2020-11-23 16:25:45 +0530",
-      "rotten_flesh": "2020-11-23 13:54:47 +0530"
+      "rotten_flesh": "2020-11-23 13:54:47 +0530",
+      "cooked_chicken": "2021-01-12 18:16:48 +0530"
     },
     "done": false
   },
@@ -640,8 +647,12 @@
     "criteria": {
       "minecraft:forest": "2020-11-23 13:29:53 +0530",
       "minecraft:mountains": "2020-11-23 16:52:43 +0530",
+      "minecraft:deep_lukewarm_ocean": "2021-01-12 18:21:39 +0530",
       "minecraft:beach": "2020-11-23 18:17:20 +0530",
       "minecraft:river": "2020-11-23 16:52:18 +0530",
+      "minecraft:lukewarm_ocean": "2021-01-12 18:21:27 +0530",
+      "minecraft:wooded_mountains": "2021-01-12 18:29:04 +0530",
+      "minecraft:wooded_hills": "2021-01-12 18:15:20 +0530",
       "minecraft:plains": "2020-11-23 13:25:22 +0530"
     },
     "done": false
@@ -982,6 +993,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-11-23 17:20:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2021-01-12 18:27:51 +0530"
     },
     "done": true
   },

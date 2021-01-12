@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-01-12 19:05:40 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2020-12-23 16:28:45 +0530"
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2021-01-12 19:24:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-12-24 20:37:02 +0530"
@@ -752,6 +764,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-12-24 22:08:08 +0530",
+      "minecraft:blaze": "2021-01-12 19:13:11 +0530",
       "minecraft:skeleton": "2020-12-14 00:59:28 +0530",
       "minecraft:elder_guardian": "2020-12-28 16:45:07 +0530",
       "minecraft:ghast": "2020-12-22 22:03:42 +0530",
@@ -763,7 +776,9 @@
       "minecraft:piglin_brute": "2020-12-22 12:05:21 +0530",
       "minecraft:creeper": "2020-12-14 01:21:53 +0530",
       "minecraft:phantom": "2020-12-25 00:09:18 +0530",
+      "minecraft:zombified_piglin": "2021-01-12 20:00:33 +0530",
       "minecraft:witch": "2020-12-23 19:29:00 +0530",
+      "minecraft:wither_skeleton": "2021-01-12 19:16:13 +0530",
       "minecraft:shulker": "2020-12-20 12:59:08 +0530",
       "minecraft:cave_spider": "2020-12-25 14:28:07 +0530",
       "minecraft:piglin": "2020-12-22 12:05:11 +0530",
@@ -878,6 +893,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_boots": "2020-12-14 00:51:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-01-12 19:05:40 +0530"
     },
     "done": true
   },
@@ -1541,6 +1562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-01-12 19:52:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-12-14 00:51:21 +0530"
@@ -1822,9 +1849,10 @@
       "minecraft:crimson_forest": "2020-12-22 12:04:24 +0530",
       "minecraft:nether_wastes": "2020-12-20 12:49:48 +0530",
       "minecraft:soul_sand_valley": "2020-12-22 12:06:22 +0530",
-      "minecraft:warped_forest": "2020-12-20 12:50:25 +0530"
+      "minecraft:warped_forest": "2020-12-20 12:50:25 +0530",
+      "minecraft:basalt_deltas": "2021-01-12 19:10:48 +0530"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -1949,6 +1977,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2020-12-22 21:26:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-01-12 19:05:40 +0530"
     },
     "done": true
   },
@@ -2906,6 +2940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-01-12 19:52:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-12-24 20:10:17 +0530"
@@ -3101,6 +3141,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-12-25 15:33:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-01-12 19:11:40 +0530"
     },
     "done": true
   },
@@ -3335,6 +3381,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2020-12-25 13:42:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-01-12 19:52:47 +0530"
     },
     "done": true
   },
@@ -3713,6 +3765,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2020-12-24 15:50:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-01-12 19:54:38 +0530"
     },
     "done": true
   },

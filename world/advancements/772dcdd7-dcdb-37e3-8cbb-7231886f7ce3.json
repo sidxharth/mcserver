@@ -1943,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-01-12 18:29:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2020-11-27 21:57:42 +0530"
