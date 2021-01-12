@@ -1,351 +1,272 @@
-[14:26:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:26:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:26:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:26:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:26:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:26:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:26:26] [main/INFO]: Reloading ResourceManager: Default
-[14:26:27] [Worker-Main-13/INFO]: Loaded 7 recipes
-[14:26:27] [Worker-Main-13/INFO]: Loaded 927 advancements
-[14:26:29] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[14:26:29] [Server thread/INFO]: Loading properties
-[14:26:29] [Server thread/INFO]: Default game type: SURVIVAL
-[14:26:29] [Server thread/INFO]: Generating keypair
-[14:26:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:26:29] [Server thread/INFO]: Using default channel type
-[14:26:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:26:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:26:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:26:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:26:32] [Server thread/INFO]: Preparing level "world"
-[14:26:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:26:34] [Server thread/INFO]: Preparing spawn area: 0%
-[14:26:34] [Server thread/INFO]: Preparing spawn area: 0%
-[14:26:34] [Server thread/INFO]: Preparing spawn area: 0%
-[14:26:34] [Server thread/INFO]: Preparing spawn area: 0%
-[14:26:34] [Server thread/INFO]: Preparing spawn area: 0%
-[14:26:35] [Server thread/INFO]: Time elapsed: 2617 ms
-[14:26:35] [Server thread/INFO]: Done (2.774s)! For help, type "help"
-[14:27:37] [Server thread/INFO]: RitikKhatri[/127.0.0.1:4635] logged in with entity id 76 at (197.1260169078659, 74.0, -500.58578344216846)
-[14:27:37] [Server thread/INFO]: RitikKhatri joined the game
-[14:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[14:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7178ms or 143 ticks behind
-[14:32:00] [Server thread/INFO]: Set the time to 0
-[14:35:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2911, l='ServerLevel[world]', x=239.18, y=79.00, z=-552.08]
-[14:42:53] [Server thread/INFO]: Set the time to 0
-[14:49:38] [Server thread/INFO]: Gave 2 [Hopper] to RitikKhatri
-[14:51:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=190, y=74, z=-499} fx{x=199, y=48, z=-352}
-[14:53:37] [Server thread/INFO]: Set the time to 0
-[15:04:49] [Server thread/INFO]: Set the time to 0
-[15:08:46] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:6069] logged in with entity id 9211 at (109.5, 84.5625, -535.5)
-[15:08:46] [Server thread/INFO]: shobhit_joe joined the game
-[15:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[15:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[15:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[15:11:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
-[15:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[15:12:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=197, y=70, z=-500} fx{x=197, y=72, z=-500}
-[15:12:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=197, y=70, z=-500} fx{x=197, y=72, z=-500}
-[15:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4424ms or 88 ticks behind
-[15:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
-[15:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3766ms or 75 ticks behind
-[15:13:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[15:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[15:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[15:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
-[15:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[15:16:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
-[15:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[15:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
-[15:17:28] [Server thread/INFO]: <RitikKhatri> kha haI?
-[15:17:40] [Server thread/INFO]: <shobhit_joe> nether
-[15:17:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
-[15:17:47] [Server thread/INFO]: Set the time to 0
-[15:20:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[15:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[15:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[15:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
-[15:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
-[15:24:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14053, l='ServerLevel[world]', x=101.16, y=55.00, z=-632.90]
-[15:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[15:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[15:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[15:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[15:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[15:27:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
-[15:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
-[15:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2787ms or 55 ticks behind
-[15:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
-[15:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[15:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:29:31] [Server thread/INFO]: Set the time to 0
-[15:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[15:30:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[15:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[15:32:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:33:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[15:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[15:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[15:34:33] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[15:34:33] [Server thread/INFO]: RitikKhatri left the game
-[15:38:19] [Server thread/INFO]: RitikKhatri[/127.0.0.1:7024] logged in with entity id 16648 at (195.76408606756064, 76.0, -500.18686159842775)
-[15:38:19] [Server thread/INFO]: RitikKhatri joined the game
-[15:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2417ms or 48 ticks behind
-[15:39:00] [Server thread/INFO]: Gave 2 [Redstone Repeater] to RitikKhatri
-[15:39:07] [Server thread/INFO]: Gave 4 [Redstone Dust] to RitikKhatri
-[15:39:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[15:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[15:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[15:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[15:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
-[15:41:12] [Server thread/INFO]: Set the time to 0
-[15:41:36] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[15:41:36] [Server thread/INFO]: RitikKhatri left the game
-[15:49:03] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[15:49:03] [Server thread/INFO]: shobhit_joe left the game
-[15:53:00] [Server thread/INFO]: RitikKhatri[/127.0.0.1:7559] logged in with entity id 18346 at (202.7074967523937, 70.0, -500.67957039053675)
-[15:53:00] [Server thread/INFO]: RitikKhatri joined the game
-[15:53:04] [Server thread/INFO]: Set the time to 0
-[15:54:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18870, l='ServerLevel[world]', x=233.40, y=79.00, z=-551.13]
-[15:55:30] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:7645] logged in with entity id 19014 at (-2.99398024145605, 41.0, -82.88207600509809)
-[15:55:30] [Server thread/INFO]: shobhit_joe joined the game
-[15:56:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[15:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
-[15:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[15:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
-[15:57:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4215ms or 84 ticks behind
-[15:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5295ms or 105 ticks behind
-[15:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3662ms or 73 ticks behind
-[15:58:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4958ms or 99 ticks behind
-[15:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
-[15:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[15:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[15:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
-[16:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[16:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[16:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[16:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[16:04:47] [Server thread/INFO]: Gave 10 [Redstone Dust] to RitikKhatri
-[16:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[16:05:27] [Server thread/INFO]: Set the time to 0
-[16:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:07:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[16:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
-[16:10:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
-[16:10:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
-[16:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[16:13:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:13:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/23153, l='ServerLevel[world]', x=233.77, y=79.00, z=-552.68]
-[16:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[16:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[16:15:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[16:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[16:17:17] [Server thread/INFO]: Set the time to 0
-[16:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[16:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[16:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[16:19:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[16:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
-[16:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
-[16:20:56] [Server thread/INFO]: <shobhit_joe> trident farm done
-[16:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:21:03] [Server thread/INFO]: <RitikKhatri> niceeeeeeeeee
-[16:21:06] [Server thread/INFO]: <RitikKhatri> mai arha
-[16:21:08] [Server thread/INFO]: <RitikKhatri> dekhne
-[16:21:11] [Server thread/INFO]: <RitikKhatri> kha hai
-[16:21:27] [Server thread/INFO]: <shobhit_joe> bro turant kaam nahi karta AFK baithna padta hai XD
-[16:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[16:21:34] [Server thread/INFO]: <RitikKhatri> tab bhi
-[16:21:36] [Server thread/INFO]: <RitikKhatri> dekhna hai
-[16:21:41] [Server thread/INFO]: <shobhit_joe> nether aaja
-[16:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[16:22:09] [Server thread/INFO]: shobhit_joe tried to swim in lava
-[16:22:15] [Server thread/INFO]: <RitikKhatri> abeeee
-[16:22:19] [Server thread/INFO]: <shobhit_joe> fukin ghast
-[16:22:25] [Server thread/INFO]: <RitikKhatri> was inv on?
-[16:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[16:22:30] [Server thread/INFO]: <RitikKhatri> i did it some days ago
-[16:22:33] [Server thread/INFO]: <shobhit_joe> destroyed the bridge
-[16:22:40] [Server thread/INFO]: <shobhit_joe> ya inv was on
-[16:22:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4272ms or 85 ticks behind
-[16:22:45] [Server thread/INFO]: <RitikKhatri> phew
-[16:22:49] [Server thread/INFO]: <RitikKhatri> ok im atr portal
-[16:23:30] [Server thread/INFO]: <RitikKhatri> lol kya awaj nikalta hai lolol
-[16:24:12] [Server thread/INFO]: <RitikKhatri> ja nhi sakta?
-[16:24:14] [Server thread/INFO]: <RitikKhatri> us par?
-[16:24:25] [Server thread/INFO]: <shobhit_joe> they should come here through portal
-[16:24:33] [Server thread/INFO]: <RitikKhatri> can i go through?
-[16:24:40] [Server thread/INFO]: <shobhit_joe> dont
-[16:24:46] [Server thread/INFO]: <shobhit_joe> phas jayega
-[16:24:49] [Server thread/INFO]: <RitikKhatri> i see
-[16:25:01] [Server thread/INFO]: <shobhit_joe> underwater mechanism dikhata hun chal
-[16:25:10] [Server thread/INFO]: <RitikKhatri> i imagined an under water base like thing , jisme drowned aaenge lol
-[16:25:18] [Server thread/INFO]: <shobhit_joe> wahi hai
-[16:25:32] [Server thread/INFO]: <shobhit_joe> but wahan pe portal hota hai
-[16:25:36] [Server thread/INFO]: <RitikKhatri> ok
-[16:25:45] [Server thread/INFO]: <shobhit_joe> jo unko yahan push krta hai
-[16:27:13] [Server thread/WARN]: shobhit_joe moved too quickly! -9.384516091375836,-0.16845313956257257,-4.057917562594071
-[16:27:35] [Server thread/INFO]: <RitikKhatri> no flying lol?
-[16:27:52] [Server thread/INFO]: <RitikKhatri> oh
-[16:28:42] [Server thread/INFO]: <RitikKhatri> nice
-[16:28:49] [Server thread/INFO]: <shobhit_joe> in portals ke through yeh log wahan pohunchte hai
-[16:29:00] [Server thread/INFO]: <shobhit_joe> jis spot mei le gaya tha tujhe
-[16:29:02] [Server thread/INFO]: <RitikKhatri> ande
-[16:29:09] [Server thread/INFO]: <RitikKhatri> turle
-[16:29:25] [Server thread/INFO]: <RitikKhatri> goood
-[16:29:31] [Server thread/INFO]: <shobhit_joe> turtle eggs attract them
-[16:29:34] [Server thread/INFO]: <RitikKhatri> hm
-[16:29:55] [Server thread/INFO]: <RitikKhatri> nothing to do here now ryt?
-[16:30:00] [Server thread/INFO]: <shobhit_joe> i have to clear the area around here
-[16:30:02] [Server thread/INFO]: <RitikKhatri> just wait in nether?
-[16:30:05] [Server thread/INFO]: <RitikKhatri> oh
-[16:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
-[16:30:54] [Server thread/INFO]: <shobhit_joe> upar jo scaffolding hai waha AFK spot banega
-[16:30:55] [Server thread/INFO]: <RitikKhatri> day/night doesnt affect them sapwning ryt?
-[16:31:03] [Server thread/INFO]: <shobhit_joe> ya
-[16:31:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:31:10] [Server thread/INFO]: Set the time to 0
-[16:31:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/27913, l='ServerLevel[world]', x=100.73, y=55.00, z=-634.75]
-[16:36:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[16:38:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30145, l='ServerLevel[world]', x=99.20, y=55.00, z=-633.92]
-[16:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[16:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[16:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[16:39:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30662, l='ServerLevel[world]', x=239.20, y=79.00, z=-548.37]
-[16:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
-[16:39:40] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:39:55] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:03] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:40:19] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:20] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:21] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:22] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:24] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:27] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:40:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
-[16:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4118ms or 82 ticks behind
-[16:41:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Netherrack'/31087, l='ServerLevel[world]', x=-28.45, y=37.00, z=-692.49]
-[16:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
-[16:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[16:43:13] [Server thread/INFO]: Set the time to 0
-[16:43:35] [Server thread/WARN]: shobhit_joe moved wrongly!
-[16:43:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:45:32] [Server thread/INFO]: Gave 4 [Redstone Dust] to RitikKhatri
-[16:45:39] [Server thread/INFO]: Gave 2 [Redstone Comparator] to RitikKhatri
-[16:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
-[16:47:20] [Server thread/INFO]: <shobhit_joe> what r u up to
-[16:47:28] [Server thread/INFO]: <RitikKhatri> kuch khas nhi
-[16:47:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:47:39] [Server thread/INFO]: /waether set sunny<--[HERE]
-[16:47:44] [Server thread/INFO]: <shobhit_joe> ek help kardega
-[16:47:58] [Server thread/INFO]: <RitikKhatri> kya
-[16:48:17] [Server thread/INFO]: <shobhit_joe> area clear kardega underwater farm ke aas paas
-[16:48:25] [Server thread/INFO]: <shobhit_joe> mai thak gaya hun ab XD
-[16:48:29] [Server thread/INFO]: <RitikKhatri> i see
-[16:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[16:48:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
-[16:48:49] [Server thread/INFO]: <shobhit_joe> mai potions brew krke de dunga
-[16:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
-[16:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[16:50:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[16:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:51:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[16:52:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/34868, l='ServerLevel[world]', x=99.20, y=55.00, z=-634.74]
-[16:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[16:53:23] [Server thread/INFO]: <RitikKhatri> kya kya clear karna hai?
-[16:53:38] [Server thread/INFO]: <shobhit_joe> seaweed kelp wagera
-[16:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[16:53:45] [Server thread/INFO]: <RitikKhatri> oh ok
-[16:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4491ms or 89 ticks behind
-[16:54:12] [Server thread/INFO]: <RitikKhatri> they wont re grow?
-[16:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
-[16:54:28] [Server thread/INFO]: <shobhit_joe> agar root se hata dega toh nahi grow karenge
-[16:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5783ms or 115 ticks behind
-[16:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6326ms or 126 ticks behind
-[16:55:18] [Server thread/INFO]: <RitikKhatri> tu kha hai?
-[16:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6936ms or 138 ticks behind
-[16:55:28] [Server thread/INFO]: <shobhit_joe> mai iron trading kar raha
-[16:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7697ms or 153 ticks behind
-[16:55:48] [Server thread/INFO]: <RitikKhatri> kitni duur tak clean karni hai?
-[16:56:03] [Server thread/INFO]: <shobhit_joe> krde thoda decent amound
-[16:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5862ms or 117 ticks behind
-[16:56:11] [Server thread/INFO]: <RitikKhatri> i think ther is a problem
-[16:56:15] [Server thread/INFO]: <RitikKhatri> piglin atak gya
-[16:56:17] [Server thread/INFO]: <shobhit_joe> 12 ya 16 blocks around
-[16:56:23] [Server thread/INFO]: <shobhit_joe> oh
-[16:56:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
-[16:56:37] [Server thread/INFO]: <shobhit_joe> can u kill it with arrows
-[16:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6071ms or 121 ticks behind
-[16:56:55] [Server thread/INFO]: <RitikKhatri> nvm chala gya
-[16:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5393ms or 107 ticks behind
-[16:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5445ms or 108 ticks behind
-[16:57:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6006ms or 120 ticks behind
-[16:57:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2, y=32, z=-687} fx{x=-2, y=33, z=-687}
-[16:58:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-5, y=31, z=-692} fx{x=-4, y=31, z=-692}
-[16:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8493ms or 169 ticks behind
-[16:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4, y=30, z=-698} fx{x=-3, y=30, z=-699}
-[16:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4, y=30, z=-698} fx{x=-3, y=30, z=-699}
-[16:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7364ms or 147 ticks behind
-[16:58:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6141ms or 122 ticks behind
-[16:59:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5163ms or 103 ticks behind
-[16:59:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5730ms or 114 ticks behind
-[16:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
-[17:00:14] [Server thread/INFO]: <shobhit_joe> chal mai jara abhi ke liye
-[17:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5870ms or 117 ticks behind
-[17:00:16] [Server thread/INFO]: <shobhit_joe> bye
-[17:00:18] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[17:00:18] [Server thread/INFO]: shobhit_joe left the game
-[17:00:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/38064, l='ServerLevel[world]', x=105.73, y=55.00, z=-630.64]
-[17:00:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=8, y=28, z=-699} fx{x=8, y=27, z=-699}
-[17:00:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=8, y=28, z=-699} fx{x=8, y=27, z=-699}
-[17:01:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/38280, l='ServerLevel[world]', x=99.20, y=55.00, z=-630.62]
-[17:02:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-19, y=33, z=-657} fx{x=-19, y=31, z=-656}
-[17:02:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-19, y=33, z=-657} fx{x=-19, y=31, z=-656}
-[17:04:21] [Server thread/INFO]: Gave 1 [Golden Apple] to RitikKhatri
-[17:05:49] [Server thread/INFO]: Gave 1 [Golden Apple] to RitikKhatri
-[17:08:41] [Server thread/INFO]: RitikKhatri was impaled by Drowned
-[17:08:43] [Server thread/WARN]: RitikKhatri moved too quickly! 188.0831675627162,17.271659039815866,143.31613150353814
-[17:08:57] [Server thread/INFO]: Gave 3 [Golden Apple] to RitikKhatri
-[17:09:28] [Server thread/INFO]: Gave 1 [Shield] to RitikKhatri
-[17:12:17] [Server thread/INFO]: Gave 4 [Redstone Dust] to RitikKhatri
-[17:14:25] [Server thread/INFO]: Gave 4 [Redstone Dust] to RitikKhatri
-[17:14:32] [Server thread/INFO]: Gave 1 [Redstone Repeater] to RitikKhatri
-[17:15:06] [Server thread/INFO]: Gave 1 [Redstone Repeater] to RitikKhatri
-[17:15:36] [Server thread/INFO]: Gave 4 [Redstone Dust] to RitikKhatri
-[17:16:11] [Server thread/INFO]: Set the time to 1
-[17:26:56] [Server thread/INFO]: Set the time to 1
-[17:29:39] [Server thread/INFO]: Gave 2 [Item Frame] to RitikKhatri
-[17:35:13] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[17:35:13] [Server thread/INFO]: RitikKhatri left the game
-[17:36:03] [Server thread/INFO]: Stopping the server
-[17:36:03] [Server thread/INFO]: Stopping server
-[17:36:03] [Server thread/INFO]: Saving players
-[17:36:03] [Server thread/INFO]: Saving worlds
-[17:36:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:21:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:21:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:21:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:21:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:21:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:21:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:21:48] [main/INFO]: Reloading ResourceManager: Default
+[14:21:49] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:21:49] [Worker-Main-14/INFO]: Loaded 927 advancements
+[14:21:50] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[14:21:50] [Server thread/INFO]: Loading properties
+[14:21:50] [Server thread/INFO]: Default game type: SURVIVAL
+[14:21:50] [Server thread/INFO]: Generating keypair
+[14:21:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:21:51] [Server thread/INFO]: Using default channel type
+[14:21:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:21:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:21:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:21:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:21:52] [Server thread/INFO]: Preparing level "world"
+[14:21:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:21:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:21:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:21:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:21:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:21:55] [Server thread/INFO]: Time elapsed: 2999 ms
+[14:21:55] [Server thread/INFO]: Done (3.110s)! For help, type "help"
+[14:22:36] [Server thread/INFO]: RitikKhatri[/0:0:0:0:0:0:0:1:52233] logged in with entity id 76 at (193.31266715037313, 74.0, -502.23564397399707)
+[14:22:36] [Server thread/INFO]: RitikKhatri joined the game
+[14:23:25] [Server thread/INFO]: [Server] chal raha hai kya server
+[14:23:35] [Server thread/INFO]: <RitikKhatri> yes
+[14:23:39] [Server thread/INFO]: <RitikKhatri> whos this
+[14:23:58] [Server thread/INFO]: [Server] shobhit :,)
+[14:24:05] [Server thread/INFO]: <RitikKhatri> ok
+[14:24:44] [Server thread/INFO]: [Server] dude this server shit is tough XD
+[14:24:49] [Server thread/INFO]: <RitikKhatri> how
+[14:27:33] [Server thread/INFO]: [Server] i dont know man samajh hi nahi aa raha tha XD
+[14:29:02] [Server thread/INFO]: <RitikKhatri> ab agya samjh?
+[14:29:05] [Server thread/INFO]: <RitikKhatri> u gona join?
+[14:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[14:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4665ms or 93 ticks behind
+[14:29:57] [Server thread/INFO]: shobhit_joe[/0:0:0:0:0:0:0:1:52310] logged in with entity id 3150 at (112.43251155288633, 62.0, -498.95268512088813)
+[14:29:57] [Server thread/INFO]: shobhit_joe joined the game
+[14:30:06] [Server thread/INFO]: <shobhit_joe> yooooo
+[14:30:52] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/3471, l='ServerLevel[world]', x=96.13, y=63.50, z=-502.63]
+[14:31:25] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/3662, l='ServerLevel[world]', x=95.13, y=63.00, z=-514.13]
+[14:34:28] [Server thread/INFO]: <RitikKhatri> i did clear 1/4 th of area
+[14:34:39] [Server thread/INFO]: <shobhit_joe> what r u makin
+[14:34:46] [Server thread/INFO]: <RitikKhatri> smelter
+[14:34:52] [Server thread/INFO]: <RitikKhatri> try it
+[14:34:57] [Server thread/INFO]: <RitikKhatri> input
+[14:35:00] [Server thread/INFO]: <RitikKhatri> isme
+[14:35:14] [Server thread/INFO]: <RitikKhatri> on kar
+[14:35:26] [Server thread/INFO]: <RitikKhatri> wait
+[14:36:10] [Server thread/INFO]: <shobhit_joe> oye sun mera ek college ka dost aa raha hai
+[14:36:18] [Server thread/INFO]: <RitikKhatri> acha
+[14:36:50] [Server thread/INFO]: <RitikKhatri> lol it got stuck some where
+[14:36:52] [Server thread/INFO]: <RitikKhatri> xD
+[14:38:39] [Server thread/INFO]: jamescxraft[/0:0:0:0:0:0:0:1:52348] logged in with entity id 6199 at (22.5, 64.0, -197.5)
+[14:38:39] [Server thread/INFO]: jamescxraft joined the game
+[14:38:44] [Server thread/INFO]: <shobhit_joe> yooooo
+[14:38:49] [Server thread/INFO]: <jamescxraft> lol
+[14:39:11] [Server thread/INFO]: <shobhit_joe> kahan hai tu ?
+[14:39:26] [Server thread/INFO]: <jamescxraft> aur koi hai kya
+[14:39:29] [Server thread/INFO]: <shobhit_joe> haan
+[14:39:31] [Server thread/INFO]: <jamescxraft> mai tower ke paas
+[14:40:12] [Server thread/INFO]: <jamescxraft> wtf
+[14:40:19] [Server thread/INFO]: <jamescxraft> beat the end??
+[14:40:30] [Server thread/INFO]: <shobhit_joe> hum bohot aage pohunch gaye vro XD
+[14:40:52] [Server thread/INFO]: <jamescxraft> bc
+[14:40:56] [Server thread/INFO]: <jamescxraft> gear
+[14:40:58] [Server thread/INFO]: <jamescxraft> plis
+[14:41:05] [Server thread/INFO]: <jamescxraft> ya phir khud dhoondhoon
+[14:41:12] [Server thread/INFO]: <shobhit_joe> chal mere saath apne base pe le chalta hun
+[14:41:36] [Server thread/INFO]: <jamescxraft> wtf
+[14:41:48] [Server thread/INFO]: <shobhit_joe> woh nahi hai XD
+[14:41:53] [Server thread/WARN]: jamescxraft moved too quickly! 9.73174364315134,-1.0,-2.2352000328961594
+[14:42:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/8875, l='ServerLevel[world]', x=197.88, y=74.04, z=-495.64]
+[14:42:32] [Server thread/INFO]: <jamescxraft> lag
+[14:42:36] [Server thread/INFO]: jamescxraft was slain by Zombie
+[14:42:39] [Server thread/INFO]: jamescxraft lost connection: Timed out
+[14:42:39] [Server thread/INFO]: jamescxraft left the game
+[14:42:39] [Server thread/WARN]: handleDisconnection() called twice
+[14:42:42] [Server thread/INFO]: <shobhit_joe> f
+[14:42:58] [Server thread/INFO]: <shobhit_joe> ritik lag ho raha hai kya ?
+[14:43:02] [Server thread/INFO]: jamescxraft[/0:0:0:0:0:0:0:1:52373] logged in with entity id 9036 at (130.13282360427345, 74.0, -493.6788842921978)
+[14:43:02] [Server thread/INFO]: jamescxraft joined the game
+[14:43:11] [Server thread/INFO]: <RitikKhatri> jyada nhi
+[14:43:17] [Server thread/INFO]: jamescxraft lost connection: Timed out
+[14:43:17] [Server thread/INFO]: jamescxraft left the game
+[14:43:43] [Server thread/INFO]: jamescxraft[/0:0:0:0:0:0:0:1:52378] logged in with entity id 9210 at (130.13282360427345, 74.0, -493.6788842921978)
+[14:43:43] [Server thread/INFO]: jamescxraft joined the game
+[14:43:58] [Server thread/INFO]: jamescxraft lost connection: Timed out
+[14:43:58] [Server thread/INFO]: jamescxraft left the game
+[14:44:27] [Server thread/INFO]: jamescxraft[/0:0:0:0:0:0:0:1:52382] logged in with entity id 9429 at (130.13282360427345, 74.0, -493.6788842921978)
+[14:44:27] [Server thread/INFO]: jamescxraft joined the game
+[14:44:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9721, l='ServerLevel[world]', x=239.52, y=79.00, z=-548.09]
+[14:44:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9721, l='ServerLevel[world]', x=239.52, y=79.00, z=-548.09]
+[14:44:50] [Server thread/INFO]: <jamescxraft> mobile data bc
+[14:45:06] [Server thread/INFO]: <jamescxraft> isme kya keep inventory hai
+[14:45:09] [Server thread/INFO]: <jamescxraft> on death
+[14:45:11] [Server thread/INFO]: <shobhit_joe> haan
+[14:47:09] [Server thread/INFO]: <shobhit_joe> ab kahan gaya
+[14:47:31] [Server thread/INFO]: <jamescxraft> sheep
+[14:47:42] [Server thread/INFO]: <jamescxraft> wtf
+[14:47:50] [Server thread/INFO]: <shobhit_joe> idhar aa
+[14:47:52] [Server thread/INFO]: <jamescxraft> XDD
+[14:48:18] [Server thread/INFO]: <shobhit_joe> yeh hai mera base
+[14:48:35] [Server thread/INFO]: <shobhit_joe> gear uthale
+[14:49:06] [Server thread/INFO]: <jamescxraft> OOPS
+[14:49:11] [Server thread/INFO]: <shobhit_joe> chutiye XD
+[14:49:12] [Server thread/INFO]: jamescxraft has made the advancement [Suit Up]
+[14:49:15] [Server thread/INFO]: jamescxraft has made the advancement [Cover Me With Diamonds]
+[14:49:41] [Server thread/INFO]: <jamescxraft> nice
+[14:49:54] [Server thread/INFO]: <jamescxraft> mob grinder nahi banaya kya
+[14:50:03] [Server thread/INFO]: <jamescxraft> food
+[14:50:07] [Server thread/INFO]: <shobhit_joe> haan sahi se kaam nahi krta lekin
+[14:50:41] [Server thread/INFO]: <jamescxraft> yeh to noob wala hai
+[14:51:06] [Server thread/INFO]: jamescxraft has made the advancement [Stone Age]
+[14:51:06] [Server thread/INFO]: <shobhit_joe> enderfarm bhi bana rakha hai waise
+[14:51:21] [Server thread/INFO]: <jamescxraft> free xp
+[14:51:25] [Server thread/INFO]: <shobhit_joe> haan
+[14:52:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12721, l='ServerLevel[world]', x=234.04, y=79.00, z=-550.20]
+[14:53:31] [Server thread/INFO]: <shobhit_joe> diamond tools chahiye ?
+[14:54:23] [Server thread/INFO]: jamescxraft has made the advancement [Acquire Hardware]
+[14:55:28] [Server thread/INFO]: <jamescxraft> nice
+[14:55:32] [Server thread/INFO]: <jamescxraft> kya kare
+[14:55:40] [Server thread/INFO]: <shobhit_joe> tu bata
+[14:55:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/13675, l='ServerLevel[world]', x=233.34, y=79.00, z=-552.06]
+[14:55:50] [Server thread/INFO]: <shobhit_joe> mai toh kaafi kuch kar chuka hun
+[14:55:51] [Server thread/INFO]: <jamescxraft> blaze farm banaya?
+[14:56:07] [Server thread/INFO]: <jamescxraft> iron farm?
+[14:56:15] [Server thread/INFO]: jamescxraft has made the advancement [Not Today, Thank You]
+[14:56:17] [Server thread/INFO]: <shobhit_joe> iron farm bana liya hai
+[14:56:36] [Server thread/INFO]: <jamescxraft> bc mobs ke saath lag karne lagta hai thoda
+[14:56:45] [Server thread/INFO]: jamescxraft has made the advancement [Monster Hunter]
+[14:57:32] [Server thread/INFO]: <RitikKhatri> sleep
+[14:57:41] [Server thread/INFO]: <jamescxraft> spare bed?
+[14:57:55] [Server thread/INFO]: jamescxraft has made the advancement [Sweet Dreams]
+[14:57:58] [Server thread/INFO]: <shobhit_joe> zzz
+[14:58:10] [Server thread/INFO]: jamescxraft has made the advancement [We Need to Go Deeper]
+[15:00:28] [Server thread/INFO]: <jamescxraft> we'll improve your mob farm then
+[15:00:32] [Server thread/INFO]: <shobhit_joe> ok
+[15:01:22] [Server thread/INFO]: jamescxraft has made the advancement [Ice Bucket Challenge]
+[15:03:30] [Server thread/INFO]: <RitikKhatri> i did try to fix it
+[15:03:44] [Server thread/INFO]: <jamescxraft> use 10 floor design
+[15:03:58] [Server thread/INFO]: <jamescxraft> 12,000 drops per hour
+[15:04:01] [Server thread/INFO]: <RitikKhatri> its working now shobit
+[15:04:22] [Server thread/INFO]: <shobhit_joe> arre arre chal gaya XD
+[15:04:32] [Server thread/INFO]: <jamescxraft> kidhar ho
+[15:04:47] [Server thread/INFO]: <shobhit_joe> arre kuch nahi ek smelter kaam nahi kar raha tha
+[15:06:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/18589, l='ServerLevel[world]', x=200.83, y=72.00, z=-491.88]
+[15:08:32] [Server thread/INFO]: <RitikKhatri> yo
+[15:08:36] [Server thread/INFO]: <RitikKhatri> hi
+[15:08:38] [Server thread/INFO]: <jamescxraft> hi
+[15:09:18] [Server thread/INFO]: <jamescxraft> ooo creeper farm?
+[15:09:34] [Server thread/INFO]: <RitikKhatri> yah se
+[15:13:45] [Server thread/INFO]: jamescxraft has made the advancement [Enchanter]
+[15:13:48] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[15:13:48] [Server thread/INFO]: RitikKhatri left the game
+[15:14:05] [Server thread/INFO]: <shobhit_joe> sleep jivi
+[15:14:59] [Server thread/INFO]: <jamescxraft> wtf
+[15:15:03] [Server thread/INFO]: <shobhit_joe> brooooo
+[15:15:14] [Server thread/INFO]: <jamescxraft> XDD
+[15:15:17] [Server thread/INFO]: <shobhit_joe> bhaaaaiiii
+[15:15:26] [Server thread/INFO]: <jamescxraft> ded XD
+[15:15:37] [Server thread/INFO]: <shobhit_joe> abbe yaar
+[15:15:48] [Server thread/INFO]: <jamescxraft> mending hai?
+[15:15:52] [Server thread/INFO]: <shobhit_joe> haan
+[15:16:05] [Server thread/INFO]: <jamescxraft> ispe daal de
+[15:16:40] [Server thread/INFO]: <shobhit_joe> wapis build krna padega ab :(
+[15:17:57] [Server thread/INFO]: <jamescxraft> yeh le
+[15:18:04] [Server thread/INFO]: <jamescxraft> patto se aason poch le
+[15:18:09] [Server thread/INFO]: <jamescxraft> XD
+[15:18:12] [Server thread/INFO]: <shobhit_joe> :,)
+[15:18:18] [Server thread/INFO]: <shobhit_joe> y r u like this
+[15:21:11] [Server thread/INFO]: <jamescxraft> all of that was stoeln
+[15:21:15] [Server thread/INFO]: <jamescxraft> stolen*
+[15:21:29] [Server thread/INFO]: <jamescxraft> mine kidhar hai
+[15:21:51] [Server thread/INFO]: <shobhit_joe> aisa kuch exact nahi hai
+[15:23:55] [Server thread/INFO]: <jamescxraft> ez
+[15:25:07] [Server thread/INFO]: <jamescxraft> so jaa
+[15:25:28] [Server thread/INFO]: <shobhit_joe> ab mujhe neend nahi ayegi :,)
+[15:25:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-123, y=62, z=-590} fx{x=-123, y=62, z=-591}
+[15:25:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-123, y=62, z=-590} fx{x=-123, y=62, z=-591}
+[15:25:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-123, y=62, z=-590} fx{x=-123, y=62, z=-591}
+[15:25:39] [Server thread/INFO]: <jamescxraft> bsdk
+[15:25:48] [Server thread/INFO]: <shobhit_joe> aya ek sec
+[15:31:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26221, l='ServerLevel[world]', x=100.66, y=55.00, z=-632.06]
+[15:37:13] [Server thread/INFO]: <jamescxraft> slep
+[15:37:29] [Server thread/INFO]: RitikKhatri[/0:0:0:0:0:0:0:1:52579] logged in with entity id 27443 at (169.20745476917688, 66.0, -585.4053930195229)
+[15:37:29] [Server thread/INFO]: RitikKhatri joined the game
+[15:39:12] [Server thread/INFO]: <shobhit_joe> sleep ritik
+[15:39:34] [Server thread/INFO]: <RitikKhatri> zzz
+[15:40:11] [Server thread/INFO]: <jamescxraft> chalo
+[15:40:17] [Server thread/INFO]: <jamescxraft> let's make the farm
+[15:40:21] [Server thread/INFO]: <jamescxraft> food plis
+[15:40:24] [Server thread/INFO]: <shobhit_joe> banale
+[15:40:28] [Server thread/INFO]: <jamescxraft> help karna
+[15:40:50] [Server thread/INFO]: <jamescxraft> you need all your gold?
+[15:40:57] [Server thread/INFO]: <shobhit_joe> lele
+[15:41:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/29604, l='ServerLevel[world]', x=99.20, y=55.00, z=-635.17]
+[15:42:33] [Server thread/INFO]: <RitikKhatri> shobit is trident farm working?
+[15:42:45] [Server thread/INFO]: <shobhit_joe> afk baithna padta hai uske liye
+[15:42:52] [Server thread/INFO]: <RitikKhatri> i see
+[15:42:56] [Server thread/INFO]: <RitikKhatri> kaha baithna hai?
+[15:43:17] [Server thread/INFO]: <shobhit_joe> usi ke upar maine ek platform bana rakha hai scaffolding se
+[15:43:21] [Server thread/INFO]: <RitikKhatri> ok
+[15:44:19] [Server thread/INFO]: <jamescxraft> redstone?
+[15:44:39] [Server thread/INFO]: <jamescxraft> thx
+[15:45:36] [Server thread/INFO]: <shobhit_joe> bhai wtf
+[15:45:44] [Server thread/INFO]: <RitikKhatri> ?
+[15:45:46] [Server thread/INFO]: <jamescxraft> much quicker
+[15:45:57] [Server thread/INFO]: <shobhit_joe> zero regard :,)
+[15:46:10] [Server thread/INFO]: <jamescxraft> gimme silk touch, then nahi hoga
+[15:46:22] [Server thread/INFO]: <shobhit_joe> chup chap entrance se aya kar
+[15:46:39] [Server thread/INFO]: <jamescxraft> entrance bada karde phir
+[15:49:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/32924, l='ServerLevel[world]', x=234.39, y=79.00, z=-550.12]
+[15:53:34] [Server thread/INFO]: <shobhit_joe> slep
+[15:53:57] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[15:53:57] [Server thread/INFO]: RitikKhatri left the game
+[15:54:23] [Server thread/INFO]: RitikKhatri[/0:0:0:0:0:0:0:1:52644] logged in with entity id 35265 at (194.18047137084585, 78.0, -498.20217894765153)
+[15:54:23] [Server thread/INFO]: RitikKhatri joined the game
+[15:57:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-8, y=26, z=-707} fx{x=-8, y=27, z=-707}
+[15:57:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/38061, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
+[15:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2, y=28, z=-702} fx{x=-2, y=29, z=-702}
+[15:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2, y=28, z=-702} fx{x=-2, y=29, z=-702}
+[15:57:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2, y=24, z=-702} fx{x=-2, y=25, z=-702}
+[15:57:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-3, y=23, z=-704} fx{x=-3, y=24, z=-704}
+[16:01:46] [Server thread/INFO]: <RitikKhatri> so i just need to stand here?
+[16:01:55] [Server thread/INFO]: <shobhit_joe> ya
+[16:01:56] [Server thread/INFO]: <RitikKhatri> who will kill drowned?
+[16:02:14] [Server thread/INFO]: <shobhit_joe> i will or u can
+[16:02:17] [Server thread/INFO]: <RitikKhatri> ill have to go nether and kill them
+[16:02:21] [Server thread/INFO]: <shobhit_joe> yes
+[16:02:24] [Server thread/INFO]: <RitikKhatri> oh ok
+[16:06:41] [Server thread/INFO]: jamescxraft has made the advancement [Take Aim]
+[16:07:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/41735, l='ServerLevel[world]', x=99.20, y=55.00, z=-630.70]
+[16:07:50] [Server thread/INFO]: <jamescxraft> need more redstone
+[16:08:02] [Server thread/INFO]: <shobhit_joe> mine krle mere khatam ho gaye
+[16:08:11] [Server thread/INFO]: <RitikKhatri> sid ke base me thi kuch
+[16:08:13] [Server thread/INFO]: <jamescxraft> ://
+[16:08:19] [Server thread/INFO]: <jamescxraft> woh use ho gayi
+[16:08:36] [Server thread/INFO]: <RitikKhatri> clerics
+[16:08:49] [Server thread/INFO]: <jamescxraft> cool
+[16:09:16] [Server thread/INFO]: Villager bfj['zzz'/133, l='ServerLevel[world]', x=176.51, y=68.00, z=-464.51] died, message: 'zzz was slain by Zombie'
+[16:12:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/43888, l='ServerLevel[world]', x=106.74, y=55.00, z=-630.67]
+[16:15:20] [Server thread/INFO]: <jamescxraft> strip club?
+[16:19:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/47044, l='ServerLevel[world]', x=99.20, y=55.00, z=-633.55]
+[16:22:51] [Server thread/INFO]: <shobhit_joe> chalo guys mai nikal raha server jab band krna ho bata dena
+[16:23:06] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
+[16:23:06] [Server thread/INFO]: shobhit_joe left the game
+[16:23:17] [Server thread/INFO]: <jamescxraft> chal mai bhi jaa raha hoon, all resources for the machine have been consolidated
+[16:23:25] [Server thread/INFO]: <jamescxraft> tum log raat ko khelte ho kya?
+[16:23:30] [Server thread/INFO]: [Server] ok
+[16:23:49] [Server thread/INFO]: jamescxraft lost connection: Disconnected
+[16:23:49] [Server thread/INFO]: jamescxraft left the game
+[16:27:34] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[16:27:34] [Server thread/INFO]: RitikKhatri left the game
+[16:28:12] [Server thread/INFO]: Stopping the server
+[16:28:12] [Server thread/INFO]: Stopping server
+[16:28:12] [Server thread/INFO]: Saving players
+[16:28:12] [Server thread/INFO]: Saving worlds
+[16:28:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:28:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:28:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:28:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:28:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:28:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:28:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
