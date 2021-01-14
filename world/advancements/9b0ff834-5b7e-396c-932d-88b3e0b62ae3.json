@@ -832,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-01-13 23:23:10 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-12-22 12:58:19 +0530"
@@ -1935,6 +1941,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-01-13 23:22:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-12-25 00:12:00 +0530"
@@ -2077,6 +2089,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2020-12-24 20:35:55 +0530",
       "minecraft:nether_wastes": "2020-12-24 20:33:32 +0530",
+      "minecraft:soul_sand_valley": "2021-01-13 23:22:51 +0530",
       "minecraft:warped_forest": "2020-12-24 20:39:00 +0530"
     },
     "done": false

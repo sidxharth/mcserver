@@ -1,4 +1,4 @@
-﻿#!/bin/bash/env bash
+﻿#!/bin/bash
 git add .
 git commit -m “latest”
 git push origin master

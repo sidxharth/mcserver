@@ -1,176 +1,51 @@
-[18:37:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:37:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:37:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:37:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:37:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:37:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:37:04] [main/INFO]: Reloading ResourceManager: Default
-[18:37:04] [Worker-Main-12/INFO]: Loaded 7 recipes
-[18:37:05] [Worker-Main-12/INFO]: Loaded 927 advancements
-[18:37:07] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[18:37:07] [Server thread/INFO]: Loading properties
-[18:37:07] [Server thread/INFO]: Default game type: SURVIVAL
-[18:37:07] [Server thread/INFO]: Generating keypair
-[18:37:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:37:07] [Server thread/INFO]: Using epoll channel type
-[18:37:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:37:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:37:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:37:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:37:07] [Server thread/INFO]: Preparing level "world"
-[18:37:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[18:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[18:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[18:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[18:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[18:37:10] [Server thread/INFO]: Preparing spawn area: 0%
-[18:37:10] [Server thread/INFO]: Time elapsed: 2923 ms
-[18:37:10] [Server thread/INFO]: Done (3.159s)! For help, type "help"
-[18:38:18] [Server thread/INFO]: sidmeister[/127.0.0.1:37014] logged in with entity id 74 at (71.99977726729651, 75.0, -529.4514078384888)
-[18:38:18] [Server thread/INFO]: sidmeister joined the game
-[18:40:52] [Server thread/INFO]: wavywavewalker[/127.0.0.1:37028] logged in with entity id 1832 at (70.68483536444421, 62.0, -663.7876332656681)
-[18:40:52] [Server thread/INFO]: wavywavewalker joined the game
-[18:41:22] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:41:22] [Server thread/INFO]: wavywavewalker left the game
-[18:41:38] [Server thread/INFO]: wavywavewalker[/127.0.0.1:37030] logged in with entity id 2327 at (95.73868452590145, 55.0, -659.3196820365797)
-[18:41:38] [Server thread/INFO]: wavywavewalker joined the game
-[18:41:47] [Server thread/INFO]: jamescxraft[/127.0.0.1:37034] logged in with entity id 2625 at (-96.56638781159478, 65.17675927506424, -532.5105992982703)
-[18:41:47] [Server thread/INFO]: jamescxraft joined the game
-[18:41:53] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[18:41:53] [Server thread/INFO]: wavywavewalker left the game
-[18:43:23] [Server thread/INFO]: RitikKhatri[/127.0.0.1:37038] logged in with entity id 3806 at (196.45958188663957, 78.02442408821369, -497.9496364391672)
-[18:43:23] [Server thread/INFO]: RitikKhatri joined the game
-[18:45:34] [Server thread/INFO]: <sidmeister> hi
-[18:45:36] [Server thread/INFO]: <jamescxraft> hey
-[18:45:49] [Server thread/INFO]: <RitikKhatri> it didnt save?
-[18:45:49] [Server thread/INFO]: <sidmeister> u like it here?
-[18:46:01] [Server thread/INFO]: <sidmeister> saved hai bro
-[18:46:10] [Server thread/INFO]: <jamescxraft> haan i'm trying to make a mob farm
-[18:46:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/4778, l='ServerLevel[world]', x=201.12, y=72.11, z=-491.13]
-[18:46:43] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[18:46:43] [Server thread/INFO]: sidmeister left the game
-[18:47:59] [Server thread/INFO]: shobhit_joe[/127.0.0.1:37058] logged in with entity id 5525 at (-99.70934698039119, 59.0, -479.34254395827406)
-[18:47:59] [Server thread/INFO]: shobhit_joe joined the game
-[18:48:34] [Server thread/INFO]: <shobhit_joe> roll back hua kya
-[18:48:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5910, l='ServerLevel[world]', x=240.17, y=79.00, z=-553.17]
-[18:49:40] [Server thread/INFO]: <RitikKhatri> yes
-[18:49:41] [Server thread/INFO]: <jamescxraft> aaja
-[18:50:22] [Server thread/INFO]: <jamescxraft> we'll make it here
-[18:50:27] [Server thread/INFO]: <shobhit_joe> kya
-[18:50:38] [Server thread/INFO]: <jamescxraft> mob farm
-[18:50:43] [Server thread/INFO]: <jamescxraft> oof forgot something wait
-[18:50:43] [Server thread/INFO]: <shobhit_joe> oh
-[18:50:59] [Server thread/INFO]: <shobhit_joe> xp farm hai waise already
-[18:51:17] [Server thread/INFO]: <jamescxraft> arre it'll provide lots of bonemeal, gunpowder and rotten flesh for gems
-[18:51:31] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[18:51:31] [Server thread/INFO]: RitikKhatri left the game
-[18:51:52] [Server thread/INFO]: <shobhit_joe> bhai emerald ki bhi kami nahi hai
-[18:52:03] [Server thread/INFO]: <jamescxraft> bada socho baccha
-[18:52:14] [Server thread/INFO]: sidmeister[/127.0.0.1:37068] logged in with entity id 7143 at (109.10744615689669, 76.0, -530.1579207789588)
-[18:52:14] [Server thread/INFO]: sidmeister joined the game
-[18:52:46] [Server thread/INFO]: RitikKhatri[/127.0.0.1:37072] logged in with entity id 7619 at (184.05634842152517, 76.0, -479.33258596025195)
-[18:52:46] [Server thread/INFO]: RitikKhatri joined the game
-[18:53:18] [Server thread/INFO]: <shobhit_joe> arre suno wither se ladna hai kya ?
-[18:53:52] [Server thread/INFO]: <jamescxraft> i'm lagging too much mai nahi lad paoonga
-[18:54:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8816, l='ServerLevel[world]', x=99.62, y=55.00, z=-632.33]
-[18:55:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9343, l='ServerLevel[world]', x=101.15, y=55.00, z=-630.20]
-[18:58:47] [Server thread/INFO]: <sidmeister> kab ladna hai?
-[18:59:11] [Server thread/INFO]: <shobhit_joe> wither skulls hai ?
-[18:59:17] [Server thread/INFO]: <sidmeister> tere paas hai ek
-[18:59:21] [Server thread/INFO]: <sidmeister> chal lene aur
-[18:59:23] [Server thread/INFO]: <shobhit_joe> haan baaki do
-[18:59:28] [Server thread/INFO]: <shobhit_joe> chal
-[18:59:31] [Server thread/INFO]: <sidmeister> looting 3 waali sowrd laiyo
-[19:00:48] [Server thread/INFO]: <sidmeister> mkc iski
-[19:01:04] [Server thread/INFO]: <shobhit_joe> bhai tujhe creeper dikhai diya tha
-[19:01:14] [Server thread/INFO]: <sidmeister> nahi
-[19:01:15] [Server thread/INFO]: <RitikKhatri> bhai normal mode karo
-[19:01:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/13374, l='ServerLevel[world]', x=201.12, y=72.10, z=-491.20]
-[19:01:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/13380, l='ServerLevel[world]', x=201.12, y=72.10, z=-491.20]
-[19:01:26] [Server thread/INFO]: <sidmeister> no
-[19:01:29] [Server thread/INFO]: <shobhit_joe> us din jo tere do chest explode hue the
-[19:01:44] [Server thread/INFO]: <shobhit_joe> tab bhi nahi dikhete creepers mujhe
-[19:02:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/13702, l='ServerLevel[world]', x=239.21, y=79.00, z=-549.44]
-[19:02:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/13948, l='ServerLevel[world]', x=201.12, y=72.10, z=-491.20]
-[19:03:58] [Server thread/INFO]: <sidmeister> vro jukebox kithhe gaya?
-[19:05:56] [Server thread/INFO]: <sidmeister> chal shobhit
-[19:06:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/15881, l='ServerLevel[world]', x=201.12, y=72.10, z=-491.06]
-[19:06:25] [Server thread/INFO]: <jamescxraft> wither ko iron golems se maar do
-[19:06:33] [Server thread/INFO]: <jamescxraft> zyada aasan nahi rahega
-[19:06:44] [Server thread/INFO]: <sidmeister> kaha gaya
-[19:06:57] [Server thread/INFO]: <sidmeister> tleather kyu pehna hai upar?
-[19:06:58] [Server thread/INFO]: <shobhit_joe> skulls lene jaa rahe abhi toh
-[19:07:25] [Server thread/INFO]: <sidmeister> ruk
-[19:07:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16800, l='ServerLevel[world]', x=99.20, y=55.00, z=-631.16]
-[19:08:10] [Server thread/INFO]: <sidmeister> tidhar nahi hai
-[19:08:36] [Server thread/INFO]: <sidmeister> rockets lele
-[19:09:47] [Server thread/INFO]: <sidmeister> tupar aja
-[19:10:48] [Server thread/INFO]: sidmeister has completed the challenge [Hot Tourist Destinations]
-[19:10:53] [Server thread/INFO]: <RitikKhatri> what?
-[19:11:07] [Server thread/INFO]: <sidmeister> basalt
-[19:11:13] [Server thread/INFO]: <RitikKhatri> oh
-[19:11:28] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[19:11:28] [Server thread/INFO]: RitikKhatri left the game
-[19:11:40] [Server thread/INFO]: sidmeister has made the advancement [A Terrible Fortress]
-[19:13:20] [Server thread/INFO]: <sidmeister> follow me
-[19:14:52] [Server thread/INFO]: <sidmeister> kaha gaye sab
-[19:15:02] [Server thread/INFO]: The difficulty has been set to Hard
-[19:16:18] [Server thread/INFO]: sidmeister withered away
-[19:16:53] [Server thread/INFO]: <sidmeister> ritik creepers hai kahin
-[19:17:02] [Server thread/INFO]: <sidmeister> channeling time
-[19:18:30] [Server thread/INFO]: <shobhit_joe> sid tujhe mila tha kya skull ?
-[19:19:08] [Server thread/INFO]: <shobhit_joe> sid ??
-[19:19:15] [Server thread/INFO]: sidmeister was blown up by Creeper
-[19:20:14] [Server thread/INFO]: <sidmeister> mil gaya ekaur
-[19:20:21] [Server thread/INFO]: <shobhit_joe> mujhe bhi
-[19:21:01] [Server thread/INFO]: <shobhit_joe> oye chal yaar mai nikal raha
-[19:21:03] [Server thread/INFO]: shobhit_joe lost connection: Disconnected
-[19:21:03] [Server thread/INFO]: shobhit_joe left the game
-[19:23:07] [Server thread/INFO]: Set the weather to rain & thunder
-[19:26:34] [Server thread/INFO]: sidmeister was slain by Zombie
-[19:27:54] [Server thread/INFO]: sidmeister was slain by Zombie
-[19:28:25] [Server thread/INFO]: Set the weather to rain & thunder
-[19:31:17] [Server thread/INFO]: sidmeister was blown up by Creeper
-[19:32:34] [Server thread/INFO]: sidmeister was shot by Skeleton
-[19:34:00] [Server thread/INFO]: Incorrect argument for command
-[19:34:00] [Server thread/INFO]: /weather storm<--[HERE]
-[19:34:09] [Server thread/INFO]: Incorrect argument for command
-[19:34:09] [Server thread/INFO]: /weather storm<--[HERE]
-[19:34:14] [Server thread/INFO]: Set the weather to rain & thunder
-[19:39:16] [Server thread/WARN]: Trying to add entity with duplicated UUID 8bd72ed3-1d58-4110-924c-f232bd845890. Existing minecraft:armor_stand#31864, new: minecraft:armor_stand#31864
-[19:39:17] [Server thread/WARN]: Trying to add entity with duplicated UUID 9b9b5ce8-20da-46ea-8150-8e60882dda92. Existing minecraft:armor_stand#31871, new: minecraft:armor_stand#31871
-[19:39:17] [Server thread/WARN]: Trying to add entity with duplicated UUID 1f4fa74b-449b-4193-a65e-8db9b1f7de66. Existing minecraft:armor_stand#31872, new: minecraft:armor_stand#31872
-[19:39:19] [Server thread/WARN]: Trying to add entity with duplicated UUID 69c8c7ff-4369-462d-8f30-724a880adda7. Existing minecraft:armor_stand#31875, new: minecraft:armor_stand#31875
-[19:39:21] [Server thread/WARN]: Trying to add entity with duplicated UUID 7758d340-077c-4892-8f9b-ae0ed914299b. Existing minecraft:armor_stand#31878, new: minecraft:armor_stand#31878
-[19:49:39] [Server thread/INFO]: <sidmeister> bro can u bring me a saddle if u're nearby
-[19:49:58] [Server thread/INFO]: <jamescxraft> i'm at y 164
-[19:50:20] [Server thread/INFO]: <sidmeister> chhod
-[19:50:58] [Server thread/WARN]: Skeleton Horse (vehicle of sidmeister) moved wrongly! 0.26979508367938365
-[19:51:04] [Server thread/INFO]: <jamescxraft> what are you taming
-[19:51:07] [Server thread/INFO]: <jamescxraft> strider?
-[19:51:11] [Server thread/INFO]: <sidmeister> skeleton horse
-[19:51:17] [Server thread/INFO]: <jamescxraft> oh lol
-[19:53:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/36630, l='ServerLevel[world]', x=104.50, y=55.00, z=-630.20]
-[19:55:17] [Server thread/INFO]: <jamescxraft> chalo i've almost completed it
-[19:55:26] [Server thread/INFO]: <jamescxraft> dont go up i still have to wall it off
-[19:55:32] [Server thread/INFO]: <jamescxraft> will do some other day bye
-[19:55:34] [Server thread/INFO]: jamescxraft lost connection: Disconnected
-[19:55:34] [Server thread/INFO]: jamescxraft left the game
-[19:58:34] [Server thread/INFO]: sidmeister tried to swim in lava
-[20:01:35] [Server thread/INFO]: sidmeister tried to swim in lava
-[20:03:45] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[20:03:45] [Server thread/INFO]: sidmeister left the game
-[20:06:17] [Server thread/INFO]: Stopping the server
-[20:06:17] [Server thread/INFO]: Stopping server
-[20:06:17] [Server thread/INFO]: Saving players
-[20:06:17] [Server thread/INFO]: Saving worlds
-[20:06:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/56252, l='ServerLevel[world]', x=99.69, y=55.00, z=-632.81]
+[00:03:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/56740, l='ServerLevel[world]', x=102.13, y=55.00, z=-631.74]
+[00:06:25] [Server thread/INFO]: sidmeister was burnt to a crisp whilst fighting sidmeister
+[00:06:35] [Server thread/INFO]: <sidmeister> kaartik calling kaartik
+[00:07:03] [Server thread/INFO]: <sidmeister> checkout tower
+[00:07:11] [Server thread/INFO]: <wavywavewalker> aya'
+[00:07:24] [Server thread/INFO]: Incorrect argument for command
+[00:07:24] [Server thread/INFO]: /weather day<--[HERE]
+[00:07:32] [Server thread/INFO]: Incorrect argument for command
+[00:07:32] [Server thread/INFO]: /weather sunny<--[HERE]
+[00:07:36] [Server thread/INFO]: Set the weather to clear
+[00:08:26] [Server thread/INFO]: <wavywavewalker> daaaaammmmmmmnnnnn!!!!
+[00:08:30] [Server thread/INFO]: <sidmeister> burn khalisa
+[00:08:36] [Server thread/INFO]: <sidmeister> bunj khalisa
+[00:08:46] [Server thread/INFO]: <wavywavewalker> uppr janne ka koi rasta?
+[00:08:55] [Server thread/INFO]: <sidmeister> filhal nahi
+[00:09:12] [Server thread/INFO]: <wavywavewalker> acha!! mast hai
+[00:09:20] [Server thread/INFO]: <wavywavewalker> subhanallah
+[00:10:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58957, l='ServerLevel[world]', x=99.63, y=55.00, z=-630.77]
+[00:11:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59212, l='ServerLevel[world]', x=108.01, y=55.00, z=-634.35]
+[00:12:51] [Server thread/INFO]: <sidmeister> nishu want a skeleton horse?
+[00:13:10] [Server thread/INFO]: <sidmeister> bring saddle to my house
+[00:13:11] [Server thread/INFO]: <wavywavewalker> mei uss tym pakad ne
+[00:13:25] [Server thread/INFO]: <wavywavewalker> ki koshish ki thi prr mar gya tha
+[00:13:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59707, l='ServerLevel[world]', x=104.43, y=55.00, z=-630.20]
+[00:14:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60013, l='ServerLevel[world]', x=101.39, y=55.00, z=-632.32]
+[00:15:35] [Server thread/INFO]: <wavywavewalker> ye khata kya hai?
+[00:15:41] [Server thread/INFO]: <sidmeister> kuch ni
+[00:15:52] [Server thread/INFO]: <wavywavewalker> leesh kaise bnegi?
+[00:17:23] [Server thread/INFO]: <sidmeister> CHAL MEI CHALA
+[00:17:25] [Server thread/INFO]: <sidmeister> tbye
+[00:17:27] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[00:17:27] [Server thread/INFO]: sidmeister left the game
+[00:17:30] [Server thread/INFO]: <wavywavewalker> bye
+[00:18:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60908, l='ServerLevel[world]', x=102.75, y=55.00, z=-630.70]
+[00:18:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60913, l='ServerLevel[world]', x=106.67, y=55.00, z=-631.56]
+[00:19:37] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
+[00:19:37] [Server thread/INFO]: wavywavewalker left the game
+[00:19:52] [Server thread/INFO]: Stopping the server
+[00:19:52] [Server thread/INFO]: Stopping server
+[00:19:52] [Server thread/INFO]: Saving players
+[00:19:52] [Server thread/INFO]: Saving worlds
+[00:19:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:19:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:19:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:19:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
