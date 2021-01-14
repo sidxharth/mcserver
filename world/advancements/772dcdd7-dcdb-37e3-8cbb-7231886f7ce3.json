@@ -2379,6 +2379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-01-14 23:14:49 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-23 17:31:11 +0530"
