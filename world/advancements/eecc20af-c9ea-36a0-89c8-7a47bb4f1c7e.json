@@ -783,8 +783,10 @@
       "minecraft:cave_spider": "2020-12-25 14:28:07 +0530",
       "minecraft:piglin": "2020-12-22 12:05:11 +0530",
       "minecraft:enderman": "2020-12-14 00:55:04 +0530",
+      "minecraft:endermite": "2021-01-15 13:52:39 +0530",
       "minecraft:zombie": "2020-12-14 01:01:46 +0530",
-      "minecraft:drowned": "2020-12-26 17:40:22 +0530"
+      "minecraft:drowned": "2020-12-26 17:40:22 +0530",
+      "minecraft:zombie_villager": "2021-01-15 22:51:18 +0530"
     },
     "done": false
   },
@@ -3526,6 +3528,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-12-14 00:51:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-15 17:31:45 +0530"
     },
     "done": true
   },
