@@ -1,414 +1,88 @@
-[19:01:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:01:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:01:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:01:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:01:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:01:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:01:51] [main/INFO]: Reloading ResourceManager: Default
-[19:01:52] [Worker-Main-13/INFO]: Loaded 7 recipes
-[19:01:53] [Worker-Main-13/INFO]: Loaded 927 advancements
-[19:01:57] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[19:01:57] [Server thread/INFO]: Loading properties
-[19:01:57] [Server thread/INFO]: Default game type: SURVIVAL
-[19:01:57] [Server thread/INFO]: Generating keypair
-[19:01:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:01:58] [Server thread/INFO]: Using epoll channel type
-[19:01:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:01:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:01:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:01:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:01:58] [Server thread/INFO]: Preparing level "world"
-[19:01:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:02:03] [Server thread/INFO]: Preparing spawn area: 37%
-[19:02:04] [Server thread/INFO]: Time elapsed: 5595 ms
-[19:02:04] [Server thread/INFO]: Done (5.863s)! For help, type "help"
-[19:04:30] [Server thread/INFO]: sidmeister[/127.0.0.1:51398] logged in with entity id 74 at (106.70476346933243, 76.0, -535.143060559111)
-[19:04:30] [Server thread/INFO]: sidmeister joined the game
-[19:10:00] [Server thread/INFO]: jamescxraft[/127.0.0.1:51444] logged in with entity id 2250 at (-220.33888708043207, 197.0, -600.4496787199844)
-[19:10:00] [Server thread/INFO]: jamescxraft joined the game
-[19:15:47] [Server thread/INFO]: RitikKhatri[/127.0.0.1:51464] logged in with entity id 5101 at (-30.51249998807907, 31.0, -712.6125930048094)
-[19:15:47] [Server thread/INFO]: RitikKhatri joined the game
-[19:24:58] [Server thread/INFO]: <sidmeister> ritik ghar aa mere
-[19:25:04] [Server thread/INFO]: <sidmeister> neeche kahin witch hai mil nahi rahi
-[19:25:15] [Server thread/INFO]: <RitikKhatri> ik
-[19:25:34] [Server thread/INFO]: <RitikKhatri> just figured, u can rinf bell to hihlight enmies
-[19:25:34] [Server thread/INFO]: <sidmeister> :(
-[19:25:57] [Server thread/INFO]: <RitikKhatri> i stole this earlier
-[19:25:59] [Server thread/INFO]: <RitikKhatri> wait
-[19:26:37] [Server thread/INFO]: <sidmeister> nice
-[19:26:40] [Server thread/INFO]: <RitikKhatri> highlight kartahai
-[19:26:58] [Server thread/INFO]: <RitikKhatri> bruh it did while ago
-[19:27:01] [Server thread/INFO]: <RitikKhatri> uper
-[19:27:03] [Server thread/INFO]: <sidmeister> kyu waise
-[19:27:10] [Server thread/INFO]: <RitikKhatri> aya na
-[19:27:21] [Server thread/INFO]: <RitikKhatri> bilkul uper dekh
-[19:27:28] [Server thread/INFO]: <sidmeister> oooooooooooh
-[19:27:47] [Server thread/INFO]: <RitikKhatri> soem flors uper
-[19:28:40] [Server thread/INFO]: <RitikKhatri> milgyi?
-[19:28:45] [Server thread/INFO]: <sidmeister> haan
-[19:34:05] [Server thread/INFO]: <RitikKhatri> vibin
-[19:36:43] [Server thread/INFO]: <RitikKhatri> new anvil rakh diya maine ab
-[19:36:48] [Server thread/INFO]: <sidmeister> nice
-[19:37:16] [Server thread/INFO]: <sidmeister> impaling crossbow pe bhi lagta hai>
-[19:37:16] [Server thread/INFO]: <RitikKhatri> enchantment room me
-[19:37:21] [Server thread/INFO]: <RitikKhatri> idk
-[19:37:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/13772, l='ServerLevel[world]', x=201.12, y=72.10, z=-491.06]
-[19:37:40] [Server thread/INFO]: <sidmeister> no thats piercing
-[19:37:46] [Server thread/INFO]: <RitikKhatri> qucik charge bhi hota hai
-[19:37:50] [Server thread/INFO]: <sidmeister> haan
-[19:38:20] [Server thread/INFO]: RitikKhatri lost connection: Timed out
-[19:38:20] [Server thread/INFO]: RitikKhatri left the game
-[19:40:34] [Server thread/INFO]: RitikKhatri[/127.0.0.1:51564] logged in with entity id 14901 at (19.71959851252139, 61.00133597911215, -67.8052906689682)
-[19:40:34] [Server thread/INFO]: RitikKhatri joined the game
-[19:40:55] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[19:40:55] [Server thread/INFO]: sidmeister left the game
-[19:46:35] [Server thread/INFO]: sidmeister[/127.0.0.1:51656] logged in with entity id 16676 at (123.37763266116379, 74.0, -499.8534440483429)
-[19:46:35] [Server thread/INFO]: sidmeister joined the game
-[19:49:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-78, y=18, z=44} fx{x=-77, y=18, z=44}
-[19:49:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-78, y=18, z=44} fx{x=-77, y=18, z=44}
-[19:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:52:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
-[19:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
-[19:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[19:59:34] [Server thread/INFO]: jamescxraft fell from a high place
-[19:59:39] [Server thread/INFO]: <sidmeister> F
-[20:04:59] [Server thread/INFO]: <RitikKhatri> ek aur
-[20:05:25] [Server thread/INFO]: <RitikKhatri> space hai?
-[20:05:31] [Server thread/INFO]: <sidmeister> ya
-[20:05:35] [Server thread/INFO]: <sidmeister> lemme do it
-[20:05:41] [Server thread/INFO]: <RitikKhatri> mujhe
-[20:06:47] [Server thread/INFO]: <sidmeister> tandar jaa uske saath and die
-[20:07:10] [Server thread/INFO]: <sidmeister> bahar aa
-[20:07:15] [Server thread/WARN]: jamescxraft moved too quickly! 3.292911523335505,-5.714445580535653,18.023206852739122
-[20:07:16] [Server thread/INFO]: RitikKhatri was slain by Zombie Villager
-[20:07:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/28030, l='ServerLevel[world]', x=201.12, y=72.11, z=-491.13]
-[20:08:01] [Server thread/INFO]: <RitikKhatri> the one i cured previously died/disapered
-[20:08:39] [Server thread/INFO]: <RitikKhatri> bruh
-[20:08:43] [Server thread/INFO]: <RitikKhatri> mujhe chaiye tha
-[20:08:48] [Server thread/INFO]: <sidmeister> f
-[20:08:52] [Server thread/INFO]: <RitikKhatri> mai bola to
-[20:08:55] [Server thread/INFO]: <RitikKhatri> i need
-[20:09:04] [Server thread/INFO]: <RitikKhatri> mera pehle wala mar gya/disapered
-[20:09:09] [Server thread/INFO]: <jamescxraft> inhe kya banaoge
-[20:09:09] [Server thread/INFO]: <sidmeister> potion of strenth pe gp lagake lea
-[20:09:17] [Server thread/INFO]: <sidmeister> fir heal ni karega
-[20:09:29] [Server thread/INFO]: <sidmeister> splash potion og strngth
-[20:09:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/28914, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[20:09:44] [Server thread/INFO]: <RitikKhatri> stength kaise banta?
-[20:09:53] [Server thread/INFO]: <sidmeister> pada hai upar wali barrel mei
-[20:09:57] [Server thread/INFO]: <sidmeister> gp lagade bas
-[20:10:04] [Server thread/INFO]: <RitikKhatri> nhi hai
-[20:10:15] [Server thread/INFO]: <RitikKhatri> acha
-[20:10:17] [Server thread/INFO]: <RitikKhatri> vo wala
-[20:10:58] [Server thread/INFO]: <RitikKhatri> ab bta
-[20:11:04] [Server thread/INFO]: <RitikKhatri> isko maru?
-[20:11:08] [Server thread/INFO]: <sidmeister> han
-[20:11:45] [Server thread/INFO]: jamescxraft fell from a high place
-[20:11:50] [Server thread/INFO]: <sidmeister> tf
-[20:11:52] [Server thread/INFO]: <RitikKhatri> aur pade hai?
-[20:11:54] [Server thread/INFO]: <sidmeister> f
-[20:11:58] [Server thread/INFO]: <RitikKhatri> kya
-[20:11:59] [Server thread/INFO]: <sidmeister> kya?
-[20:12:08] [Server thread/INFO]: <RitikKhatri> waekness/goldern aple
-[20:12:17] [Server thread/INFO]: <sidmeister> ek hi hai
-[20:12:22] [Server thread/INFO]: <RitikKhatri> chal koi nhi
-[20:13:56] [Server thread/INFO]: <sidmeister> punch max?
-[20:14:07] [Server thread/INFO]: <RitikKhatri> 2
-[20:14:35] [Server thread/INFO]: <RitikKhatri> bruh he did healed?
-[20:14:41] [Server thread/INFO]: <sidmeister> oof
-[20:14:49] [Server thread/INFO]: <RitikKhatri> ye nitwit q bna
-[20:14:51] [Server thread/INFO]: <RitikKhatri> lol
-[20:14:58] [Server thread/INFO]: <sidmeister> tdonno
-[20:15:03] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[20:15:03] [Server thread/INFO]: RitikKhatri left the game
-[20:15:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-238, y=61, z=-442} fx{x=-241, y=60, z=-443}
-[20:15:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-241, y=62, z=-437} fx{x=-241, y=60, z=-436}
-[20:15:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-241, y=62, z=-437} fx{x=-241, y=60, z=-436}
-[20:16:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-249, y=62, z=-419} fx{x=-250, y=60, z=-420}
-[20:16:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-251, y=61, z=-419} fx{x=-251, y=59, z=-418}
-[20:16:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-251, y=61, z=-419} fx{x=-251, y=59, z=-418}
-[20:16:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-251, y=61, z=-419} fx{x=-251, y=59, z=-418}
-[20:17:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-269, y=61, z=-415} fx{x=-269, y=59, z=-415}
-[20:17:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-268, y=60, z=-413} fx{x=-268, y=60, z=-414}
-[20:17:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-268, y=61, z=-419} fx{x=-267, y=59, z=-419}
-[20:17:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-268, y=61, z=-419} fx{x=-267, y=59, z=-419}
-[20:17:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-268, y=61, z=-419} fx{x=-267, y=59, z=-419}
-[20:17:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-269, y=61, z=-419} fx{x=-267, y=59, z=-419}
-[20:17:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-268, y=61, z=-419} fx{x=-267, y=59, z=-420}
-[20:17:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=61, z=-423} fx{x=-254, y=59, z=-424}
-[20:17:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=61, z=-423} fx{x=-254, y=59, z=-424}
-[20:17:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=61, z=-423} fx{x=-254, y=59, z=-424}
-[20:17:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-254, y=61, z=-423} fx{x=-254, y=59, z=-424}
-[20:17:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-258, y=61, z=-423} fx{x=-259, y=59, z=-422}
-[20:17:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-262, y=61, z=-423} fx{x=-263, y=59, z=-421}
-[20:17:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-262, y=61, z=-423} fx{x=-263, y=59, z=-421}
-[20:22:46] [Server thread/INFO]: jamescxraft drowned
-[20:23:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-218, y=57, z=-624} fx{x=-218, y=56, z=-624}
-[20:24:27] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[20:24:27] [Server thread/INFO]: sidmeister left the game
-[20:29:51] [Server thread/INFO]: jamescxraft fell from a high place
-[20:34:08] [Server thread/INFO]: RitikKhatri[/127.0.0.1:51816] logged in with entity id 38816 at (122.83859271075855, 74.0, -500.3844753681118)
-[20:34:08] [Server thread/INFO]: RitikKhatri joined the game
-[20:34:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/39686, l='ServerLevel[world]', x=201.12, y=72.10, z=-491.06]
-[20:35:43] [Server thread/INFO]: jamescxraft fell from a high place
-[20:36:08] [Server thread/WARN]: jamescxraft moved too quickly! -5.426788873964881,-7.883417037590277,15.592838618680503
-[20:38:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/40750, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[20:40:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/41221, l='ServerLevel[world]', x=200.67, y=72.00, z=-491.88]
-[20:41:33] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[20:41:33] [Server thread/INFO]: RitikKhatri left the game
-[20:50:32] [Server thread/INFO]: sidmeister[/127.0.0.1:51914] logged in with entity id 42743 at (116.289280835261, 74.0, -499.89184215561386)
-[20:50:32] [Server thread/INFO]: sidmeister joined the game
-[20:58:46] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[20:58:46] [Server thread/INFO]: sidmeister left the game
-[21:05:44] [Server thread/INFO]: sidmeister[/127.0.0.1:52092] logged in with entity id 46812 at (116.42091870626126, 74.0, -494.51411021259514)
-[21:05:44] [Server thread/INFO]: sidmeister joined the game
-[21:19:54] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[21:19:54] [Server thread/INFO]: sidmeister left the game
-[21:20:17] [Server thread/INFO]: sidmeister[/127.0.0.1:52162] logged in with entity id 50672 at (128.03793048431282, 74.0, -526.8928427187993)
-[21:20:17] [Server thread/INFO]: sidmeister joined the game
-[21:21:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=161, y=68, z=-689} fx{x=162, y=67, z=-690}
-[21:21:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=161, y=68, z=-689} fx{x=162, y=67, z=-690}
-[21:21:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=161, y=68, z=-689} fx{x=162, y=67, z=-690}
-[21:23:56] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[21:23:56] [Server thread/INFO]: sidmeister left the game
-[21:32:13] [Server thread/INFO]: jamescxraft lost connection: Disconnected
-[21:32:13] [Server thread/INFO]: jamescxraft left the game
-[21:34:15] [Server thread/INFO]: sidmeister[/127.0.0.1:52188] logged in with entity id 55497 at (117.44921139985276, 74.0, -507.99468455703834)
-[21:34:15] [Server thread/INFO]: sidmeister joined the game
-[21:37:31] [Server thread/INFO]: Set the weather to clear
-[21:39:44] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52206] logged in with entity id 56986 at (116.84836484811531, 59.0, -638.1310770327996)
-[21:39:44] [Server thread/INFO]: wavywavewalker joined the game
-[21:40:38] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[21:40:38] [Server thread/INFO]: wavywavewalker left the game
-[21:40:41] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52212] logged in with entity id 57326 at (104.43334279709633, 69.0, -632.5738787556602)
-[21:40:41] [Server thread/INFO]: wavywavewalker joined the game
-[21:41:05] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[21:41:05] [Server thread/INFO]: wavywavewalker left the game
-[21:41:11] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52214] logged in with entity id 57481 at (103.52577087932475, 69.0, -632.3195550532914)
-[21:41:11] [Server thread/INFO]: wavywavewalker joined the game
-[21:41:41] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:41:41] [Server thread/INFO]: wavywavewalker left the game
-[21:41:47] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52218] logged in with entity id 57654 at (103.51727387731756, 69.0, -632.4853160411316)
-[21:41:47] [Server thread/INFO]: wavywavewalker joined the game
-[21:44:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58273, l='ServerLevel[world]', x=99.73, y=55.00, z=-630.35]
-[21:44:20] [Server thread/INFO]: <wavywavewalker> sleep
-[21:46:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/58993, l='ServerLevel[world]', x=100.61, y=55.00, z=-632.48]
-[21:48:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Ingot'/59581, l='ServerLevel[world]', x=217.13, y=59.68, z=-580.04]
-[21:49:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59961, l='ServerLevel[world]', x=99.71, y=55.00, z=-632.45]
-[21:50:03] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:50:03] [Server thread/INFO]: wavywavewalker left the game
-[21:50:16] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52222] logged in with entity id 60341 at (113.69184339304641, 68.0, -603.5407662938293)
-[21:50:16] [Server thread/INFO]: wavywavewalker joined the game
-[21:50:46] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:50:46] [Server thread/INFO]: wavywavewalker left the game
-[21:50:57] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52224] logged in with entity id 61071 at (107.24794865717273, 68.0, -603.8125003257551)
-[21:50:57] [Server thread/INFO]: wavywavewalker joined the game
-[21:51:27] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:51:27] [Server thread/INFO]: wavywavewalker left the game
-[21:51:31] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52226] logged in with entity id 62028 at (95.72296980378377, 68.0, -604.2443919509294)
-[21:51:31] [Server thread/INFO]: wavywavewalker joined the game
-[21:53:51] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[21:53:51] [Server thread/INFO]: sidmeister left the game
-[21:54:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63746, l='ServerLevel[world]', x=99.91, y=55.00, z=-632.93]
-[21:55:10] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[21:55:10] [Server thread/INFO]: wavywavewalker left the game
-[21:55:12] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52230] logged in with entity id 63930 at (106.487040924205, 69.0, -632.0886275748085)
-[21:55:12] [Server thread/INFO]: wavywavewalker joined the game
-[21:55:24] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[21:55:24] [Server thread/INFO]: wavywavewalker left the game
-[21:55:27] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52232] logged in with entity id 64525 at (117.05145008660085, 60.5, -633.2298056324693)
-[21:55:27] [Server thread/INFO]: wavywavewalker joined the game
-[21:55:57] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:55:57] [Server thread/INFO]: wavywavewalker left the game
-[21:56:21] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52234] logged in with entity id 65131 at (108.5, 55.0, -666.5)
-[21:56:21] [Server thread/INFO]: wavywavewalker joined the game
-[21:56:51] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:56:51] [Server thread/INFO]: wavywavewalker left the game
-[21:57:12] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52238] logged in with entity id 65715 at (108.5, 55.0, -666.5)
-[21:57:12] [Server thread/INFO]: wavywavewalker joined the game
-[21:57:13] [Server thread/INFO]: sidmeister[/127.0.0.1:52242] logged in with entity id 65995 at (-170.86367162962708, 63.0, -509.42263208078714)
-[21:57:13] [Server thread/INFO]: sidmeister joined the game
-[21:58:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/66725, l='ServerLevel[world]', x=100.22, y=55.00, z=-635.17]
-[21:59:13] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:59:13] [Server thread/INFO]: wavywavewalker left the game
-[21:59:19] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52244] logged in with entity id 68121 at (93.54041710369702, 68.0, -609.5339501252251)
-[21:59:19] [Server thread/INFO]: wavywavewalker joined the game
-[21:59:23] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[21:59:23] [Server thread/INFO]: sidmeister left the game
-[21:59:49] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[21:59:49] [Server thread/INFO]: wavywavewalker left the game
-[22:00:19] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52246] logged in with entity id 68771 at (96.04841852994547, 69.0, -609.504774726623)
-[22:00:19] [Server thread/INFO]: wavywavewalker joined the game
-[22:03:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/69793, l='ServerLevel[world]', x=106.08, y=55.00, z=-630.20]
-[22:03:51] [Server thread/INFO]: sidmeister[/127.0.0.1:52252] logged in with entity id 69897 at (-403.76987940600776, 75.0, 297.1203542968136)
-[22:03:51] [Server thread/INFO]: sidmeister joined the game
-[22:04:03] [Server thread/INFO]: <wavywavewalker> bhai idhr ye kuch log hai
-[22:04:09] [Server thread/INFO]: <sidmeister> ruk
-[22:04:18] [Server thread/INFO]: <wavywavewalker> inko mara to raid shuru ho jayegi kya?
-[22:04:40] [Server thread/INFO]: sidmeister tried to swim in lava
-[22:04:53] [Server thread/INFO]: <sidmeister> kidhar hain?
-[22:05:05] [Server thread/INFO]: <wavywavewalker> samne khade hai mere
-[22:05:11] [Server thread/INFO]: <wavywavewalker> jidhr mera ghr tha
-[22:05:36] [Server thread/INFO]: <sidmeister> boiz be prepared for raid
-[22:06:03] [Server thread/INFO]: <sidmeister> aa kyu nahi rahi
-[22:07:20] [Server thread/INFO]: <wavywavewalker> aqua infinity ka kya mtlab?
-[22:07:31] [Server thread/INFO]: <sidmeister> paani mai speed mai blocks mine kar sakta
-[22:07:53] [Server thread/INFO]: <sidmeister> magenta dye hai kisike paas?
-[22:08:12] [Server thread/INFO]: <wavywavewalker> ham 2 hi hai bss abhi game mei
-[22:09:10] [Server thread/INFO]: RitikKhatri[/127.0.0.1:52258] logged in with entity id 71578 at (110.2815048883949, 62.0, -499.6144131760994)
-[22:09:10] [Server thread/INFO]: RitikKhatri joined the game
-[22:09:23] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[22:09:23] [Server thread/INFO]: RitikKhatri left the game
-[22:10:25] [Server thread/INFO]: RitikKhatri[/127.0.0.1:52272] logged in with entity id 71844 at (110.2815048883949, 62.0, -499.6144131760994)
-[22:10:25] [Server thread/INFO]: RitikKhatri joined the game
-[22:10:26] [Server thread/INFO]: <sidmeister> ritik where to find magenta flowers
-[22:10:45] [Server thread/INFO]: <RitikKhatri> go flower mountain
-[22:10:48] [Server thread/INFO]: <sidmeister> twhere
-[22:10:55] [Server thread/INFO]: <sidmeister> portal yahin arah
-[22:10:55] [Server thread/INFO]: <RitikKhatri> mere sath chal
-[22:12:28] [Server thread/INFO]: <sidmeister> oof
-[22:12:30] [Server thread/INFO]: <sidmeister> nice
-[22:12:32] [Server thread/INFO]: <RitikKhatri> dhhodn le ab
-[22:14:01] [Server thread/INFO]: <RitikKhatri> pink+purple
-[22:14:11] [Server thread/INFO]: <sidmeister> alium = magenta
-[22:14:20] [Server thread/INFO]: <RitikKhatri> kewl
-[22:15:56] [Server thread/INFO]: <RitikKhatri> -1194,87,-572 if u get lost
-[22:16:00] [Server thread/INFO]: <RitikKhatri> im returning
-[22:16:15] [Server thread/INFO]: <sidmeister> arigato sensei
-[22:17:25] [Server thread/INFO]: sidmeister experienced kinetic energy
-[22:17:30] [Server thread/INFO]: <RitikKhatri> how
-[22:17:31] [Server thread/INFO]: <sidmeister> :/
-[22:17:38] [Server thread/INFO]: <sidmeister> speed mai crash
-[22:17:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1155, y=70, z=-569} fx{x=-1156, y=68, z=-568}
-[22:17:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1158, y=70, z=-567} fx{x=-1159, y=68, z=-567}
-[22:17:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1160, y=70, z=-567} fx{x=-1161, y=68, z=-567}
-[22:17:47] [Server thread/INFO]: <RitikKhatri> ke=1/2mv^2
-[22:17:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1161, y=70, z=-565} fx{x=-1162, y=68, z=-564}
-[22:17:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1161, y=70, z=-565} fx{x=-1162, y=68, z=-564}
-[22:17:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1161, y=70, z=-564} fx{x=-1163, y=68, z=-563}
-[22:17:49] [Server thread/INFO]: <RitikKhatri> ?
-[22:17:52] [Server thread/INFO]: <sidmeister> ahaha
-[22:17:53] [Server thread/INFO]: <sidmeister> ya
-[22:18:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1163, y=70, z=-567} fx{x=-1162, y=68, z=-568}
-[22:18:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1160, y=70, z=-569} fx{x=-1159, y=68, z=-570}
-[22:25:59] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[22:25:59] [Server thread/INFO]: sidmeister left the game
-[22:29:02] [Server thread/INFO]: sidmeister[/127.0.0.1:52288] logged in with entity id 78900 at (121.21745320993624, 74.0, -510.27439460135724)
-[22:29:02] [Server thread/INFO]: sidmeister joined the game
-[22:29:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/79036, l='ServerLevel[world]', x=238.07, y=79.00, z=-547.21]
-[22:29:52] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[22:29:52] [Server thread/INFO]: wavywavewalker left the game
-[22:29:57] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52290] logged in with entity id 79132 at (117.5747560586381, 57.0, -641.834879321418)
-[22:29:57] [Server thread/INFO]: wavywavewalker joined the game
-[22:30:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/79275, l='ServerLevel[world]', x=106.67, y=55.00, z=-630.20]
-[22:30:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/79275, l='ServerLevel[world]', x=106.67, y=55.00, z=-630.20]
-[22:30:57] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[22:30:57] [Server thread/INFO]: wavywavewalker left the game
-[22:31:11] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[22:31:11] [Server thread/INFO]: sidmeister left the game
-[22:31:12] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52292] logged in with entity id 79493 at (118.91898833957399, 57.0, -644.1868051191069)
-[22:31:12] [Server thread/INFO]: wavywavewalker joined the game
-[22:31:27] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[22:31:27] [Server thread/INFO]: wavywavewalker left the game
-[22:31:49] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52296] logged in with entity id 79640 at (118.91898833957399, 58.024424088213685, -644.1868051191069)
-[22:31:49] [Server thread/INFO]: wavywavewalker joined the game
-[22:36:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/80892, l='ServerLevel[world]', x=100.66, y=55.00, z=-634.17]
-[22:36:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/80892, l='ServerLevel[world]', x=100.66, y=55.00, z=-634.17]
-[22:36:49] [Server thread/INFO]: sidmeister[/127.0.0.1:52302] logged in with entity id 81023 at (126.84827479763267, 74.0, -491.67003486550124)
-[22:36:49] [Server thread/INFO]: sidmeister joined the game
-[22:38:20] [Server thread/INFO]: wavywavewalker lost connection: Timed out
-[22:38:20] [Server thread/INFO]: wavywavewalker left the game
-[22:38:44] [Server thread/INFO]: <sidmeister> thorns 3 lena ho yaha se leliyo
-[22:38:50] [Server thread/INFO]: <sidmeister> purple trading room
-[22:39:08] [Server thread/INFO]: <RitikKhatri> purlple?
-[22:39:18] [Server thread/INFO]: <sidmeister> ghar ke side mei hai
-[22:39:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/82022, l='ServerLevel[world]', x=105.72, y=55.00, z=-630.82]
-[22:39:50] [Server thread/INFO]: <RitikKhatri> brrrrrrrrrrrrrrrrrrrrrrrruh
-[22:40:26] [Server thread/INFO]: wavywavewalker[/127.0.0.1:52304] logged in with entity id 82426 at (136.42622789467225, 64.0, -586.5388393923322)
-[22:40:26] [Server thread/INFO]: wavywavewalker joined the game
-[22:40:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/82464, l='ServerLevel[world]', x=99.20, y=55.00, z=-634.67]
-[22:41:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/82634, l='ServerLevel[world]', x=99.81, y=55.00, z=-634.44]
-[22:43:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/83649, l='ServerLevel[world]', x=201.12, y=72.11, z=-491.13]
-[22:43:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/83845, l='ServerLevel[world]', x=200.75, y=72.00, z=-491.88]
-[22:43:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/83859, l='ServerLevel[world]', x=200.65, y=72.00, z=-491.88]
-[22:43:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/83860, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[22:43:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/83898, l='ServerLevel[world]', x=201.01, y=72.10, z=-491.40]
-[22:43:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/83985, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[22:43:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/84075, l='ServerLevel[world]', x=200.64, y=72.00, z=-491.88]
-[22:43:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/84098, l='ServerLevel[world]', x=201.12, y=72.11, z=-491.13]
-[22:44:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/84124, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[22:44:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/84163, l='ServerLevel[world]', x=200.77, y=72.02, z=-491.88]
-[22:44:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/84173, l='ServerLevel[world]', x=200.74, y=72.00, z=-491.88]
-[22:44:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/84188, l='ServerLevel[world]', x=200.83, y=72.00, z=-491.88]
-[22:44:41] [Server thread/INFO]: <RitikKhatri> jab smelting comple jo jae taboff kar mat bhulio
-[22:44:47] [Server thread/INFO]: <sidmeister> ok sorrz
-[22:44:49] [Server thread/INFO]: <RitikKhatri> lever up == off
-[22:46:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/85225, l='ServerLevel[world]', x=200.98, y=72.07, z=-491.54]
-[22:46:45] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[22:46:45] [Server thread/INFO]: sidmeister left the game
-[22:46:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/85355, l='ServerLevel[world]', x=201.12, y=72.11, z=-491.07]
-[22:47:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/85640, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[22:47:53] [Server thread/INFO]: sidmeister[/127.0.0.1:52312] logged in with entity id 85878 at (115.56625829995978, 76.0, -528.8403777541346)
-[22:47:53] [Server thread/INFO]: sidmeister joined the game
-[22:47:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/85923, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[22:48:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/86053, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[22:48:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/86220, l='ServerLevel[world]', x=104.03, y=55.00, z=-631.01]
-[22:48:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/86221, l='ServerLevel[world]', x=201.12, y=72.10, z=-491.20]
-[22:49:05] [Server thread/INFO]: sidmeister was slain by Zombie
-[22:52:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/87945, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[22:55:46] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[22:55:46] [Server thread/INFO]: sidmeister left the game
-[22:56:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/89284, l='ServerLevel[world]', x=101.20, y=55.00, z=-632.18]
-[23:01:22] [Server thread/INFO]: sidmeister[/127.0.0.1:52542] logged in with entity id 90719 at (114.48750001192093, 76.0, -525.9584792066361)
-[23:01:22] [Server thread/INFO]: sidmeister joined the game
-[23:01:36] [Server thread/INFO]: <RitikKhatri> i have a mason now
-[23:01:42] [Server thread/INFO]: <RitikKhatri> dont throw andesite
-[23:01:46] [Server thread/INFO]: <sidmeister> ok
-[23:01:48] [Server thread/INFO]: <RitikKhatri> trade it for emerlds
-[23:05:14] [Server thread/INFO]: <RitikKhatri> good night
-[23:05:15] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[23:05:15] [Server thread/INFO]: RitikKhatri left the game
-[23:05:20] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[23:05:20] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[23:15:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/96897, l='ServerLevel[world]', x=201.12, y=72.09, z=-491.07]
-[23:16:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/97277, l='ServerLevel[world]', x=101.78, y=55.00, z=-634.22]
-[23:17:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/97414, l='ServerLevel[world]', x=99.65, y=55.00, z=-634.27]
-[23:19:40] [Server thread/INFO]: <sidmeister> gn bro
-[23:19:47] [Server thread/INFO]: <wavywavewalker> gn
-[23:19:49] [Server thread/INFO]: sidmeister lost connection: Disconnected
-[23:19:49] [Server thread/INFO]: sidmeister left the game
-[23:27:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/99258, l='ServerLevel[world]', x=99.66, y=55.00, z=-630.20]
-[23:35:00] [Server thread/INFO]: [Server] band kardu?
-[23:35:11] [Server thread/INFO]: <wavywavewalker> ok
-[23:35:14] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[23:35:14] [Server thread/INFO]: wavywavewalker left the game
-[23:35:17] [Server thread/INFO]: Stopping the server
-[23:35:17] [Server thread/INFO]: Stopping server
-[23:35:17] [Server thread/INFO]: Saving players
-[23:35:17] [Server thread/INFO]: Saving worlds
-[23:35:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:35:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:35:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:35:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:35:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:35:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:35:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:35:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:35:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:29:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:29:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:29:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:29:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:29:13] [main/INFO]: Reloading ResourceManager: Default
+[18:29:14] [Worker-Main-12/INFO]: Loaded 7 recipes
+[18:29:15] [Worker-Main-12/INFO]: Loaded 927 advancements
+[18:29:17] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[18:29:17] [Server thread/INFO]: Loading properties
+[18:29:17] [Server thread/INFO]: Default game type: SURVIVAL
+[18:29:17] [Server thread/INFO]: Generating keypair
+[18:29:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:29:17] [Server thread/INFO]: Using epoll channel type
+[18:29:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:29:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:29:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:29:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:29:17] [Server thread/INFO]: Preparing level "world"
+[18:29:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:29:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:29:21] [Server thread/INFO]: Preparing spawn area: 58%
+[18:29:21] [Server thread/INFO]: Time elapsed: 3414 ms
+[18:29:21] [Server thread/INFO]: Done (3.558s)! For help, type "help"
+[18:30:17] [Server thread/INFO]: sidmeister[/127.0.0.1:38414] logged in with entity id 76 at (123.42447232228102, 74.0, -524.3285482525292)
+[18:30:17] [Server thread/INFO]: sidmeister joined the game
+[18:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[18:30:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[18:30:46] [Server thread/INFO]: The difficulty has been set to Hard
+[18:40:22] [Server thread/INFO]: wavywavewalker[/127.0.0.1:38426] logged in with entity id 3878 at (102.33117748042683, 71.0, -605.5304788147596)
+[18:40:22] [Server thread/INFO]: wavywavewalker joined the game
+[18:46:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5931, l='ServerLevel[world]', x=99.91, y=55.00, z=-634.99]
+[18:50:56] [Server thread/INFO]: sidmeister has completed the challenge [Return to Sender]
+[18:51:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7719, l='ServerLevel[world]', x=99.20, y=55.00, z=-633.75]
+[19:01:52] [Server thread/INFO]: sidmeister was slain by Zombie
+[19:10:10] [Server thread/INFO]: sidmeister has made the advancement [A Seedy Place]
+[19:11:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11943, l='ServerLevel[world]', x=100.10, y=55.00, z=-633.76]
+[19:11:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11989, l='ServerLevel[world]', x=99.20, y=55.00, z=-634.72]
+[19:12:19] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[19:12:19] [Server thread/INFO]: sidmeister left the game
+[19:14:59] [Server thread/INFO]: sidmeister[/127.0.0.1:38446] logged in with entity id 12592 at (112.80570778830554, 74.0, -504.67806456972517)
+[19:14:59] [Server thread/INFO]: sidmeister joined the game
+[19:21:00] [Server thread/INFO]: <sidmeister> bro sheeps hain?
+[19:21:10] [Server thread/INFO]: <wavywavewalker> na..
+[19:21:20] [Server thread/INFO]: <wavywavewalker> mei abhi shuru krunga sheep farm
+[19:21:42] [Server thread/INFO]: <wavywavewalker> waha peeche se lunga...jidhr rang virangi sheeps hai
+[19:24:59] [Server thread/INFO]: <sidmeister> lever pel diya tha galti se
+[19:25:12] [Server thread/INFO]: <wavywavewalker> oh avha
+[19:25:15] [Server thread/INFO]: <wavywavewalker> haha
+[19:27:05] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
+[19:27:05] [Server thread/INFO]: wavywavewalker left the game
+[19:27:07] [Server thread/INFO]: wavywavewalker[/127.0.0.1:38454] logged in with entity id 15559 at (103.48750001192093, 69.0, -632.4996449281157)
+[19:27:07] [Server thread/INFO]: wavywavewalker joined the game
+[19:27:23] [Server thread/INFO]: wavywavewalker lost connection: Timed out
+[19:27:23] [Server thread/INFO]: wavywavewalker left the game
+[19:28:10] [Server thread/INFO]: wavywavewalker[/127.0.0.1:38456] logged in with entity id 15749 at (103.68242876468987, 69.0, -632.3500726267948)
+[19:28:10] [Server thread/INFO]: wavywavewalker joined the game
+[19:37:41] [Server thread/INFO]: wavywavewalker lost connection: Timed out
+[19:37:41] [Server thread/INFO]: wavywavewalker left the game
+[19:38:01] [Server thread/INFO]: wavywavewalker[/127.0.0.1:38464] logged in with entity id 17625 at (99.66054523889841, 74.0, -607.5333259988479)
+[19:38:01] [Server thread/INFO]: wavywavewalker joined the game
+[19:39:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17932, l='ServerLevel[world]', x=107.02, y=55.00, z=-630.20]
+[19:39:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/17932, l='ServerLevel[world]', x=107.02, y=55.00, z=-630.20]
+[19:45:31] [Server thread/INFO]: sidmeister lost connection: Disconnected
+[19:45:31] [Server thread/INFO]: sidmeister left the game
+[19:49:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19728, l='ServerLevel[world]', x=100.40, y=55.00, z=-631.14]
+[19:57:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21203, l='ServerLevel[world]', x=107.03, y=55.00, z=-634.03]
+[20:12:01] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
+[20:12:01] [Server thread/INFO]: wavywavewalker left the game
+[20:34:54] [Server thread/INFO]: Stopping the server
+[20:34:54] [Server thread/INFO]: Stopping server
+[20:34:54] [Server thread/INFO]: Saving players
+[20:34:54] [Server thread/INFO]: Saving worlds
+[20:34:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:34:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:34:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:34:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:34:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:34:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:34:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:34:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:34:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
