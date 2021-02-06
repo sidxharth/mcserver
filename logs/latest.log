@@ -1,31 +1,17 @@
-[00:00:02] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[00:00:02] [Server thread/INFO]: wavywavewalker left the game
-[00:00:02] [Server thread/INFO]: wavywavewalker[/0:0:0:0:0:0:0:1:30978] logged in with entity id 30081 at (114.21996853300604, 69.0, -629.6674641232554)
-[00:00:02] [Server thread/INFO]: wavywavewalker joined the game
-[00:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
-[00:00:15] [Server thread/INFO]: <RitikKhatri> band kar rha server
-[00:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[00:00:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30184, l='ServerLevel[world]', x=99.20, y=55.00, z=-633.03]
-[00:00:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/30184, l='ServerLevel[world]', x=99.20, y=55.00, z=-633.03]
-[00:00:34] [Server thread/INFO]: <RitikKhatri> good night
-[00:00:36] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
-[00:00:36] [Server thread/INFO]: RitikKhatri left the game
-[00:00:37] [Server thread/INFO]: <wavywavewalker> ok
-[00:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
-[00:00:44] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
-[00:00:44] [Server thread/INFO]: wavywavewalker left the game
-[00:00:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:00:51] [Server thread/INFO]: stopop<--[HERE]
-[00:00:54] [Server thread/INFO]: Stopping the server
-[00:00:54] [Server thread/INFO]: Stopping server
-[00:00:54] [Server thread/INFO]: Saving players
-[00:00:54] [Server thread/INFO]: Saving worlds
-[00:00:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:00:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:00:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:00:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:03:31] [Server thread/INFO]: wavywavewalker lost connection: Disconnected
+[00:03:31] [Server thread/INFO]: wavywavewalker left the game
+[00:04:11] [Server thread/INFO]: RitikKhatri lost connection: Disconnected
+[00:04:11] [Server thread/INFO]: RitikKhatri left the game
+[00:21:16] [Server thread/INFO]: Stopping the server
+[00:21:16] [Server thread/INFO]: Stopping server
+[00:21:16] [Server thread/INFO]: Saving players
+[00:21:16] [Server thread/INFO]: Saving worlds
+[00:21:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:21:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:21:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:21:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:21:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:21:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:21:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:21:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:21:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
